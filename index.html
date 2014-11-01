@@ -1,74 +1,435 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="description" content="Seanseah.github.io : ">
-
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
-
-    <title>Seanseah.github.io</title>
-  </head>
-
-  <body>
-
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/seanseah">View on GitHub</a>
-
-          <h1 id="project_title">Seanseah.github.io</h1>
-          <h2 id="project_tagline"></h2>
-
-        </header>
-    </div>
-
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <h3>
-<a name="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages"><span class="octicon octicon-link"></span></a>Welcome to GitHub Pages.</h3>
-
-<p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:</p>
-
-<pre><code>$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
-</code></pre>
-
-<p>If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.</p>
-
-<h3>
-<a name="designer-templates" class="anchor" href="#designer-templates"><span class="octicon octicon-link"></span></a>Designer Templates</h3>
-
-<p>We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.</p>
-
-<h3>
-<a name="rather-drive-stick" class="anchor" href="#rather-drive-stick"><span class="octicon octicon-link"></span></a>Rather Drive Stick?</h3>
-
-<p>If you prefer to not use the automatic generator, push a branch named <code>gh-pages</code> to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.</p>
-
-<h3>
-<a name="authors-and-contributors" class="anchor" href="#authors-and-contributors"><span class="octicon octicon-link"></span></a>Authors and Contributors</h3>
-
-<p>You can <a href="https://github.com/blog/821" class="user-mention">@mention</a> a GitHub username to generate a link to their profile. The resulting <code>&lt;a&gt;</code> element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (<a href="https://github.com/defunkt" class="user-mention">@defunkt</a>), PJ Hyett (<a href="https://github.com/pjhyett" class="user-mention">@pjhyett</a>), and Tom Preston-Werner (<a href="https://github.com/mojombo" class="user-mention">@mojombo</a>) founded GitHub.</p>
-
-<h3>
-<a name="support-or-contact" class="anchor" href="#support-or-contact"><span class="octicon octicon-link"></span></a>Support or Contact</h3>
-
-<p>Having trouble with Pages? Check out the documentation at <a href="http://help.github.com/pages">http://help.github.com/pages</a> or contact <a href="mailto:support@github.com">support@github.com</a> and we’ll help you sort it out.</p>
-      </section>
-    </div>
-
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
-
-    
-
-  </body>
-</html>
+---
+layout: home
+title: Latest Posts
+description: "The personal blog of Hossain Mohd. Faysal, a doctoral candidate in Electrical Engineering at University of Pennsylvania."
+headline: An Engineer's Diary
+tags: [Hossain, Mohd, Faysal, electrical, engineering, blog, university, pennsylvania, doha, Qatar]
+---
+{% if site.paginate %}
+	{% for post in paginator.posts %}
+		{% if site.wpm %}
+		{% assign readtime = post.content | strip_html | number_of_words | append: '.0' | divided_by:site.wpm %}
+		{% else %}
+		{% assign readtime = post.content | strip_html | number_of_words | append: '.0' | divided_by:180 %}
+		{% endif %}
+		{% assign modifiedtime = post.modified | date: "%Y%m%d" %}
+		{% assign posttime = post.date | date: "%Y%m%d" %}
+			{% if post.type == 'quote' %}
+			<div class="row">
+	            <article class="post col-md-10 col-md-offset-1">
+	            	<header class="post-header">
+	                    <h2 class="post-title text-center super lighter">
+	                        <a href="{{ site.url }}{{ post.url }}"><i class="icon-quote-left"></i> {{ post.excerpt | strip_html }}</a>
+	                    </h2>
+	                    <p class="light small text-center">
+	                        Share this Quote
+	                    </p>
+	                    <ul class="social-mini text-center">
+	                        <li>
+	                            <a href="https://twitter.com/intent/tweet?text=&quot;{{ post.title }}&quot;%20{{ site.url }}{{ post.url }}%20via%20&#64;{{ site.owner.twitter }}"
+	                            onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" data-toggle="tooltip" title="Share on Twitter">
+	                                <i class="icon-twitter"></i>
+	                            </a>
+	                        </li>
+	                        <li>
+	                            <a  href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ post.url }}"
+	                            onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;" data-toggle="tooltip" title="Share on Facebook">
+	                                <i class="icon-facebook"></i>
+	                            </a>
+	                        </li>
+	                        <li>
+	                            <a href="https://plus.google.com/share?url={{ site.url }}{{ post.url }}"
+	                           onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;" data-toggle="tooltip" title="Share on Google plus">
+	                                <i class="icon-google-plus"></i>
+	                            </a>
+	                        </li>
+	                    </ul>
+			            <div class="post-body bordered-bottom text-center">
+			                {% if post.description %}
+			                <a href="{{ site.url }}{{ post.url }}" data-toggle="tooltip" title="{{ post.description }}" class="more-link btn btn-danger btn-large">
+			                    <i class="icon-link"></i> permalink...
+			                </a>
+			                {% else %}
+			                <a href="{{ site.url }}{{ post.url }}" data-toggle="tooltip" title="Read more about {{ post.title }}" class="more-link btn btn-danger btn-large">
+			                    <i class="icon-link"></i> permalink...
+			                </a>
+			                {% endif %}
+			            </div>
+	                </header>
+	            </article>
+	        </div>
+	        {% endif %}
+	        {% if post.type == 'status' %}
+	        <div class="row">
+	            <article class="post col-md-10 col-md-offset-1">
+	               <header class="post-header">
+	                    <h2 class="post-title text-center super lighter">
+	                        <a href="{{ site.url }}{{ post.url }}" style="color: #c91b26"><i class="icon-retweet"></i> "{{ post.excerpt | strip_html }}"</a>
+	                    </h2>
+	                    <p class="light small text-center">
+	                        Share this Status
+	                    </p>
+	                    <ul class="social-mini text-center">
+	                        <li>
+	                            <a href="https://twitter.com/intent/tweet?text=&quot;{{ post.title }}&quot;%20{{ site.url }}{{ post.url }}%20via%20&#64;{{ site.owner.twitter }}"
+	                            onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" data-toggle="tooltip" title="Share on Twitter">
+	                                <i class="icon-twitter"></i>
+	                            </a>
+	                        </li>
+	                        <li>
+	                            <a  href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ post.url }}"
+	                            onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;" data-toggle="tooltip" title="Share on Facebook">
+	                                <i class="icon-facebook"></i>
+	                            </a>
+	                        </li>
+	                        <li>
+	                            <a href="https://plus.google.com/share?url={{ site.url }}{{ post.url }}"
+	                           onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;" data-toggle="tooltip" title="Share on Google plus">
+	                                <i class="icon-google-plus"></i>
+	                            </a>
+	                        </li>
+	                    </ul>
+	                    <div class="post-info text-center small">
+	                        Status posted @ <time datetime="{{ post.date | date_to_xmlschema }}" class="post-time">{{ post.date | date: "%d %b %Y" }}</time>{% if post.modified %}{% if modifiedtime != posttime %} and <code>last modified on <time datetime="{{ post.modified | date: "%Y-%m-%d" }}" itemprop="dateModified">{{ post.modified | date: "%d %b %Y" }}</time></code>{% endif %}{% endif %}
+	                        in <span class="post-tags">{% for tag in post.categories %}<a href="{{ site.url }}/categories/index.html#{{ post.categories | cgi_encode }}" data-toggle="tooltip" title="Other posts from the {{ tag | capitalize }} category" rel="tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %}</span>&nbsp;<span class="post-tags">by {{ site.owner.name }}</span>
+	                        <div class="post-body bordered-bottom"></div>
+	                    </div>
+	                </header>    
+	            </article>
+	        </div>
+	        {% endif %}
+	        {% if post.type == 'video' %}
+	        <div class="row">
+	            <article class="post post col-md-8 col-md-offset-2">
+	               <header class="post-header">
+	                    {% if post.link %}
+	                    <h2 class="post-title text-center super lighter">
+	                        <a href="{{ site.url }}{{ post.url }}" style="color: #fff; background-color: #45ADA8; border-radius: 4px; padding: 10px"><i class="icon-play-circle"></i> {{ post.title }}</a>
+	                    {% else %}
+	                    <h2 class="post-title text-center super lighter bordered-bottom">
+	                        <a href="{{ site.url }}{{ post.url }}"><i class="icon-play-circle"></i> {{ post.title }}</a>
+	                    {% endif %}
+	                    </h2>
+	                    <div class="post-info text-center small">
+	                        <time datetime="{{ post.date | date_to_xmlschema }}" class="post-time">{{ post.date | date: "%d %b %Y" }}</time>{% if post.modified %}{% if modifiedtime != posttime %} and <code>last modified on <time datetime="{{ post.modified | date: "%Y-%m-%d" }}" itemprop="dateModified">{{ post.modified | date: "%d %b %Y" }}</time></code>{% endif %}{% endif %}
+	                        in <span class="post-tags">{% for tag in post.categories %}<a href="{{ site.url }}/categories/index.html#{{ post.categories | cgi_encode }}" data-toggle="tooltip" title="Other posts from the {{ tag | capitalize }} category" rel="tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %}</span>{% if site.readtime %}&nbsp;<span class="post-tags"><i class="icon-time"></i>&nbsp;{% if readtime > 1 and readtime < 1.5 %}1 minute read{% endif %}{% if readtime > 1.5 %}<span class="time">{{ readtime }}</span> minutes read{% endif %}{% if readtime < 1 %}Less than 1 minute read{% endif %}</span>{% endif %}
+	                    </div>
+	                </header>
+	                <div class="post-body bordered-bottom">
+	                {% if post.video %}
+	        		{% assign video_embed = post.video | remove:'https://www.youtube.com/watch?v=' %}
+                    <p><iframe width="940" height="529" src="//www.youtube.com/embed/{{ video_embed }}?theme=light&amp;color=white" frameborder="0" allowfullscreen> </iframe></p>
+                    <p class="lead">{{ post.content | strip_html | truncatewords:100 }}&hellip;</p>
+                    {% else %}
+	                <p class="lead">{{ post.excerpt }}&hellip;</p>
+	                {% endif %}
+	                <div class="text-center">
+	                    {% if post.description %}
+		                <a href="{{ site.url }}{{ post.url }}" data-toggle="tooltip" title="{{ post.description }}" class="more-link btn btn-danger btn-large">
+		                    <i class="icon-link"></i> see more...
+		                </a>
+		                {% else %}
+		                <a href="{{ site.url }}{{ post.url }}" data-toggle="tooltip" title="Read more about {{ post.title }}" class="more-link btn btn-danger btn-large">
+		                    <i class="icon-link"></i> see more...
+		                </a>
+		                {% endif %}
+		            </div>
+	                </div>
+	            </article>
+	        </div>
+	        {% endif %}
+	        {% if post.type == 'photo' %}
+	        <div class="row">
+	            <article class="post post col-md-8 col-md-offset-2">
+	               <header class="post-header">
+	               		{% if post.photo %}<figure><a href="{{ site.url }}{{ post.url }}"><img src="{{ site.url }}/images/{{ post.photo }}" alt="{{ post.title }}" itemprop="image"></a></figure>{% else %}<figure><a href="{{ site.url }}{{ post.url }}"><img src="{{ site.url }}/images/{{ post.imagefeature }}" alt="{{ post.title }}" itemprop="image"></a></figure>{% endif %}
+	                    {% if post.link %}
+	                    <h2 class="post-title text-center super lighter">
+	                        <a href="{{ site.url }}{{ post.url }}" style="color: #fff; background-color: #45ADA8; border-radius: 4px; padding: 10px"><i class="icon-picture"></i> {{ post.title }}</a>
+	                    {% else %}
+	                    <h2 class="post-title text-center super lighter bordered-bottom">
+	                        <a href="{{ site.url }}{{ post.url }}"><i class="icon-picture"></i> {{ post.title }}</a>
+	                    {% endif %}
+	                    </h2>
+	                    <div class="post-info text-center small">
+	                        <time datetime="{{ post.date | date_to_xmlschema }}" class="post-time">{{ post.date | date: "%d %b %Y" }}</time>{% if post.modified %}{% if modifiedtime != posttime %} and <code>last modified on <time datetime="{{ post.modified | date: "%Y-%m-%d" }}" itemprop="dateModified">{{ post.modified | date: "%d %b %Y" }}</time></code>{% endif %}{% endif %}
+	                        in <span class="post-tags">{% for tag in post.categories %}<a href="{{ site.url }}/categories/index.html#{{ post.categories | cgi_encode }}" data-toggle="tooltip" title="Other posts from the {{ tag | capitalize }} category" rel="tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %}</span>{% if site.readtime %}&nbsp;<span class="post-tags"><i class="icon-time"></i>&nbsp;{% if readtime > 1 and readtime < 1.5 %}1 minute read{% endif %}{% if readtime > 1.5 %}<span class="time">{{ readtime }}</span> minutes read{% endif %}{% if readtime < 1 %}Less than 1 minute read{% endif %}</span>{% endif %}
+	                    </div>
+	                </header>
+	                <div class="post-body bordered-bottom">
+	                    <p>{{ post.content | strip_html | truncatewords:100 }}&hellip;</p>
+	                    <div class="text-center">
+	                    {% if post.description %}
+		                <a href="{{ site.url }}{{ post.url }}" data-toggle="tooltip" title="{{ post.description }}" class="more-link btn btn-danger btn-large">
+		                    <i class="icon-link"></i> read more...
+		                </a>
+		                {% else %}
+		                <a href="{{ site.url }}{{ post.url }}" data-toggle="tooltip" title="Read more about {{ post.title }}" class="more-link btn btn-danger btn-large">
+		                    <i class="icon-link"></i> read more...
+		                </a>
+		                {% endif %}
+		                </div>
+	                </div>
+	            </article>
+	        </div>
+	        {% endif %}
+	        {% if post.type != 'video' and post.type != 'status' and post.type != 'quote' and post.type != 'photo' %}
+	        <div class="row">
+	            <article class="post post col-md-8 col-md-offset-2">
+	               <header class="post-header">
+	               {% if post.featured %}<div class="cursive">this post is featured</div>{% endif %}
+	                    {% if post.link %}
+	                    <h2 class="post-title text-center super lighter">
+	                        <a href="{{ site.url }}{{ post.url }}" style="color: #fff; background-color: #45ADA8; border-radius: 4px; padding: 10px"><i class="icon-link"></i> {{ post.title }}</a>
+	                    {% else %}
+	                    <h2 class="post-title text-center super lighter bordered-bottom">
+	                        <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+	                    {% endif %}
+	                    </h2>
+	                    <div class="post-info text-center small">
+	                        <time datetime="{{ post.date | date_to_xmlschema }}" class="post-time">{{ post.date | date: "%d %b %Y" }}</time>{% if post.modified %}{% if modifiedtime != posttime %} and <code>last modified on <time datetime="{{ post.modified | date: "%Y-%m-%d" }}" itemprop="dateModified">{{ post.modified | date: "%d %b %Y" }}</time></code>{% endif %}{% endif %}
+	                        in <span class="post-tags">{% for tag in post.categories %}<a href="{{ site.url }}/categories/index.html#{{ post.categories | cgi_encode }}" data-toggle="tooltip" title="Other posts from the {{ tag | capitalize }} category" rel="tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %}</span>{% if site.readtime %}&nbsp;<span class="post-tags"><i class="icon-time"></i>&nbsp;{% if readtime > 1 and readtime < 1.5 %}1 minute read{% endif %}{% if readtime > 1.5 %}<span class="time">{{ readtime }}</span> minutes read{% endif %}{% if readtime < 1 %}Less than 1 minute read{% endif %}</span>{% endif %}
+	                    </div>
+	                </header>
+	                <div class="post-body bordered-bottom">
+	                {% assign excerptsize = post.excerpt | number_of_words %}
+	                {% if excerptsize <= 100 and excerptsize >= 50 %}<p class = "lead">{{ post.excerpt | strip_html }}&hellip;</p>{% else %}
+	                    <p>{{ post.content | strip_html | truncatewords:100 }}&hellip;</p>{% endif %}
+	                    <div class="text-center">
+	                    {% if post.description %}
+		                <a href="{{ site.url }}{{ post.url }}" data-toggle="tooltip" title="{{ post.description }}" class="more-link btn btn-danger btn-large">
+		                    <i class="icon-link"></i> read more...
+		                </a>
+		                {% else %}
+		                <a href="{{ site.url }}{{ post.url }}" data-toggle="tooltip" title="Read more about {{ post.title }}" class="more-link btn btn-danger btn-large">
+		                    <i class="icon-link"></i> read more...
+		                </a>
+		                {% endif %}
+		                </div>
+	                </div>
+	            </article>
+	        </div>
+			{% endif %}
+	{% endfor %}
+{% if paginator.total_pages > 1 %}
+        <div class="row text-center text-caps">
+            <div class="col-md-8 col-md-offset-2">
+                <nav class="pagination" role="navigation">
+{% if paginator.previous_page %}
+{% if paginator.previous_page == 1 %}
+        <a class="newer-posts" href="{{ site.url }}">&larr; Newer Posts</a>
+{% else %}
+		<a class="newer-posts" href="{{ site.url }}/page{{ paginator.previous_page }}">&larr; Newer Posts</a>
+{% endif %}
+{% endif %}
+    <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+ {% if paginator.next_page %}   
+        <a class="older-posts" href="{{ site.url }}/page{{ paginator.next_page }}">Older Posts &rarr;</a>
+ {% endif %}
+</nav>
+            </div>
+        </div>
+{% endif %}
+{% else %}
+	{% for post in site.posts %}
+		{% assign readtime = post.content | strip_html | number_of_words | append: '.0' | divided_by:site.wpm %}
+		{% assign modifiedtime = post.modified | date: "%Y%m%d" %}
+		{% assign posttime = post.date | date: "%Y%m%d" %}
+			{% if post.type == 'quote' %}
+			<div class="row">
+	            <article class="post col-md-10 col-md-offset-1">
+	            	<header class="post-header">
+	                    <h2 class="post-title text-center super lighter">
+	                        <a href="{{ site.url }}{{ post.url }}"><i class="icon-quote-left"></i> {{ post.excerpt | strip_html }}</a>
+	                    </h2>
+	                    <p class="light small text-center">
+	                        Share this Quote
+	                    </p>
+	                    <ul class="social-mini text-center">
+	                        <li>
+	                            <a href="https://twitter.com/intent/tweet?text=&quot;{{ post.title }}&quot;%20{{ site.url }}{{ post.url }}%20via%20&#64;{{ site.owner.twitter }}"
+	                            onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" data-toggle="tooltip" title="Share on Twitter">
+	                                <i class="icon-twitter"></i>
+	                            </a>
+	                        </li>
+	                        <li>
+	                            <a  href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ post.url }}"
+	                            onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;" data-toggle="tooltip" title="Share on Facebook">
+	                                <i class="icon-facebook"></i>
+	                            </a>
+	                        </li>
+	                        <li>
+	                            <a href="https://plus.google.com/share?url={{ site.url }}{{ post.url }}"
+	                           onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;" data-toggle="tooltip" title="Share on Google plus">
+	                                <i class="icon-google-plus"></i>
+	                            </a>
+	                        </li>
+	                    </ul>
+			            <div class="post-body bordered-bottom text-center">
+			                {% if post.description %}
+			                <a href="{{ site.url }}{{ post.url }}" data-toggle="tooltip" title="{{ post.description }}" class="more-link btn btn-danger btn-large">
+			                    <i class="icon-link"></i> permalink...
+			                </a>
+			                {% else %}
+			                <a href="{{ site.url }}{{ post.url }}" data-toggle="tooltip" title="Read more about {{ post.title }}" class="more-link btn btn-danger btn-large">
+			                    <i class="icon-link"></i> permalink...
+			                </a>
+			                {% endif %}
+			            </div>
+	                </header>
+	            </article>
+	        </div>
+	        {% endif %}
+	        {% if post.type == 'status' %}
+	        <div class="row">
+	            <article class="post col-md-10 col-md-offset-1">
+	               <header class="post-header">
+	                    <h2 class="post-title text-center super lighter">
+	                        <a href="{{ site.url }}{{ post.url }}" style="color: #c91b26"><i class="icon-retweet"></i> "{{ post.excerpt | strip_html }}"</a>
+	                    </h2>
+	                    <p class="light small text-center">
+	                        Share this Status
+	                    </p>
+	                    <ul class="social-mini text-center">
+	                        <li>
+	                            <a href="https://twitter.com/intent/tweet?text=&quot;{{ post.title }}&quot;%20{{ site.url }}{{ post.url }}%20via%20&#64;{{ site.owner.twitter }}"
+	                            onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" data-toggle="tooltip" title="Share on Twitter">
+	                                <i class="icon-twitter"></i>
+	                            </a>
+	                        </li>
+	                        <li>
+	                            <a  href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ post.url }}"
+	                            onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;" data-toggle="tooltip" title="Share on Facebook">
+	                                <i class="icon-facebook"></i>
+	                            </a>
+	                        </li>
+	                        <li>
+	                            <a href="https://plus.google.com/share?url={{ site.url }}{{ post.url }}"
+	                           onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;" data-toggle="tooltip" title="Share on Google plus">
+	                                <i class="icon-google-plus"></i>
+	                            </a>
+	                        </li>
+	                    </ul>
+	                    <div class="post-info text-center small">
+	                        Status posted @ <time datetime="{{ post.date | date_to_xmlschema }}" class="post-time">{{ post.date | date: "%d %b %Y" }}</time>{% if post.modified %}{% if modifiedtime != posttime %} and <code>last modified on <time datetime="{{ post.modified | date: "%Y-%m-%d" }}" itemprop="dateModified">{{ post.modified | date: "%d %b %Y" }}</time></code>{% endif %}{% endif %}
+	                        in <span class="post-tags">{% for tag in post.categories %}<a href="{{ site.url }}/categories/index.html#{{ post.categories | cgi_encode }}" data-toggle="tooltip" title="Other posts from the {{ tag | capitalize }} category" rel="tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %}</span>&nbsp;<span class="post-tags">by {{ site.owner.name }}</span>
+	                        <div class="post-body bordered-bottom"></div>
+	                    </div>
+	                </header>    
+	            </article>
+	        </div>
+	        {% endif %}
+	        {% if post.type == 'video' %}
+	        <div class="row">
+	            <article class="post post col-md-8 col-md-offset-2">
+	               <header class="post-header">
+	                    {% if post.link %}
+	                    <h2 class="post-title text-center super lighter">
+	                        <a href="{{ site.url }}{{ post.url }}" style="color: #fff; background-color: #45ADA8; border-radius: 4px; padding: 10px"><i class="icon-play-circle"></i> {{ post.title }}</a>
+	                    {% else %}
+	                    <h2 class="post-title text-center super lighter bordered-bottom">
+	                        <a href="{{ site.url }}{{ post.url }}"><i class="icon-play-circle"></i> {{ post.title }}</a>
+	                    {% endif %}
+	                    </h2>
+	                    <div class="post-info text-center small">
+	                        <time datetime="{{ post.date | date_to_xmlschema }}" class="post-time">{{ post.date | date: "%d %b %Y" }}</time>{% if post.modified %}{% if modifiedtime != posttime %} and <code>last modified on <time datetime="{{ post.modified | date: "%Y-%m-%d" }}" itemprop="dateModified">{{ post.modified | date: "%d %b %Y" }}</time></code>{% endif %}{% endif %}
+	                        in <span class="post-tags">{% for tag in post.categories %}<a href="{{ site.url }}/categories/index.html#{{ post.categories | cgi_encode }}" data-toggle="tooltip" title="Other posts from the {{ tag | capitalize }} category" rel="tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %}</span>{% if site.readtime %}&nbsp;<span class="post-tags"><i class="icon-time"></i>&nbsp;{% if readtime > 1 and readtime < 1.5 %}1 minute read{% endif %}{% if readtime > 1.5 %}<span class="time">{{ readtime }}</span> minutes read{% endif %}{% if readtime < 1 %}Less than 1 minute read{% endif %}</span>{% endif %}
+	                    </div>
+	                </header>
+	                <div class="post-body bordered-bottom">
+	                {% if post.video %}
+	        		{% assign video_embed = post.video | remove:'https://www.youtube.com/watch?v=' %}
+                    <p><iframe width="940" height="529" src="//www.youtube.com/embed/{{ video_embed }}?theme=light&amp;color=white" frameborder="0" allowfullscreen> </iframe></p>
+                    <p class="lead">{{ post.content | strip_html | truncatewords:100 }}&hellip;</p>
+                    {% else %}
+	                <p class="lead">{{ post.excerpt }}&hellip;</p>
+	                {% endif %}
+	                <div class="text-center">
+	                    {% if post.description %}
+		                <a href="{{ site.url }}{{ post.url }}" data-toggle="tooltip" title="{{ post.description }}" class="more-link btn btn-danger btn-large">
+		                    <i class="icon-link"></i> see more...
+		                </a>
+		                {% else %}
+		                <a href="{{ site.url }}{{ post.url }}" data-toggle="tooltip" title="Read more about {{ post.title }}" class="more-link btn btn-danger btn-large">
+		                    <i class="icon-link"></i> see more...
+		                </a>
+		                {% endif %}
+		            </div>
+	                </div>
+	            </article>
+	        </div>
+	        {% endif %}
+	        {% if post.type == 'photo' %}
+	        <div class="row">
+	            <article class="post post col-md-8 col-md-offset-2">
+	               <header class="post-header">
+	               		{% if post.photo %}<figure><a href="{{ site.url }}{{ post.url }}"><img src="{{ site.url }}/images/{{ post.photo }}" alt="{{ post.title }}" itemprop="image"></a></figure>{% else %}<figure><a href="{{ site.url }}{{ post.url }}"><img src="{{ site.url }}/images/{{ post.imagefeature }}" alt="{{ post.title }}" itemprop="image"></a></figure>{% endif %}
+	                    {% if post.link %}
+	                    <h2 class="post-title text-center super lighter">
+	                        <a href="{{ site.url }}{{ post.url }}" style="color: #fff; background-color: #45ADA8; border-radius: 4px; padding: 10px"><i class="icon-picture"></i> {{ post.title }}</a>
+	                    {% else %}
+	                    <h2 class="post-title text-center super lighter bordered-bottom">
+	                        <a href="{{ site.url }}{{ post.url }}"><i class="icon-picture"></i> {{ post.title }}</a>
+	                    {% endif %}
+	                    </h2>
+	                    <div class="post-info text-center small">
+	                        <time datetime="{{ post.date | date_to_xmlschema }}" class="post-time">{{ post.date | date: "%d %b %Y" }}</time>{% if post.modified %}{% if modifiedtime != posttime %} and <code>last modified on <time datetime="{{ post.modified | date: "%Y-%m-%d" }}" itemprop="dateModified">{{ post.modified | date: "%d %b %Y" }}</time></code>{% endif %}{% endif %}
+	                        in <span class="post-tags">{% for tag in post.categories %}<a href="{{ site.url }}/categories/index.html#{{ post.categories | cgi_encode }}" data-toggle="tooltip" title="Other posts from the {{ tag | capitalize }} category" rel="tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %}</span>{% if site.readtime %}&nbsp;<span class="post-tags"><i class="icon-time"></i>&nbsp;{% if readtime > 1 and readtime < 1.5 %}1 minute read{% endif %}{% if readtime > 1.5 %}<span class="time">{{ readtime }}</span> minutes read{% endif %}{% if readtime < 1 %}Less than 1 minute read{% endif %}</span>{% endif %}
+	                    </div>
+	                </header>
+	                <div class="post-body bordered-bottom">
+	                    <p>{{ post.content | strip_html | truncatewords:100 }}&hellip;</p>
+	                    <div class="text-center">
+	                    {% if post.description %}
+		                <a href="{{ site.url }}{{ post.url }}" data-toggle="tooltip" title="{{ post.description }}" class="more-link btn btn-danger btn-large">
+		                    <i class="icon-link"></i> read more...
+		                </a>
+		                {% else %}
+		                <a href="{{ site.url }}{{ post.url }}" data-toggle="tooltip" title="Read more about {{ post.title }}" class="more-link btn btn-danger btn-large">
+		                    <i class="icon-link"></i> read more...
+		                </a>
+		                {% endif %}
+		                </div>
+	                </div>
+	            </article>
+	        </div>
+	        {% endif %}
+	        {% if post.type != 'video' and post.type != 'status' and post.type != 'quote' and post.type != 'photo' %}
+	        <div class="row">
+	            <article class="post post col-md-8 col-md-offset-2">
+	               <header class="post-header">
+	               {% if post.featured %}<div class="cursive">this post is featured</div>{% endif %}
+	                    {% if post.link %}
+	                    <h2 class="post-title text-center super lighter">
+	                        <a href="{{ site.url }}{{ post.url }}" style="color: #fff; background-color: #45ADA8; border-radius: 4px; padding: 10px"><i class="icon-link"></i> {{ post.title }}</a>
+	                    {% else %}
+	                    <h2 class="post-title text-center super lighter bordered-bottom">
+	                        <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+	                    {% endif %}
+	                    </h2>
+	                    <div class="post-info text-center small">
+	                        <time datetime="{{ post.date | date_to_xmlschema }}" class="post-time">{{ post.date | date: "%d %b %Y" }}</time>{% if post.modified %}{% if modifiedtime != posttime %} and <code>last modified on <time datetime="{{ post.modified | date: "%Y-%m-%d" }}" itemprop="dateModified">{{ post.modified | date: "%d %b %Y" }}</time></code>{% endif %}{% endif %}
+	                        in <span class="post-tags">{% for tag in post.categories %}<a href="{{ site.url }}/categories/index.html#{{ post.categories | cgi_encode }}" data-toggle="tooltip" title="Other posts from the {{ tag | capitalize }} category" rel="tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %}</span>{% if site.readtime %}&nbsp;<span class="post-tags"><i class="icon-time"></i>&nbsp;{% if readtime > 1 and readtime < 1.5 %}1 minute read{% endif %}{% if readtime > 1.5 %}<span class="time">{{ readtime }}</span> minutes read{% endif %}{% if readtime < 1 %}Less than 1 minute read{% endif %}</span>{% endif %}
+	                    </div>
+	                </header>
+	                <div class="post-body bordered-bottom">
+	                {% assign excerptsize = post.excerpt | number_of_words %}
+	                {% if excerptsize <= 100 and excerptsize >= 50 %}<p class = "lead">{{ post.excerpt | strip_html }}&hellip;</p>{% else %}
+	                    <p>{{ post.content | strip_html | truncatewords:100 }}&hellip;</p>{% endif %}
+	                    <div class="text-center">
+	                    {% if post.description %}
+		                <a href="{{ site.url }}{{ post.url }}" data-toggle="tooltip" title="{{ post.description }}" class="more-link btn btn-danger btn-large">
+		                    <i class="icon-link"></i> read more...
+		                </a>
+		                {% else %}
+		                <a href="{{ site.url }}{{ post.url }}" data-toggle="tooltip" title="Read more about {{ post.title }}" class="more-link btn btn-danger btn-large">
+		                    <i class="icon-link"></i> read more...
+		                </a>
+		                {% endif %}
+		                </div>
+	                </div>
+	            </article>
+	        </div>
+			{% endif %}
+	{% endfor %}  
+{% endif %}
