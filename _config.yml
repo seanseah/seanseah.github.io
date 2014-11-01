@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 title:            Sean Seah
 description:      "Sean Seah: Singapore"
+=======
+title:            Sean Seah's GitHUB
+description:      "Using Theme Omega"
+>>>>>>> origin/master
 logo:             omikron.png
 disqus_shortname:
 # Assign a default image for your site's header and footer
@@ -18,12 +23,20 @@ fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
+<<<<<<< HEAD
 url:
+=======
+url:              
+>>>>>>> origin/master
 
 # Owner/author information
 owner:
   name:           Sean Seah
+<<<<<<< HEAD
   avatar:         seanseah.jpg
+=======
+  avatar:         hmfaysal.jpg
+>>>>>>> origin/master
   email:          sean@gadgetreactor.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Sean is an Electrical Engineer, currently based in Singapore. His interests are [primarily in the area of technology].
@@ -31,6 +44,7 @@ owner:
   twitter:        gadgetreactor
   facebook:       gadgetreactor
   github:         seanseah
+<<<<<<< HEAD
   stackexchange:
   linkedin:
   instagram:
@@ -42,6 +56,19 @@ owner:
 # Analytics and webmaster tools stuff goes here
 google_analytics:
 google_verify:
+=======
+  stackexchange:  
+  linkedin:       
+  instagram:      
+  flickr:         
+  tumblr:         
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:    https://plus.google.com/u/0/
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:   
+google_verify:      
+>>>>>>> origin/master
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
