@@ -8,7 +8,7 @@ tags:
   - blogging
   - jekyll
 image:
-  feature: "website-speed.jpg"
+  feature: "disneyland.jpg"
   credit: spreadeffect.com
   creditlink: "http://www.spreadeffect.com/blog/improve-website-speed/"
 comments: false
@@ -17,12 +17,9 @@ featured: true
 published: true
 ---
 
->&quot;The beginning is the most important part of the work.&quot;
-><small><cite title="Plato">Plato</cite></small>
-
 Hello World
 * Wordpress History
 * Shifting to Jekyll
 * What's Next
 
-I wouldn't call myself a developer, nor a web designer, but I ...
+I wouldn't call myself a developer, nor a web designer, but I enjoy doing such activities.
