@@ -3,8 +3,6 @@
 <script src="{{ site.url }}/assets/js/scripts.min.js"></script>
 <script type="text/javascript" src="{{ site.url }}/assets/js/waypoints.min.js"></script>
 <script type="text/javascript" src="{{ site.url }}/assets/js/script.js"></script>
-<script type='text/javascript'>console.log("HMFaysal Omega Theme Version 2.0");</script>
-<script type='text/javascript'>console.log("https://alum.mit.edu/www/hmfaysal");</script>
 <script type='text/javascript'>$(document).ready(function(){$(".time").text(function(a,b){return Math.round(parseFloat(b))})});</script>
 
 <script type="text/javascript">
@@ -46,21 +44,21 @@ $("a#click-pages").click(function(){
   });
 
   (function( $, window, undefined ) {
-    
+
      var bs = {
           close: $(".icon-remove-sign"),
           searchform: $(".search-form"),
           canvas: $("body"),
           dothis: $('.dosearch')
       };
-    
+
     bs.dothis.on('click', function() {
       $('.search-wrapper').css({ display: "block" });
       bs.searchform.toggleClass('active');
       bs.searchform.find('input').focus();
       bs.canvas.toggleClass('search-overlay');
     });
-    
+
       bs.close.on('click', function() {
         $('.search-wrapper').removeAttr( 'style' );
         bs.searchform.toggleClass('active');
@@ -73,7 +71,7 @@ $("a#click-pages").click(function(){
 <!-- Asynchronous Google Analytics snippet -->
 <script>
   var _gaq = _gaq || [];
-  var pluginUrl = 
+  var pluginUrl =
  '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
   _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
   _gaq.push(['_setAccount', '{{ site.google_analytics }}']);

@@ -4,12 +4,7 @@
 @import url(http://fonts.googleapis.com/css?family=Sacramento);
 
 /*!
- * HMFAYSAL OMEGA v1.0.1
- * Responsive Jekyll Theme
- *
  * Copyright 2014 Hossain Mohd Faysal
- *
- * Designed and built with all the love in the world by @hmfaysal
  */
 /* ------------------------ */
 /* GENERAL TYPOGRAPHY RULES */
@@ -216,7 +211,7 @@ q {
 }
 @include hyphens(none);
 pre {
-  
+
 }@include text-shadow(none);
 /* - Font weight classes - */
 .black {
@@ -4013,7 +4008,7 @@ body.slide{
 /*      Responsive      */
 
 @media screen and (max-width:1140px){
-    
+
     #header,
     #posts-container,
     .entry .text,
@@ -4022,7 +4017,7 @@ body.slide{
     .entry .details{
         width:700px
         }
-    
+
     }
 
 @media screen and (max-width:700px){
@@ -4047,9 +4042,9 @@ body.slide{
 
 
 @media screen and (max-width:500px){
-    
+
     a#slide{
-        position:absolute    
+        position:absolute
         }
 
 
