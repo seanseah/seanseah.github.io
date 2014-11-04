@@ -17,9 +17,15 @@ featured: true
 published: true
 ---
 
-Hello World
+#My Journey to Github
+
 * Wordpress History
 * Shifting to Jekyll
+* Learning Kramdown / Markdown
 * What's Next
 
-I wouldn't call myself a developer, nor a web designer, but I enjoy doing such activities.
+I wouldn't call myself a developer, nor a web designer, but I enjoy doing such activities. I have been dabbling with computers, web page designing, wordpress, php / mysql, django and the likes. This is my first journey to Git and also the use of Markdown / Kramdown syntax. 
+
+> Learning new things is amazing!
+
+Learning new things can be painful too. But rewarding. 
