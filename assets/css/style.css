@@ -3863,13 +3863,13 @@ a#slide:after{
 
 a#slide.slide:after{
     position:absolute;
-    content:"X";
-    top:11px;
+    content:"x";
+    top:7px;
     left:50%;
     width:40px;
     height:40px;
     margin:0 0 0 -20px;
-    font:18px "icon" !important;
+    font:18px "Raleway" !important;
     vertical-align:middle
     }
 
