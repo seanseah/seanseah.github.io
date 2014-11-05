@@ -8,21 +8,18 @@ tags:
   - blogging
   - jekyll
 image:
-  feature: "website-speed.jpg"
-  credit: spreadeffect.com
-  creditlink: "http://www.spreadeffect.com/blog/improve-website-speed/"
+  feature: "http://www.wallpaperbod.com/wallpapers/2013/05/Free-Beautiful-Landscape-Desktop-Wallpaper-06-2010-98-1800x2880.jpg"
 comments: false
 mathjax: null
 featured: true
 published: true
 ---
 
-***My musings
+_All the world's a stage, And all the men and women merely players._
 
-All the world's a stage, And all the men and women merely players
-Like a play, there are two types, tragedies and comedies - and I often view mine as a tragedy. It somehow falls back to the glass being half full or half empty analogy. Like a looking glass, a lens could be all that matters in shaping your opinion.
+Like a play, there are two types, tragedies and comedies - and I often view mine as a tragedy. It somehow falls back to the glass being half full or half empty analogy. Like a looking glass, a lens could be all that matters in shaping your opinion. I have been full of **pessimism** and view the world with a set of negatively tinted lens. This has affected me and more often than not, often results in making worse decision.
 
-Some decisions in life are those that we will live to regret. Yet, there is no way for this flow to reverse its direction and we would just have to accept and live with the decisions we made. There isn't really much we can do once we have made the decision. It is often that we tend to reminisce on how things were and what we should have done instead, like History, a lesson that is often criticized for looking at things once past. Admittedly, we could and should learn from past mistakes but there isn't really a need to dwell too much on it, any more would just be wallowing in depression.
+Some decisions in life are those that we will live to regret. Yet, there is no way for this flow to reverse its direction and we would just have to accept and live with the decisions we made. There isn't really much we can do once we have made the decision. It is often that we tend to reminisce on how things were and what we should have done instead, like History, a lesson that is often criticized for looking at things once past. It is not that looking back is bad, ideally, we look back to learn from past mistakes but there isn't really a need to dwell too much on it. Any more would just be wallowing in depression.
 
 Despite the many bumps and the occasional pitfalls that we might encounter, life is still very much beautiful. It is hard to sometimes find value in life and I used to have the belief that living is akin to a suffering, a series of trials and tribulations perhaps. I alluded to life being a tragedy at the onset, yet I do have many beautiful and wonderful things that have happened in my life. It is just unfortunate that I tend to let the small unhappy things cloud over the good things and it has been a struggle for me to look at things positively.
 
