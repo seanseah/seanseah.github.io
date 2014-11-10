@@ -1,3 +1,18 @@
+---
+layout: post
+title: Welcome to StackEdit
+description: Interesting, another markdown editor?
+headline: Looking good 
+categories: personal
+tags:
+  - blogging
+  - markdown
+comments: false
+mathjax: null
+published: true
+---
+
+
 Welcome to StackEdit!
 ===================
 
