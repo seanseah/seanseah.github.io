@@ -4036,17 +4036,17 @@ body.slide{
     #permalink .permalink-box{
         width:90%
         }
-
+    }
 
 @media screen and (max-width:500px){
-
-    #fade.slide{
-        left:80%
+    a#slide.slide{
+        left:254px;
+        pointer-events:none
         }
-
-    a#slide{
-        position:absolute
-        }
+      #fade.slide{
+          left:250px
+          }
+    }
 
 
 /*      End-Responsive      */
