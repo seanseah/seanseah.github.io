@@ -47,7 +47,7 @@ bing_verify:
 # Links to include in footer navigation
 # For external links add external: true
 links:
-  - title: <i class="fa-home fa-fw"></i> Home
+  - title: <i class="icon-home"></i> Home
     url: /
     external: false
     icon: home
@@ -55,9 +55,9 @@ links:
     url: /gadgets
   - title: Categories
     url: /categories
-  - title: <i class="fa-tags fa-fw"> Tags
+  - title: <i class="icon-tags"></i></i> Tags
     url: /tags
-  - title: <i class="fa-child fa-fw"> About Me
+  - title: <i class="icon-pencil"></i> About Me
     url: /about-sean
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
