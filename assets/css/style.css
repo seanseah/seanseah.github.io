@@ -4040,6 +4040,10 @@ body.slide{
 
 @media screen and (max-width:500px){
 
+    #fade.slide{
+        left:80%
+        }
+
     a#slide{
         position:absolute
         }
