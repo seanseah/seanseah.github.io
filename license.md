@@ -1,15 +1,13 @@
 ---
 layout: page
-permalink: /license/index.html
+permalink: /license/
 title: LICENSE
-description: "License for Jekyll theme HMFAYSAL OMEGA."
-headline: "The MIT License"
-tags: [Jekyll, theme, license]
+description: "License for seanseah.github.io
+headline: "The License"
+tags:
 image:
   feature:
 ---
-
-The MIT License (MIT)
 
 Copyright (c) {{ site.time | date: '%Y' }} Sean Seah
 

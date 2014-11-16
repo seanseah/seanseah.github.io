@@ -1,9 +1,9 @@
 title:            Sean Seah
-description:      "Using Theme Omega"
-logo:             omikron.png
+description:      Hi There
+logo:             logo.png
 disqus_shortname:
 # Assign a default image for your site's header and footer
-default_bg:       default_bg1.jpg
+default_bg:       seanseah_bg.jpg
 search:           true
 share:            true
 # Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
@@ -33,7 +33,7 @@ owner:
   github:         seanseah
   stackexchange:
   linkedin:
-  instagram:
+  instagram:      sean__seah
   flickr:
   tumblr:
   google_plus:    https://plus.google.com/+SeanSeahSG/
@@ -51,14 +51,14 @@ links:
     url: /
     external: false
     icon: home
-  - title: <i class="icon-book"></i> Documentation
-    url: /documentation
+  - title: <i class="icon-book"></i> My Toys
+    url: /gadgets
   - title: Categories
     url: /categories
   - title: Tags
     url: /tags
   - title: Sean who?
-    url: /seanseah
+    url: /about-sean
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Singapore

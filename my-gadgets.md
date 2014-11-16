@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /my-gadgets/
+permalink: /gadgets/
 title: My Gadgets
 tags: Gadgets, Geek, Toys
 image:
@@ -10,7 +10,7 @@ image:
 ## Gadgets I Own
 
 + Sony Ericsson
-+ Samsung ? 
++ Samsung ?
 + Nokia E61
 + iPod Touch (Apple Peel 520)
 + HTC Touch 2
@@ -28,15 +28,15 @@ image:
 
 + Pentium 100
   + 8mb RAM
-  + 1.6 GB HDD 
+  + 1.6 GB HDD
   + 6XCDROM
 
-  
+
 + Celeron 333
   + Celeron?
   + Riva TNT
-  
-+ AMD XP 1700+ 
+
++ AMD XP 1700+
 
 + AMD Phenom II X2 550
 
