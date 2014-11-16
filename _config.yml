@@ -55,7 +55,7 @@ links:
     url: /gadgets
   - title: Categories
     url: /categories
-  - title: <i class="icon-tags"></i></i> Tags
+  - title: <i class="icon-tags"></i> Tags
     url: /tags
   - title: <i class="icon-pencil"></i> About Me
     url: /about-sean
