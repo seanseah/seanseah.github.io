@@ -6,7 +6,7 @@ headline:
 categories: personal
 tags:
   - reflections
-image: cny.jpg
+imagefeature: cny.jpg
 comments: false
 mathjax: null
 featured: true
