@@ -1,13 +1,12 @@
 ---
 layout: post
 title: The Chinese New Year Entry
-description: 
+description: The Special Things To Me Every Chinese New Year
 headline: 
 categories: personal
 tags:
   - reflections
-image:
-  feature: cny.jpg
+image: cny.jpg
 comments: false
 mathjax: null
 featured: true
@@ -18,7 +17,7 @@ Happy Chinese New Year!
 
 For the past Chinese New Years, I would get up around 7+ am, greet my grandfather, grandmother, dad.. and in return, would receive the customary red packets. As we are officially not celebrating this year, the occasion and all seems somewhat strange and muted.
 
-Looking back at the past, when I was much younger, I always looked forward to Chinese New Year. My cousins would come over to visit, and as they would stay the entire day, they would bring over their Super Nintendo consoles or Playstations over to my house to play. I didn't had my own console then and could only play when I go over to their house, so this was like a real treat for me. Sometimes they would also leave the system at my place for a couple of days so that I could continue playing. Thinking back, that was exceptionally generous of them. I didn't have much guests on the 2nd/3rd day of Chinese New Year and it meant I could spend the entire day at home gaming on the console. That was pure bliss. I would be eagerly anticipating the arrival of my cousins and the one year they forgot to bring, I was so sad!
+Looking back at the past, when I was much younger, I always looked forward to Chinese New Year. My cousins would come over to visit, and as they would stay the entire day, they would bring over their Super Nintendo consoles or Playstations over to my house to play. I didn't had my own console then and could only play when I go over to their house, so this was an absolute real treat for me. Sometimes they would also leave the console at my place for a couple of days so that I could continue playing. Thinking back, that was exceptionally generous of them. I typically don't have much guests on the 2nd/3rd day of Chinese New Year and it meant I could spend the entire day at home gaming on the console. That was pure bliss. I would be eagerly anticipating the arrival of my cousins and the one year they forgot to bring, I was so sad!
 
 And how can I leave out gambling? It is such a traditional Chinese New Year activity among local Singaporeans. We usually only gamble with the closer relatives, the visitors who come don't really join in either. Strangely, our gambling was like "见不得人" and during the normal years, we will keep the gambling confine to my room, so that kind of keeps people out of our games. We play quite a lot of _gin rummy_, _in between_ and recently, _dai dee_. We only played blackjack once, and didn't really like it, so that was just a one year event. I guess, games like gin rummy and dai dee are still very much games where although luck plays a part, there's still some skill involved. So between the two main activities of gaming vs gambling, I am always torn every year and there's never a way to find a balance between the two.
 
@@ -26,24 +25,23 @@ Safety in numbers. I guess that's how I feel every year too, since I'm close to 
 
 The food! We usually will receive quite a bit of bak kwa from friends and relatives so always had some to munch on over the festive season but they were mainly my grandfather friends, so didn't get any this year. 
 
-"""
-PASTRY
-
+### PASTRY
+{% highlight yaml %}
 - 500g flour
 - 250g butter
 - 1 tbsp milk powder
 - 1 egg yolk + 3 egg whites
 - 2 tablespoons sugar/powdered sugar
+{% endhighlight %}
 
-Pineapple Jam (Filling)
-
+### Pineapple Jam (Filling)
+{% highlight yaml %}
 - 3 cans (20 oz can) sliced pineapples or 2 fresh pineapples
 - 10 tablespoons or a heaping 1/2 cup sugar (more or less to taste)
+{% endhighlight %}
 
-"""
-
-Method:
-
+### Method
+{% highlight yaml %}
 If you use fresh pineapples, remove the skin, cut into pieces and blend for 10 seconds.
 
 Transfer the blended pineapple into a deep pan (non-stick preferably). Rice cooker works. Add sugar and stir well. Cook on medium to low heat until most liquid has evaporated, and the pineapple jam turns golden in color. Stirring constantly and continuously using a wooden spoon to avoid burning. Taste, and add more sugar as needed. 
@@ -55,18 +53,16 @@ Flatten the pastry dough and use mould for circular cutouts. Put the pineapple f
 Place the pineapple tarts on a tray lined with parchment paper, arrange the pineapple tarts so they are at least 0.5 inch apart of each other.
 
 Preheat the oven to 350F (180C) and bake for 20-25 minutes or until light brown.
+{% endhighlight %}
 
 Not sure if I miss anything out, oh well, a just in case, at least I can possibly try make the tarts myself in years to come haha, although that's like just a potential HUGE disaster waiting to happen.
 
-I made Jiali one tub this year, and also, one additionally huge pineapple tart. 
+I made Jiali one tub this year, and also, one additionally huge pineapple tart. Homemade pineapple tarts are just awesome. I don't snack often but every Chinese New Year, I just can't resist.
 
 <figure>
-	<a href="http://4.bp.blogspot.com/_m5e8Pqc8k3c/RdZW4cG66MI/AAAAAAAAAH8/5idSy95kkTw/s1600-h/DSCF0488.jpg"><img src="http://4.bp.blogspot.com/_m5e8Pqc8k3c/RdZW4cG66MI/AAAAAAAAAH8/5idSy95kkTw/s1600-h/DSCF0488.jpg"></a>
+	<a href="{{ site.url }}/images/posts/big-pineapple-tart.jpg"><img src="{{ site.url }}/images/posts/big-pineapple-tart.jpg"></a>
 	<figcaption>My humongous pineapple tart</figcaption>
 </figure>
-
-Its only 1 more day to CNY, not really very festive this time around, its always been one of the major calendar events in my life but this year everything seems less exciting. Anyway, I was eating pineapple tarts this morning, argh! I left 3 only haha... gosh. But then again, another tub will be open tomorrow morning so there's still some cheer there. Homemade pineapple tarts are just very unique and special, I have grown so fond of them!
-... The 4th Pineapple Tart last seen here ...
 
 All that are still snacks though, the real treat is when dinner arrives. 
 
