@@ -16,7 +16,7 @@ Alongside the fledging Star Wars community in Singapore, I started my own toy co
 At that early age, there's a lot more opportunity for trying out new interests and activities. It just so happened that my interest was in collecting action figures. It was a way for me to meet like minded folks in the Star Wars community, and for me to immerse myself in. The entire star wars universe was so well developed that I could delve into it and create my own fantasy - through dioramas. The first picture shows a printed Jawa Sandcrawler - via papercraft. It was a great sense of achievement as you put the whole vehicle together. Btw, I was 14-15 at that time :).
 
 > One can never be too old for Star Wars
-> <small> - Sean</small>
+> <small>Sean S.</small>
 
 It also granted some father / son bonding time. As my collection grew, I pestered my dad for a display cabinet and we spend some time hunting around for one. The fun was in putting it together. The shelf is still around, even after 18 years. We actually made a mistake in the installation. We sort of installed one shelf in the opposite direction, but the fun is in the process right? I still look at it and smile fondly as I remember how we work together. Life is never perfect, it is filled with tons of imperfections and challenges, yet each mistake we make is for a purpose, and would only make us wiser and stronger. 
 

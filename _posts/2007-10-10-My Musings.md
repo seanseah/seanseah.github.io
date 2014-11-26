@@ -52,3 +52,91 @@ I think 4 years ago, I was undecided what I want to be, and I took up the first 
 In a way, I can see this as a career, it isn't exactly a bad job and it does offer certain levels of prospects and all in all, working with technology is still an interesting thing for me. Furthermore, it could be interesting if I can connect my level of interest and merge it with the aviation stuff. The drawback would be more of how other people view the job? A military job is often looked down upon and unlikely to raise the admirations of people, shucks :) That's my ego speaking.
 
 This has been also a year of rumours, as the AEOs discuss about how our job will be like, the initial phase of training, important gossipy bits such as the pay structure.
+
+***
+
+I love money. Who doesn't? But when am I going to do with all that money? I don't know. Can it actually make me happy? I am not sure, but probably not. It can make me have a comfortable life, and from that, I might be happy, but does money directly make me happy? No. 
+
+Things that I need to do more of. 
+
+1. Spending Time with Family and Friends. 
+
+As I grow older, I spend lesser time with friends. Spending time with family is also problematic too as more often than not, we are consumed by work. As we grow older, responsibilities increase, work consumes us. But is that truly important? The ages of 20-50 are the prime time of our lives, when our minds and body are most capable. Are we actually putting them to good use?
+
+2. Health
+
+I hope to die in my sleep, and not having to fight sickness. There's no escaping death, but I would like to imagine that I can control the way I die. Yeah right. I have heard horror stories of people suffering from strokes and being bed-ridden for two to three years before they pass away. You may have friends, relatives, like that. I don't think it is enjoyable. Spending my remaining years staring at a ceiling as life passes me by. 
+
+Health is important, so that we reduce the probability of this happening. And hopefully, we can have a say in how we decide to leave this world. 
+
+3) Being Happy.
+
+Don't you think we are just too gloomy all the time? Coming from me, this must be the biggest oxymoron ever. 
+
+But hear me out. Being Happy is a positive state of mind. And laughter, associated with happines is linked to all sorts of positive things that make you healthier. Scientifically, a laugh releases oxytocin throughout the body which evokes happiness and calmness. 
+
+> _We don't laugh because we're happy – we're happy because we laugh._ 
+> <small>William James</small>
+
+Honestly, money doesn't make me happy. I can hire a comedian with it perhaps, but there's tons of ways to make one laugh, on the cheap. And being happy starts with just being positive.
+
+4) Giving
+
+Help others. If anything, life is short and there are others around that are equally in need. We can and should always do more to help. 
+
+Don't be selfish.
+
+Don't be evil.
+
+5) Your Legacy
+
+A wise man once said that money doesn't last after three generations. In fact, too much money may not be a wise thing. Haven't you heard of inflation? It destroys money. 
+
+On the other hand, legacies live for thousands of years. What's your legacy?
+
+
+*** 
+
+Never a big fan of such tests, but well, its a really fast one, like can be done in 5 sec, does it apply to me? Kinda.. haha.
+
+Colourgenics
+
+"You feel as if you have missed out on a great deal that life had to offer and you go about trying to make up for past failures. Naturally at times you get depressed and you try to compensate for your 'missed opportunities' by living your life to the full. This is what, perhaps, may be described as 'living with exaggerated intensity'. In this way you feel you can break the chains of the past and start again - and it could be that you are right.
+
+You are lazy - you dream of a peaceful, calm, uncluttered and uncomplicated life. Your ideal would be to share a permanent base with some person or persons who would be able to demonstrate on-going love, peace and security.
+
+You need a friend - a close friend - and you are willing to become emotionally involved with the right person, but you are very demanding and particular in your choice of partners. You are constantly looking for reassurance and it is perhaps because of this that you tend to be somewhat argumentative, but you try to hold back - careful to avoid open conflict - since this might reduce your prospects of realising your hopes of establishing a warm caring relationship.
+
+Nobody seems to understand you at this moment for everything you suggest or do seems to be taken up the wrong way. All of this misunderstanding is leading to anxiety and stress. The situation naturally is not as you would like it to be - you feel that you are being treated most unfairly and that trust, affection and understanding are being withheld from you and that you are being treated with a demeaning lack of consideration. You consider yourself being denied the appreciation essential to your well being and self-esteem and that there is nothing you can do about it. You feel that whatever you try to do to change the situation, you are getting nowhere fast. You would really like to get away from it all but can't find the energy or the strength of mind to make the necessary decision.
+
+The tensions that you are trying to cope with are a result of conditions which are really beyond your control. As a consequence of this almost impossible situation and not being able to get your own way, you are subjected to frustration and almost ungovernable anger. You are trying to remedy the situation but the stress that you are experiencing is making the situation even worse. You feel so inadequate that you are not quite sure which way to turn. A good suggestion would to be to try to relieve the stress and anxiety by participating in some very active physical activity which will relieve your tension."
+
+***
+
+## Life's Important Moments
+
+1984 - Hola Mundo! - "I opened my eyes!"
+
+1988 - 1989 - Goodbye Mummy. Thank You... for nothing.
+
+1990 - Primary 1 - The most striking memory I have was a classmate called Melvin. He was a skinny boy in class that was often bullied because of his clumsy, good natured ways. It wasn't that nasty, but it was the typical laughing at him and making tasteless jokes. I don't deny it, I was one of those that bullied him too - typical herd mentality I guess. Yet, one day, I saw him with his grandmother. She was old and frail but I could see that she cared a lot for her grandchild. That affected me. Why was I bullying her grandson? Wouldn't it hurt her to see her grandson being upset? I took it upon myself to protect him and told my other classmates off. That episode struck a chord with me. I have always lived with my grandparents and they have been and instrumental part of my life. 
+
+I am super thankful for my grandparents. I have lived with them my whole life. They provided for me without gripe, cooked for me, didn't complain when I cancelled dinner if I head out after school, protected me from my dad, gave me the environment to go up in, and I am who I am because of them. I recall meal times would see my grandma chasing after me, trying to feed me. My grandfather used to pick me up from kindergarden on his bicycle and I would ride pillion home. My dad had to work shift hours and because of that and school hours, some days I don't see him much. I was also afraid of him and my grandmother was my partner in crime to help me avoid getting scolded.
+
+1996 - My First Computer
+
+2001 - Unreal Tournament
+
+2002 - Becoming an Air Engineering Officer
+
+2007 - Convocation to Cadet
+
+2010 - She Said Yes!
+
+2011 - Mr & Mrs
+
+2012 - GadgetReactor
+
+Trend Micro did their thing today. Talk about security - what to be careful of. Singapore users -> Have you seriously thought about security? Are you just letting your IT professional manage it? Do they even know what's going on?
+
+Those are some important questions that each company need to address.
