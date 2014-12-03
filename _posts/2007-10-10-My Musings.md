@@ -6,7 +6,7 @@ headline:
 categories: personal
 tags:
   - reflections
-imagefeature: "http://www.wallpaperbod.com/wallpapers/2013/05/Free-Beautiful-Landscape-Desktop-Wallpaper-06-2010-98-1800x2880.jpg"
+imagefeature:
 comments: false
 mathjax: null
 featured: true

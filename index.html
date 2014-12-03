@@ -119,9 +119,9 @@ tags:
 	                {% if post.video %}
 	        		{% assign video_embed = post.video | remove:'https://www.youtube.com/watch?v=' %}
                     <p><iframe width="940" height="529" src="//www.youtube.com/embed/{{ video_embed }}?theme=light&amp;color=white" frameborder="0" allowfullscreen> </iframe></p>
-                    <p class="lead">{{ post.content | strip_html | truncatewords:100 }}&hellip;</p>
+                    <p>{{ post.content | strip_html | truncatewords:100 }}&hellip;</p>
                     {% else %}
-	                <p class="lead">{{ post.excerpt }}&hellip;</p>
+	                <p>{{ post.excerpt }}&hellip;</p>
 	                {% endif %}
 	                <div class="text-center">
 	                    {% if post.description %}
