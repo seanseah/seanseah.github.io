@@ -2,12 +2,12 @@
 layout: page
 permalink: /about-sean/
 title: Sean Seah
-tags: [Sean Seah]
+tags:
 image:
   feature:
 ---
 <figure>
-  <img src="{{ site.url }}/images/hossain-faysal.jpg">
+  <img src="{{ site.url }}/images/seanseah.jpg">
   <figcaption>Me</figcaption>
 </figure>
 
@@ -23,7 +23,8 @@ I
 love
 technology.
 
-
 *All sorts. Gadgets. Phones. Computers. Wearables.*
 
-Over the years, I started out a small blog called GadgetReactor which captures my thoughts and opinions on the latest technology, especially on the Singaporean front. It was fun. Blogging has brought me new opportunities and allowed me to experience the latest gadgets first hand. Along the way, I noticed that certain technology have stagnated, and companies come and go. The death of Nokia is one such example. The lesson from it applies to us as well. We need to stay relevant otherwise we become obsolete.
+Over the years, I started a small blog called GadgetReactor which captures my thoughts and opinions on the latest technology, especially on the Singaporean front. GadgetReactor evolved to cover gadgets that appealed to me, and anything with technology that improves life. It was fun. Blogging has brought me new opportunities and allowed me to experience the latest gadgets first hand. Along the way, I noticed that certain technology have stagnated, and companies come and go. The death of Nokia is one such example. The lesson from it applies to us as well. We need to stay relevant otherwise we become obsolete.
+
+On a personal level, I started my own blog back in 2007. I thought this could be quite fun, always wanted to blog but never had much of a life to talk about, and this could be somewhat of an outlet for people to get to know more about me. The coolest thing would be I suppose, the retrospective this allows. I wonder how it will all look when I take this trip down memory lane in a few years time, as I seek to discover the memories and moments that pass us by.
