@@ -100,6 +100,7 @@ I started GadgetReactor in 2012 together with Zhaolin to start sharing tech news
 ## Random Stuff
 Websites
 - Personal
+- ngE Clan
 - Rehabking
 - Squadron
 - Project BRASIL
@@ -108,20 +109,20 @@ Websites
 - Geek-Looking-Glass
 - VJC Robotics
 
-
-
 Android Codes
 
 XBMC Plugins
 - GameSaves
 - GameTrailers
 - NowShowing
+- sg!Radio
+- sg!TV
 
-Clan ngE - started with my school mate. There were only four of us, my school mate's brother and a rookie who was an endearing 12 year old - Psymasta. We were really a social group and when I started playing more competitively, we disbanded and I joined one of the big clans in Singapore.
+Clan ngE - It was started by my secondary school friend as we were the only two in the school playing Unreal Tournament. There were only four of us, my school mate's brother and a rookie who was an endearing 12 year old - Psymasta. We were a small social group and when I started playing more competitively, we disbanded and I joined one of the bigger clans in Singapore.
 
-I became known as Kaer[X3M] - and since I was still on 56k dial up connection, my ping connection was usually in the range of 150-250, which was substantial lag for a fast-paced first person shooter. Yet, I handled myself pretty well online and was known as one of the better 56k players. It was also around that time when I took part in my first gaming competition. UnrealTournament was quite big in Singapore, albeit perhaps smaller than Quake but it was still a nice, sizeable community. There were about 30 teams, and we made it to the last 8, before being eliminated.
+I became Kaer[X3M] - and since I was still on 56k dial up connection, my ping connection was usually in the range of 150-250, which was still substantial lag for a fast-paced first person shooter. Yet, I handled myself pretty well online and was known as one of the better 56k players. It was also around that time when I took part in my first gaming competition. Adapting to gameplay without lag was a strange experience. UnrealTournament was quite big in Singapore, albeit perhaps smaller than Quake but it was still a nice, sizeable community. There were about 30 teams, and we made it to the last 8, before being eliminated.
 
-When I finally made the upgrade over to broadband, that saw a marked improvement in my gameplay. I continued to participate in the clan and I think the best result was in the SAFRA gaming competition as well as one organised at Cathay Cineleisure.
+When I finally made the upgrade over to broadband, I saw a marked improvement in my gameplay. Over time, my skills improved and I continued to participate in the clan activities although it coincided with my 'O' levels. I still remember playing UT on the night before my O level exams. Once the exams were out of the way, there were a couple of LAN gmaing competitions and I think the best result was in the SAFRA gaming competition as well as one organised at Cathay Cineleisure.
 
 Financial Expense Tracker
 SG!TV

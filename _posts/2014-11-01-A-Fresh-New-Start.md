@@ -1,29 +1,23 @@
 ---
 layout: post
-title: Hello, My Name is Sean
+title: A Fresh New Start
 description: My Journey to Github
-headline: "Hello, My Name is Sean"
+headline: 
 categories: personal
 tags:
   - blogging
   - jekyll
-image:
-  feature: "disneyland.jpg"
-  credit: spreadeffect.com
-  creditlink: "http://www.spreadeffect.com/blog/improve-website-speed/"
+imagefeature:
 comments: false
-mathjax: null
 featured: true
 published: true
 ---
-
-##My Journey to Github
 
 I wouldn't call myself a developer, nor a web designer, but I enjoy doing such activities. I have been dabbling with computers, web design, python, wordpress, php / mysql, django and the likes. This is my first step into the world of Git and also the use of Markdown / Kramdown syntax. 
 
 > Learning new things is amazing!
 
-Learning new things can be painful too. But rewarding nonetheless. I switched over to Github for a few reasons. Free stuff is always appreciated and Github offers great response / connection across anywhere in the world. Better than the usual web host in fact and I figured it would be a fantastic place to host my website. Next up, Github has always been about a code repository and I have seen so many past work / websites disappear in dust and I didn't want that to happen again. I recently had the same problem with Wordpress as it was a pain to migrate them due to the MySQL databases. However, I have since learned an easier way to do it.
+Learning new things can be amazing, but it can be painful too. However, it is rewarding nonetheless. I switched over to Github for a few reasons. Free stuff is always appreciated and Github offers great response / connection across anywhere in the world. Better than the usual web host in fact and I figured it would be a fantastic place to host my website. Next up, Github has always been about a code repository and I have seen so many past work / websites disappear in dust and I didn't want that to happen again. I recently had the same problem with Wordpress as it was a pain to migrate them due to the MySQL databases. However, I have since learned an easier way to do it.
 
 This is not the foolproof way to backup a Wordpress site, but rather it is a quick step to convert a WordPress site to static HTML and CSS. Perhaps more for archiving purposes. This needs a Linux / Unix terminal, and through using a command, called wget. 
 
@@ -60,9 +54,3 @@ Why? Github host static websites and the closest to a dynamic CMS is Jekyll. Wel
 So off to Jekyll it is. 
 
 It is pretty simple setting up Jekyll on Github. Fork someone's repository, name it yourname.github.io and it get's published at the same link. Just be sure to update the posts and images before you go live. 
-
-
-
-
-
-

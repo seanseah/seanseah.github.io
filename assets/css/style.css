@@ -81,11 +81,6 @@ a:hover {
   font-size: 18px;
   font-style: italic;
 }
-/* - Lead text - */
-.lead {
-  font-size: 21px;
-  line-height: 2em;
-}
 /* - Blockquote - */
 blockquote {
   padding-left: 0;
@@ -320,9 +315,6 @@ pre {
     font-size: 48px;
     line-height: 1em;
   }
-  .lead {
-    font-size: 16px;
-  }
 }
 @media (max-width: 320px) {
   body {
@@ -369,9 +361,6 @@ h3,
 h4,
 h5,
 h6,
-.lead {
-  color: #1e1e1f;
-}
 a {
   color: #807f83;
   border-color: #807f83;
@@ -760,9 +749,6 @@ body button {
 }
 .light {
   font-weight: 300 !important;
-}
-.lead {
-  font-weight: 400;
 }
 h1,
 h2,

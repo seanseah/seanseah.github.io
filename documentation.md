@@ -8,7 +8,7 @@ image:
   feature: picture-11.jpg
 ---
 
-General notes and suggestions for customizing **HMFAYSAL OMEGA Theme**.
+General notes and suggestions for customizing posts and pages on **seanseah.github.io**.
 
 <section id="table-of-contents" class="toc">
   <header>
@@ -31,7 +31,7 @@ General notes and suggestions for customizing **HMFAYSAL OMEGA Theme**.
 <br>
 <br>
 
-<div class="span7 text-center" markdown="0"><a href="https://github.com/hmfaysal/hmfaysal-omega-theme/archive/master.zip" class="btn btn-success btn-large"><i class="icon-download-alt"></i> Download the Theme</a></div>  
+<div class="span7 text-center" markdown="0"><a href="https://github.com/seanseah/seanseah.github.io/archive/master.zip" class="btn btn-success btn-large"><i class="icon-download-alt"></i> Download the Theme</a></div>  
 <br>
 
 **Pro-tip:** Delete the `gh-pages` branch after cloning and start fresh by branching off `master`. There is a bunch of garbage in `gh-pages` used for the theme's demo site that I'm guessing you don't want on your site.
@@ -102,8 +102,6 @@ links:
     url: /categories
   - title: Tags
     url: /tags
-  - title: Faysal who?
-    url: /hossain-mohd-faysal
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
@@ -135,7 +133,7 @@ kramdown:
 
 ## Post Front Matter YAML
 
-HMFAYSAL OMEGA uses variable post templates for articles, quotation, video, photo and status updates. 
+Variable post templates are used for articles, quotation, video, photo and status updates. 
 
 A new blog post should have the following structure to utilise the themes functions
 
@@ -304,7 +302,7 @@ HMFAYSAL-OMEGA-THEME
 
 ### _config.yml
 
-Most of the variables found here are used in the .html files found in `_includes` if you need to add or remove anything. A good place to start would be to change the title, tagline, description, and url of your site. Links are absolute and prefixed with `{{ "{{ site.url " }}}}` in the various `_includes` and `_layouts`, so remember to properly set `url`[^1] and use `http://localhost:4000` when developing locally or else the theme's stylesheet and scripts won't load.
+Most of the variables found here are used in the .html files found in `_includes` if you need to add or remove anything. A good place to start would be to change the title, tagline, description, and url of your site. Links are absolute and prefixed with <kbd>{{ "{{ site.url " }}}}</kbd> in the various `_includes` and `_layouts`, so remember to properly set `url`[^1] and use `http://localhost:4000` when developing locally or else the theme's stylesheet and scripts won't load.
 #### Disqus Comments
 
 Create a [Disqus](http://disqus.com) account and change `disqus_shortname` in `_config.yml` to the Disqus *shortname* you just setup. To enable commenting on a post, add the following to its front matter:
@@ -352,8 +350,6 @@ links:
     url: /categories
   - title: Tags
     url: /tags
-  - title: Faysal who?
-    url: /hossain-mohd-faysal
 {% endhighlight %}
 
 #### Simple Search
@@ -460,7 +456,3 @@ If you have some specific requests for this theme, or if you need help custom co
 ## License
 
 This theme is free and open source software, distributed under the [The MIT License]({{ site.url }}/license/). So feel free to use this Jekyll theme on your site without linking back to me or using a disclaimer.
-
-If you'd like to give me credit somewhere on your blog or tweet a shout out to [@hmfaysal](https://twitter.com/hmfaysal), that would be pretty sweet.
-
-[^1]: Used to generate absolute urls in `sitemap.xml`, `feed.xml`, and for canonical urls in `head.html`. Don't include a trailing `/` in your base url ie: http://hmfaysal.github.io. When developing locally I suggest using `http://localhost:4000` or whatever server you're using to properly load the theme's stylesheet, scripts, and image assets. If you leave this variable blank all links will resolve correctly except those pointing home.

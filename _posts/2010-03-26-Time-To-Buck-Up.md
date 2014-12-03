@@ -2,7 +2,7 @@
 layout: post
 title: Time to Buck Up
 description: 
-headline: Looking good 
+headline: The Journey to Looking Good 
 categories: personal
 tags:
   - blogging
@@ -13,13 +13,15 @@ published: true
 ---
 
 when one door closes.. another opens...
-we are often so preoccupied with the lost of some opportunities that we tend to miss the new opportunities present to us. I have been lucky at my career. It has not been the smoothest of paths but I am happy with what chances and opportunities it has given me thus far. Its going to be a challenging year ahead.. time to work hard!
 
-Anyway, I am seriously getting fatter. Weighing in at about 65 kg now, and it is definitely not muscle mass gained. Damn. Haha...
+we are often so preoccupied with the loss of some opportunities that we tend to miss the new opportunities present to us. I have been lucky at my career. It has not been the smoothest of paths but I am happy with what chances and opportunities it has given me thus far. Its going to be a challenging year ahead.. and that just means it is time to work hard!
 
-I am all of a sudden motivated once again to start exercising and whipping my body into shape once more. This feeling has came and gone for quite a few times in my life and I have to admit that each moment of burst it has at least forced me to keep in relatively decent shape which is a good thing. I have all too often let myself lose to the laziness. Well, how long will this new found momentum be able to carry itself? I doubt it will last more than a week or two to be honest, what with work getting in the way and all. I can't blame it on anything other than myself considering that there's a gym in the office but I hardly use it, more keen to head home instead of spending precious time there. Perhaps its a mentality that I should be changing. Let's see how the next few weeks take me.
+Anyway, I am seriously getting fatter. Weighing in at about 65 kg now, and it is definitely not muscle mass gained. UNFORTUNATELY. Haha...
 
-So.. its time to train. And this is my geeky setup for jogging.
-Bluetooth earphones linked up with a GPS phone that measures the distance + calories burnt of my run :) Everything connects easily and it just works (though some might say the initial setup is a PITA). Actually, knowing how far you run and how fast you run is a great motivator.
+I am once again spurred by sudden motivation to start exercising and whipping my body back into shape. This feeling has came and gone for quite a few times in my life and I have to admit that each moment of burst has at least forced me to keep in relatively decent shape which is still a good thing. Yet, consistency is the key if I want to achieve my dream of a fit, muscular body, but I have all too often let myself lose to the laziness. 
 
-http://3.bp.blogspot.com/_m5e8Pqc8k3c/S6y1N-_VYaI/AAAAAAAAHCE/itnEuXuKakE/s1600/DSCF6753.JPG
+Well, how long will this new found momentum be able to carry itself? I doubt it will last more than a week or two to be honest, what with work getting in the way and all. I can't blame it on anything other than myself considering that there's a gym in the office but I hardly use it, more keen to head home instead of spending precious time there. Perhaps its a mentality that I should be changing. Let's see how the next few weeks take me.
+
+I have also started on new interest activities. Instead of just keeping it to the gym and weights, I am also now exploring, running. It's part of technology in action, with my geeky setup for jogging.
+
+Bluetooth earphones linked up with a GPS phone that measures the distance + calories burnt of my run :) Everything connects easily and it just works (though some might say the initial setup is a PITA). Actually, knowing how far you run and how fast you run is a great motivator. But, the challenge of carrying a phone with you while running is a genuine problem and even if you can, there is also a problem of water ingression, which can drive many gadgets conker. The particular pair of bluetooth earphones died after a few vigourous runs after exposure to sweat.
