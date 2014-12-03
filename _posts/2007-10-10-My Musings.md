@@ -29,11 +29,13 @@ The way out of it all? Just relax. We shouldn't think too much and just accept l
 
 ***Musings 2
 
-It's been awhile since I was out before the sun came out, and wasn't exactly looking forward to it too. Well, I don't really have much options to blame other than myself for not getting my bus pass earlier but well, perhaps taking the early cycling trip this morning isn't that bad a thing either.
+It's been awhile since I was out before the sun came out, and wasn't exactly looking forward to it too. I don't really have much options to blame other than myself for not getting my bus pass earlier but well, perhaps taking the early cycling trip this morning isn't that bad a thing either.
 
 That's just how I am. At times, stingy to the extent that I would torture myself just to save a dollar?
 
-It was a 10 min trip to Kembangan station, and the moment I turned out from my house, I could feel the cold wind coming headlong as I pedalled faster, I started to shiver on the bike. Yet, it was surprisingly quite refreshing! I felt rejuvunated and excited to cycle faster. I guess I am just very much a morning person and that little morning ride energised me and got me ready for the day. 
+It was a 10 min trip to Kembangan station, and the moment I turned out from my house, I could feel the cold wind coming headlong as I pedalled faster, I started to shiver on the bike. Yet, it was surprisingly quite refreshing! I felt rejuvunated and excited to cycle faster. I guess I am just very much a morning person and that little morning ride energised me and got me ready for the day. Mornings are the most productive time for me. 
+
+Therefore, I need to make full use of this morning time, and to dedicate my energy and attention span to the tasks that needs it the most. One article I read suggested that people should avoid checking emails during the morning, well, because, emails are varied, at times include work chatter, and all these are just distracting. Before you are aware of it, half the morning had passed and so too is the optimal window for productivity. 
 
 It was quite strange to see so many school kids getting ready for school, walking to the MRT or to school, a scene that disappears once the sun comes up. Wasn't it just a few years ago that I was part of this very same school going crowd? Very soon, in a few months time, I will probably rejoin this crowd as I will have to get up like at 6, put on my uniform, and make my way to camp. Going backwards in time.
 
@@ -113,8 +115,6 @@ The tensions that you are trying to cope with are a result of conditions which a
 1984 - Hola Mundo! - "I opened my eyes!"
 
 1988 - 1989 - Goodbye Mummy - Thank You... for nothing. It might have been drilled into me since young not to believe in my mum. Perhaps a cynical ploy from my dad, but that's the way it was. 
-
-
 
 1990 - The Start of Formal Education - The most striking memory I have was a classmate called Melvin. He was a skinny boy in class that was often bullied because of his clumsy, good natured ways. It wasn't that nasty, but it was the typical laughing at him and making tasteless jokes. I don't deny it, I was one of those that bullied him too - typical herd mentality I guess. Yet, one day, I saw him with his grandmother. She was old and frail but I could see that she cared a lot for her grandchild. That affected me. Why was I bullying her grandson? Wouldn't it hurt her to see her grandson being upset? I took it upon myself to protect him and told my other classmates off. That episode struck a chord with me. I have always lived with my grandparents and they have been and instrumental part of my life. 
 

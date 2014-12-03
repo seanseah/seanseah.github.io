@@ -14,6 +14,12 @@ published: true
 
 Surprisingly, despite Nokia's dominance, I have never used a Nokia phone before, the last 3 phones I owned were either Sony Ericsson or Samsung, and well, this makes for a nice change. I have been considering to get this phone for quite awhile, the wait was extended also no thanks to Singtel and the Red Wheels promotion, which gave me a $100 dollars voucher but required a student plan, hmm, the corporate plan under Mindef was still a better deal. I ended up not using the voucher and could have just gotten the phone almost couple of months ago. Well, better late than never!
 
+<figure class="half">
+<a href = "http://3.bp.blogspot.com/_m5e8Pqc8k3c/RhcKyFwdi-I/AAAAAAAABBA/WjcIwhccM6w/s1600/e61-2.jpg">
+<img src="http://3.bp.blogspot.com/_m5e8Pqc8k3c/RhcKyFwdi-I/AAAAAAAABBA/WjcIwhccM6w/s600/e61-2.jpg"></a>
+<a href="http://3.bp.blogspot.com/_m5e8Pqc8k3c/RhcKllwdi9I/AAAAAAAABA4/Zx8YzxBWbow/s1600/E61.jpg"><img src="http://3.bp.blogspot.com/_m5e8Pqc8k3c/RhcKllwdi9I/AAAAAAAABA4/Zx8YzxBWbow/s600/E61.jpg"></a> 
+</figure>
+
 What can I say, first impression of this phone is that it is wide and kinda bulky, but it makes up for it by being both slim and quite light actually, so it does fit nicely into the pocket. I haven't gotten used to one hand operation, and it might be abit unwieldy at times but it should be a matter of adjustment.
 
 As for the phone itself, features wise, it is amazing. It lacks a camera, which is a great thing for me, the main reason why I considered this phone over the E65 other than the larger screen. It HAS a great screen, think it is as large as the Ipod Video, around 3", I've tried watching anime and trailers on it, quality's decent and definitely watchable, even with the subtitles. It doesn't come with any easy way of getting audio out to a decent headphones, might need to invest in an connector, which adds more bulk, so thats a big disadvantage to me.
