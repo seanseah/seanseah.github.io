@@ -34,7 +34,7 @@ It also granted some father / son bonding time. As my collection grew, I pestere
 	<a href="http://4.bp.blogspot.com/_m5e8Pqc8k3c/RbOCxssgUMI/AAAAAAAAACg/tHV1AxaCddI/s1600/weee+034.jpg"><img src="http://4.bp.blogspot.com/_m5e8Pqc8k3c/RbOCxssgUMI/AAAAAAAAACg/tHV1AxaCddI/s600/weee+034.jpg"></a>
 </figure>
 <figure>
-	<a href="http://4.bp.blogspot.com/_m5e8Pqc8k3c/RbOGtssgUQI/AAAAAAAAADQ/SoRZGGH7664/s1600/weee+036.jpg"><img src="http://4.bp.blogspot.com/_m5e8Pqc8k3c/RbOGtssgUQI/AAAAAAAAADQ/SoRZGGH7664/s600/weee+036.jpg"></a>
+	<a href="http://4.bp.blogspot.com/_m5e8Pqc8k3c/RbOGtssgUQI/AAAAAAAAADQ/SoRZGGH7664/s1600/weee+036.jpg"><img src="http://4.bp.blogspot.com/_m5e8Pqc8k3c/RbOGtssgUQI/AAAAAAAAADQ/SoRZGGH7664/s800/weee+036.jpg"></a>
 </figure>
 <figure class="half">
 	<a href="http://1.bp.blogspot.com/_m5e8Pqc8k3c/RbOEX8sgUOI/AAAAAAAAADA/wE1_xxL_psw/s1600/weee+020.jpg"><img src="http://1.bp.blogspot.com/_m5e8Pqc8k3c/RbOEX8sgUOI/AAAAAAAAADA/wE1_xxL_psw/s600/weee+020.jpg"></a>
@@ -46,5 +46,5 @@ It also granted some father / son bonding time. As my collection grew, I pestere
 	<a href="http://4.bp.blogspot.com/_m5e8Pqc8k3c/RbOJYssgUSI/AAAAAAAAADw/UlBvPvY5U8I/s1600/weee+055.jpg"><img src="http://4.bp.blogspot.com/_m5e8Pqc8k3c/RbOJYssgUSI/AAAAAAAAADw/UlBvPvY5U8I/s600/weee+055.jpg"></a>
 </figure>
 <figure>
-	<a href="http://3.bp.blogspot.com/_m5e8Pqc8k3c/RbOItcsgURI/AAAAAAAAADo/BLMtKWaPvpE/s1600/weee+047.jpg"><img src="http://3.bp.blogspot.com/_m5e8Pqc8k3c/RbOItcsgURI/AAAAAAAAADo/BLMtKWaPvpE/s600/weee+047.jpg"></a>
+	<a href="http://3.bp.blogspot.com/_m5e8Pqc8k3c/RbOItcsgURI/AAAAAAAAADo/BLMtKWaPvpE/s1600/weee+047.jpg"><img src="http://3.bp.blogspot.com/_m5e8Pqc8k3c/RbOItcsgURI/AAAAAAAAADo/BLMtKWaPvpE/s800/weee+047.jpg"></a>
 </figure>
