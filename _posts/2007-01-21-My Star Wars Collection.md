@@ -5,7 +5,7 @@ title: My Star Wars Collection
 description:
 category: photos
 tags: [star wars, images, gallery]
-imagefeature: 
+imagefeature: rebelscum.jpg
 comments: true
 mathjax: null
 ---
