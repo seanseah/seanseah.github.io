@@ -13,7 +13,7 @@ featured: true
 published: true
 ---
 
-I wouldn't call myself a developer, nor a web designer, but I enjoy doing such activities. I have been dabbling with computers, web design, python, wordpress, php / mysql, django and the likes. This is my first step into the world of Git and also the use of Markdown / Kramdown syntax. 
+I have decided to set up a personal page on Github, and currently in the midst of migrating my past blog posts over. I have been dabbling with computers, web design, python, wordpress, php / mysql, django and the likes, but really just scratching the surface for each of them. This is my first step into the world of Git and also the use of Markdown / Kramdown syntax. 
 
 > Learning new things is amazing!
 
@@ -53,4 +53,4 @@ Why? Github host static websites and the closest to a dynamic CMS is Jekyll. Wel
 
 So off to Jekyll it is. 
 
-It is pretty simple setting up Jekyll on Github. Fork someone's repository, name it yourname.github.io and it get's published at the same link. Just be sure to update the posts and images before you go live. 
+It is pretty simple setting up Jekyll on Github. Fork someone's repository, name it yourname.github.io and it get's published at the same link. Just be sure to update the posts and images before you go live.
