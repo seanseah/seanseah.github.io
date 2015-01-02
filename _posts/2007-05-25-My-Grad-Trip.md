@@ -13,8 +13,15 @@ published: true
 
 Taiwan Grad Trip! An event to mark the end of 4 years of my education and to symbolise the friendship that has been forged during them. Not all were able to join us for our graduation trip and off goes the 3 of us as we embarked on our trip together, Linghuey, Andy and me!
 
-* Auto generated table of contents {:toc}
-<!-- /#table-of-contents -->
+<section id="table-of-contents" class="toc">
+  <header>
+    <h3 >Contents</h3>
+  </header>
+<div id="drawer" markdown="1">
+*  Auto generated table of contents
+{:toc}
+</div>
+</section><!-- /#table-of-contents -->
 
 ## Day 1
 

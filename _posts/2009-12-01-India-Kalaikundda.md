@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  India Kalaikunda
-description: India for Work
+title:  First Visit to India
+description: It's a Work Trip
 headline:  
 categories: personal
 tags:

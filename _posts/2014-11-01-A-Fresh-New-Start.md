@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A Fresh New Start
-description: My Journey to Github
+title: My Journey to Github from Wordpress
+description: 
 headline: 
 categories: personal
 tags:
@@ -45,12 +45,14 @@ Here's what's happening:
     
 > Turn on options suitable for mirroring. This option turns on recursion and time-stamping, sets infinite recursion depth and keeps ftp directory listings.
 
-So that's that for backing up Wordpress sites to a static copy, immensely useful but too bad I learnt it at a late stage before I could actually backup share-our-joy.com - I will re-create it in due course.
+So that's that for backing up Wordpress sites to a static copy, immensely useful but too bad I learnt it at a late stage before I could actually backup share-our-joy.com - I will re-create it in due course - and it's done - now live at [http://gadgetreactor.github.io/shareourjoy](http://gadgetreactor.github.io/shareourjoy). I did it with the help of the Internet Web Archive.
 
 ## Shifting to Jekyll
 
 Why? Github host static websites and the closest to a dynamic CMS is Jekyll. Well there were definite advantages to the use of Jekyll - it is fast, bloat-free. But perhaps, I just wanted to learn something new. It is not that Wordpress is bad. In fact, tons of websites are based off Wordpress today and speed is easily fixed by caching and generating static files with WP-plugins and also using CDN to deliver media. 
 
-So off to Jekyll it is. 
+But anyhow, it is time to explore something new, and I have now loaded up Jekyll. 
 
 It is pretty simple setting up Jekyll on Github. Fork someone's repository, name it yourname.github.io and it get's published at the same link. Just be sure to update the posts and images before you go live.
+
+Having used it for awhile. It's pretty nice. It is not as portable as Blogger or Wordpress where I can blog from any location. Theoretically I can since I can edit directly from Github but it's not as convenient.
