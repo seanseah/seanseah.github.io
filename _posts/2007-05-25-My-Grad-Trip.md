@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  My Taiwan Grad Trip
-description: Travel post on trip to Phuket
+description: Travel post on trip to Taiwan
 headline:  
 categories: personal
 tags:
@@ -13,28 +13,36 @@ published: true
 
 Taiwan Grad Trip! An event to mark the end of 4 years of my education and to symbolise the friendship that has been forged during them. Not all were able to join us for our graduation trip and off goes the 3 of us as we embarked on our trip together, Linghuey, Andy and me!
 
+* Auto generated table of contents {:toc}
+<!-- /#table-of-contents -->
+
 ## Day 1
 
 There was to be no luxury of service, drinks, or movies on board the 5 hour budget flight, and had to survive on a solitary can of Pepsi which was gulped down shortly after it landed on the mini foldable table. That cost me $3! Well at least there were quite a number of us, the ME group, Sheerine, + us = 10, to entertain ourselves. Liwei had a nifty thing with cards but the real fun started when Andy took out his PSP, and choice of game was some word hunt thing, similar to the Yahoo! games. He was just too good though. Can't beat the speed at which he is able to spot and link up the words, hack. CHEAT.
 
-At CKS Airport, our first stop was to get the Youth Pass, which we didn't use at all! Haha, guess we still do very much look like students after all so didn't had to show it, not like there were many opportunities, hmm. It was then a 1 hr ride to the city on the Guo Guang bus. First glimpse of the sheer number of bikes in the city and their many face masks. We had to collect our train tickets that had previously been booked in Singapore and along the way grabbed some bread as we were already starving by this time. It was some extra large green tea bun along with a standard pork floss bun, done 'breadtalk' style. Yummy?
+At CKS Airport, our first stop was to get the Youth Pass, which we didn't need to show at all subsequently through the trip! Haha, guess we still do very much look like students after all so didn't had to show it, not like there were many opportunities, hmm. It was a 1 hr ride to the city on the Guo Guang bus. First glimpse of the sheer number of bikes in the city and their many face masks. We had to collect our train tickets that had previously been booked in Singapore and along the way grabbed some bread as we were already starving by this time. It was some extra large green tea bun along with a standard pork floss bun, done 'breadtalk' style. Yummy?
 
 What followed was our first attempt at navigating the streets of Taipei and it was a failure! Luckily though, through it, we had a brief glimpse of the Taipei Underground Mall which we will not be revisiting.
 
-http://lh3.google.com/image/kaer84/RlOcn3_gRiI/AAAAAAAABPo/Ws3oaKBUiTQ/s288/DSCF1849.JPG
+Our hotel, Keyman Hotel was quite near the Train Station, really a quaint little hotel, very much non-descript but the room was ok, clean and bright. We managed to get through to Ivan, Andy and LH's friend, luckily! He was on exchange in Taipei, and helped us out as our unofficial 'tour guide' of the night. Oh at the train station we also purchased the EasyCard which is the equivalent of our Ezlink and we started "t-teeing" our way to Jiantan MRT for our first travel stop.
 
-<img src="http://lh6.google.com/image/kaer84/RlOern_gSOI/AAAAAAAABVI/o6vg246GG8I/s288/DSCF1912.JPG" />
+<figure class="third">
+<a href = "http://lh3.google.com/image/kaer84/RlwnHn_ggmI/AAAAAAAADIQ/NV9EvjF7RMY/s1600/IMG_1309.JPG">
+<img src="http://lh3.google.com/image/kaer84/RlwnHn_ggmI/AAAAAAAADIQ/NV9EvjF7RMY/s600/IMG_1309.JPG"/></a>
+<a href="http://lh5.google.com/image/kaer84/RlwnJH_ggnI/AAAAAAAADIY/H8A0g_N20VY/s1600/IMG_1316.JPG"><img src="http://lh5.google.com/image/kaer84/RlwnJH_ggnI/AAAAAAAADIY/H8A0g_N20VY/s600/IMG_1316.JPG"/></a>
+<a href="http://lh6.google.com/image/kaer84/RlwnMX_ggpI/AAAAAAAADIo/dUbO-yfLUh0/s1600/IMG_1324.JPG">
+<img src="http://lh6.google.com/image/kaer84/RlwnMX_ggpI/AAAAAAAADIo/dUbO-yfLUh0/s600/IMG_1324.JPG"/></a>
+</figure>
+<figure class="third">
+<a href="http://lh5.google.com/image/kaer84/RlwnOH_ggqI/AAAAAAAADIw/Qb7IrkmJnqQ/s1600/IMG_1334.JPG">
+<img src="http://lh5.google.com/image/kaer84/RlwnOH_ggqI/AAAAAAAADIw/Qb7IrkmJnqQ/s600/IMG_1334.JPG"/></a>
+<a href="http://lh4.google.com/image/kaer84/RlwnK3_ggoI/AAAAAAAADIg/e5SgYakZoGo/s1600/IMG_1320.JPG">
+<img src="http://lh4.google.com/image/kaer84/RlwnK3_ggoI/AAAAAAAADIg/e5SgYakZoGo/s600/IMG_1320.JPG"/></a>
+<a href="http://lh3.google.com/image/kaer84/RlwnPn_ggrI/AAAAAAAADI4/BQYgQt5HNfU/s1600/IMG_1336.JPG">
+<img src="http://lh3.google.com/image/kaer84/RlwnPn_ggrI/AAAAAAAADI4/BQYgQt5HNfU/s1600/IMG_1336.JPG"/></a>  
+</figure>
 
-Our hotel, Keyman Hotel was quite near the Train Station, really a quaint little hotel, very much non-descript but the room was ok, clean and bright. We managed to get through to Ivan, Andy and LH's friend, luckily! He was more familiar with Taipei and our unofficial 'tour guide' of the night. Oh at the train station we also purchased the EasyCard which is the equivalent of our Ezlink and we started "t-teeing" our way to Jiantan MRT for our first travel stop.
-
-<img src="http://lh3.google.com/image/kaer84/RlwnHn_ggmI/AAAAAAAADIQ/NV9EvjF7RMY/s144/IMG_1309.JPG"/>
-<img src="http://lh5.google.com/image/kaer84/RlwnJH_ggnI/AAAAAAAADIY/H8A0g_N20VY/s144/IMG_1316.JPG"/>
-<img src="http://lh6.google.com/image/kaer84/RlwnMX_ggpI/AAAAAAAADIo/dUbO-yfLUh0/s144/IMG_1324.JPG"/>
-<img src="http://lh5.google.com/image/kaer84/RlwnOH_ggqI/AAAAAAAADIw/Qb7IrkmJnqQ/s144/IMG_1334.JPG"/>
-<img src="http://lh4.google.com/image/kaer84/RlwnK3_ggoI/AAAAAAAADIg/e5SgYakZoGo/s144/IMG_1320.JPG"/>
-<img src="http://lh3.google.com/image/kaer84/RlwnPn_ggrI/AAAAAAAADI4/BQYgQt5HNfU/s144/IMG_1336.JPG"/>  
-
-Shihlin Night Market. Ahh, just lots and lots of food, alot of must try, and with it being our first night and all, was probably the one where we ate the most! Shihlin's a huge place and after satisfying our initial craving of food, we did spend most of the night weaving in and out through the stores although we weren't interested to shop all that much considering our long journey ahead. Think this is probably one of the more interesting night markets, with a mixture of both food and shopping. We stayed there till around 11pm and although we did attempt to cover the entire area, didn't really succeeded with some of the portions left unexplored.
+**Shihlin Night Market**. _The_ most iconic night market in Taipei. Ahh, just lots and lots of food, alot of must try, and with it being our first night and all, it was probably the one where we ate the most! Shihlin's a huge place and after satisfying our initial craving of food, we did spend most of the night weaving in and out through the stores although we weren't interested to shop all that much considering our long journey ahead. Think this is probably one of the more interesting night markets, with a mixture of both food and shopping. We stayed there till around 11pm and although we did attempt to cover the entire area, it was just too big. 
 
 ## Day 2
 
@@ -42,11 +50,13 @@ We will look back upon and think of this day, the day that will be forever etche
 
 Having to wake up at 6+ to check out and catch our early train to Hualien, we were all very much zombified still and breakfast was settled at 7-Eleven (our first of many stops), before we went to grab the train, which was rather comfy and though we didn't look out much, there was quite a nice view outside. We managed to contact our tour guide who was very friendly and he picked us up at the train station for our Taroko Gorge Day Tour. He's like a mini celebrity on the TripAdvisor / Hardwarezone forums with many people raving about his services and all that was said was indeed true! But before that, a dabao lunch stop first "清淡又好吃". Well its good advice cos the food / COFFEE price up at the gorge was really not economical.
 
+<figure class="third">
 <img src="http://lh3.google.com/image/kaer84/RlOfZ3_gSdI/AAAAAAAABXA/KXBLR9bAJwk/s144/DSCF1931.JPG" /> 
 <img src="http://lh3.google.com/image/kaer84/RlOfs3_gSkI/AAAAAAAABX4/bgDz8HN_tI8/s144/DSCF1940.JPG" /> 
 <img src="http://lh5.google.com/image/kaer84/RlOgqX_gS3I/AAAAAAAABaQ/GjvCKrRf6vE/s144/DSCF1961.JPG" />
- 
-And off we go up the mountain! Hmm, sat in front, which meant, with a talkative Tour Guide, I had to keep replying him all the way! AH. Whole Day / Night! But haha, it was quite fun anyway,but my chinese cannot make it, so it was hard to both understand and be understood.
+</figure>
+
+And off we go up the mountain! Hmm, sat in front, which meant, with a talkative Tour Guide, I had to keep replying him all the way! All through out the day and night! But haha, it was quite fun anyway,but my chinese cannot make it, so it was hard to both understand and be understood.
 
 <img src="http://lh6.google.com/image/kaer84/RlOhvn_gTEI/AAAAAAAABb4/GK8X9dD2E9k/s288/DSCF1976.JPG" />
 ... at the entrance ...
@@ -302,16 +312,9 @@ It was quite nice just walking down the river and looking at the sights, sadly d
 Next stop, 城市光廊 or Urban Spotlight. Not sure what it is exactly but seems more like a chillout place with a live singer and lights in an urban park?
 
 <img src="http://lh6.google.com/image/kaer84/RlPcZn_gbNI/AAAAAAAACc8/oZZEoxN44ao/s400/DSCF2574.JPG" />
-... AH! Ghost! ...
-
 <img src="http://lh6.google.com/image/kaer84/RlPcun_gbSI/AAAAAAAACdk/VhNjcg6QKZE/s288/DSCF2582.JPG" />
-... Sir Stamford Sean pose ...
-
 <img src="http://lh4.google.com/image/kaer84/RlPc9H_gbWI/AAAAAAAACeE/U_blX0AeAl4/s288/DSCF2586.JPG" />
-... Charlie's Angels ...
-
 <img src="http://lh6.google.com/image/kaer84/RlPc_n_gbXI/AAAAAAAACeM/TX_0MTYnzyw/s288/DSCF2589.JPG" />
-... poseurs ...
 
 Other than an eggtart, doughnut, shopping, stationery break in between, we ended up at the LiouHe Night Market! Well, food's always good, we tried quite a nice variety once again, fried ice cream! oyster omelette (we requested without oyster after our seafood scare, erm abit bo hua hor), dumplings, etc etc.. There was also a near fatal accident as I poked Andy with the satay stick ACCIDENTALLY. Ok, I need training on how to feed a person haha.
 
@@ -320,3 +323,119 @@ Other than an eggtart, doughnut, shopping, stationery break in between, we ended
 <img src="http://lh3.google.com/image/kaer84/RlPdx3_gbnI/AAAAAAAACgM/9v9EkWCy82U/s144/DSCF2611.JPG" />
 
 With that, tired, we took our tired bodies back to the Hotel, but were still rejuvenated enough to play dice! Loser drinks a full glass of water, or subject to a whack with the cane that we bought. Luckily, I was not the one who had to keep waking up to go to the toilet, whew!
+
+## Day 4
+
+It was meant to be a lazy day with us having the initial plans of spending it at a water theme park. We had thought of going to Kenting, with the nice beaches and all, but was put off by the two hours journey that was required. So, the water theme park which was situated in Kaohsiung itself would be better for a simple R&amp;R day!
+
+Breakfast at the hotel was quite lousy, porridge with mostly vegetarian side dishes and for the international side there was just erm.. toast. The saving grace would be the pork floss, which went exceptionally well with the porridge or the toast and sufficient to keep me happy. Haha, ate almost 1 bowl of the pork floss. We also da-baoed up some together with bread for LH who as usual, cannot wake up!
+
+At the bus interchange, we asked how to go to the Water Theme Park and were informed of the directions. Things started to go terribly astray when we reached there as there were hardly people on the streets and at the mall next to it. Weird. The entire place sort of resembled that of a ghost town? With some checking around, wah, the stupid water theme park closed down. What's the information counter at the bus interchange doing?!
+
+Sigh. Disappointed. No choice, we now had to make the most out of the situation and we headed towards a new shopping mall which we had spotted earlier. It kinda fit into the Singapore mould of shopping malls, as typical as they go, the same standard boutiques, design, feel! But there were 2 shops that stood out that made it worth our visit!
+
+1) A shop that sold a bit retro stuff, but very much fashionable, and lots of other items but the picture here are of the sneakers, displayed on moving shelves, that go back and forth. The entire shop has a atas-theme to it, warmly lit, chandeliers, moving platforms, classy cabinets, and has a restaurant inside, for people to soak in the atmosphere. It's kinda similar to Tea Cosy at Plaza Sing, nice place too!
+
+<img src="http://lh6.google.com/image/kaer84/RlPfMn_gcCI/AAAAAAAACjk/zHAea0H4e9U/s288/DSCF2644.JPG" />
+
+2) A Candy Shop that might not have the same variety as our local Candy Empire but it makes up for it in its novelty items, sweets packaged as magazines, syringe, wine bottle, condoms, sanitary pads, and many more. Haha.. oh well, we bought enough to have one of those "so light that you don't feel it" advertisement!
+
+<img src="http://lh4.google.com/image/kaer84/RlPjFH_gdTI/AAAAAAAACts/SP0l9Lcl74U/s288/DSCF2751.JPG" />
+
+Well other than these, we went around manhandling the toys / rides.. =)
+
+<img src="http://lh4.google.com/image/kaer84/RlPgIH_gcVI/AAAAAAAACl8/O_H88H511CQ/s144/DSCF2667.JPG" /> <img src="http://lh5.google.com/image/kaer84/RlPghX_gcbI/AAAAAAAACms/dOHMhH-UfhY/s144/DSCF2673.JPG" />
+
+Time to leave the place and we took the free shuttle bus back to the main railway, by a stroke of luck, we alighted at this busy street, very night market sort. The street was filled with loads of students and we were one of the few tourists around, haha.. struck gold! The place where locals go and students, hmm, maybe we are older than them, but hey, mentality wise, food preference, should still be about the same? I would still consider ourselves as students too!
+
+<img src="http://lh4.google.com/image/kaer84/RlPg-H_gckI/AAAAAAAACn0/xT2E5QVchEU/s288/DSCF2687.JPG" /></div>
+
+Wee.. food foood foooood! We basically followed what the others were eating and weren't disappointed, the octopus ball thingy which is sold at Orchard also but cheaper and nicer here, some prata thingy, which sadly can't compare to local standards, though they eat it in a variety of ways, (we chose the one with pork floss) and some huge crispy crepe/pancake thingy.
+
+<img src="http://lh6.google.com/image/kaer84/RlPg0n_gchI/AAAAAAAACnc/vSIJj4tZdEI/s144/DSCF2683.JPG" /> <img src="http://lh5.google.com/image/kaer84/RlPhRX_gcqI/AAAAAAAACok/NO2VScODDeo/s144/DSCF2695.JPG" /> <img src="http://lh5.google.com/image/kaer84/RlPg5X_gcjI/AAAAAAAACns/uUCGM__kZdY/s144/DSCF2686.JPG" /><br />
+
+We went back to the hotel after that to dump our shopping stuff and had a nice footbath in the tub! Ahh, felt damn good to rest those tired legs and giving them a well deserved massage + soak. So tired to go out again, but with the night still early, we headed towards the night market for the last time in Kaohsiung, spent searching for more interesting things to eat. On the list of Kaohsiung attractions, there were supposedly three fashion streets for shoppers but when we actually checked it out, the items there were more like for an entire previous generation, and we weren't from that era so we hurriedly left!
+
+As the weekend was approaching, there were more street performers at the night market, a red indian music performing group as well as some goth chick playing the violin or something. Was looking around to see if there's anything to buy but the shopping desperations weren't around yet, so still had time to ponder. Oh while watching the indian performance, kept getting whiffs of the 臭豆腐... wah, haha, I can't stand it!
+
+On to another highlight of our trip.
+
+<img src="http://lh4.google.com/image/kaer84/RlPiYH_gdBI/AAAAAAAACrc/aBzC3L2OtCo/s400/DSCF2725.JPG" />
+Scooter Rental!
+
+We were on our way back to the hotel already, and happened to see a bike rental shop with prices quoted at around S$5 per hour. I can't remember who exactly suggested it, but there was the idea of renting a bike to ride around for fun. Haha, so off we go on our bike escapade! I approached the store owner and putting on a false air of confidence, said I wanted to rent a scooter and asked about the available range and rate. It was a good choice that we stick to the smallest capacity one!
+
+He did ask for my driving license and all, but not sure whether he couldn't care less or that he couldn't read English, he approved my application anyway. As there were 3 of us but only 1 license, we chose 2 helmets, but nobody dared to ride pillion with me, so I rode off first and made plans to meet them on the opposite side of the road where the shop owner can't see us. Having never ridden a bike/scooter before, I had no idea how to put down the lock / brake (handbrake equivalent) and just rev the handlebars, which of cos led to lots of noise and the bike staying still. I had to sheepishly ask the store owner for assistance like I had forgotten such a basic thing, haha, bet he saw through it though as he had a look of doubt on his face but he still did helped me anyway.
+
+When that was accomplished, the first start took me off on a quick start and jerked into the main road with heavy traffic, almost into the path of a bus! Not noticing the presence of the bus until he horned me and Andy/LH telling me to siam, haha, I had to quickly zham brake and use my feet to edge the scooter to the side of the road. So malu! Haha.. after that got out and pushed the bike to a less empty side of the road to start riding! It became much better on the 2nd try and had gotten the hang of the control.
+
+<img src="http://lh5.google.com/image/kaer84/RlPiVX_gdAI/AAAAAAAACrU/pw7-gvUq2kc/s288/DSCF2724.JPG" />
+... with better control ...
+
+After that, we just keep letting each other try the bike, taking turns and just riding around a quiet street. The thing was, there was a police post at the corner and they do patrol around quite often so we were quite crazy riding there, but they didn't say anything although after a few times, we decided that's that and moved to a empty carpark for our mini scooter tour. Well, the whole purpose of the 1 hour rental wasn't to go places, it was just like for us to try out how it was and heh heh.. take photos!!
+
+<img src="http://lh3.google.com/image/kaer84/RlPi33_gdPI/AAAAAAAACtM/yksQiDN8s38/s288/DSCF2740.JPG" />
+
+Going back time also very funny, cos it was a busy street outside and I had no guts to make a turn that involved cutting across a few lines of traffic so I stopped at the side road, and pushed the bike back. Haha.. the shop owner was once again quite scared when he saw me come back as such and straight away ask, "为什么用推的回来？" then he tested the bike immediately. Haha... ok la, it was definitely one of the more exciting moments of the trip, super adrenaline high!
+
+## Day 5
+
+Wow.. time is indeed passing quite fast. Our next travel stop would be the lotus flower pond and we took a train to Zuoying. When we arrived, we had thoughts of dumping our bags into the train locker but there were none present at the station. As the weather was good and since we were there already, might as well take a look at the vicinity, and with that we repacked our bags and set off. Cursed is my mouth... after we boarded the taxi and drove out of the railway station, raindrops started to fall and well, there really wasn't much turning back.
+
+Thankfully, our taxi driver was once again quite nice and suggested driving us around the pond to take a quick look. At the first two stops however, we took umbrellas down and took photos but we got a little carried away and took too much of her time. She said that it was unfair to her (which was true) and suggested we pay her a fixed price / hour instead. That would have made sense had the rain continued at a drizzle pace but it soon gotten much heavier and we just decided to take a quick drive for the rest of the stops. At least, hmm, we can proceed to Taipei earlier via the High Speed Rail.
+
+<img src="http://lh5.google.com/image/kaer84/RlPjhX_gdeI/AAAAAAAACvE/yoQUM0nbZ9s/s288/DSCF2766.JPG" style="font-family: verdana;" /> ... big statue ...
+<img src="http://lh4.google.com/image/kaer84/RlPjvH_gdiI/AAAAAAAACvk/stY0E9iPZnM/s288/DSCF2770.JPG" />... view on a rainy day ...
+
+The train station was damn nice looking, resembled an airport actually and we got our tickets from the self checkout machine, we learn fast! Trains depart on the hour and we were rather early so could busy ourselves and scrutinize all the various advertisements, machines, and well, even signboards.
+
+<img src="http://lh3.google.com/image/kaer84/RnR-EMq6R8I/AAAAAAAADMg/HvGXQoYJwY8/s400/tw%20104.jpg" />
+
+We were quite excited about the HSR, but ended up terribly disappointed. The train wasn't as fast as we had anticipated it to be, it just felt a tad faster than a normal train. Sad sad. However, clean /  good service, big comfy chairs, cutting short our journey by more than half. All great! Heheh, the train speed was around 230+ km/h, not Japan fast but hey, never been to Japan before so can't compare!
+
+<img src="http://lh5.google.com/image/kaer84/RlPkKX_gdrI/AAAAAAAACws/xkIaiu6Ika8/s288/DSCF2780.JPG" />
+Taiwan High Speed Rail != Bullet Train
+
+Soon it was back in Taipei for us, and we made our way to the 国军英雄馆. Our last hotel stop! Well, it was a very simple place, and as the name suggests, very erm.. army like? Our room looked like a bunk, smelt like one, and well, basically, just felt like one too. Thin mattress, thin blanket, 1 pillow, the bare necessities of it all. Room was freezing cold also! Not sure if its due to the cold taipei temperature or our ineptness but just.. brr! Every night! BRRR!! Oh well, other than that, its advantage is really is location, very near Ximenting and it provided us with lots of convenience. Price wise was ok, at 500NT per person so well, win some.. and lose some.
+
+Recently at work, was talking to Beng Chuan about hotel taboos/things to do, he was saying before he enter a room he will:
+1) Knock on the room door, and say "sorry to disturb".
+2) Open door and enter it sideways to allow "them" to pass you on the way out.
+3) On all the lights and taps.
+4) Check if bible is flipped open (if there is one)
+
+WAH.. so many. Haha.. as for me, first thing I do is well, erm, usually, figure out how to open the door and if that is successful, ermm.. test the springiness of the bed? (Subsequently get more bags dumped on top, and even.. sheesh, some guy in a pink shirt)
+
+<img src="http://lh3.google.com/image/kaer84/RnR-UMq6R9I/AAAAAAAADMQ/XSJxjbw3lIQ/s288/tw%20118.jpg" />
+<img src="http://lh6.google.com/image/kaer84/RnSEI8q6R_I/AAAAAAAADMk/Fm4ON9B2-y0/s288/tw%20119.jpg" />
+For the record, the bed passed the test.</span></div>
+
+Lunch was settled at MOS Burger, before heading on to Guanghua Market, where Andy wanted to shop for a mobile phone. The place resembled that of SLS, similar pricelist flying around, loads of components, displayed computers running, erm, geek world? But haha, was never one to really shop around in SLS either, more of a online search and just go down to make the purchase person, so the place wasn't all that attractive, but interesting nonetheless. Anyway, we left the place empty handed. Price wise for components, Singapore could still be better or almost equal so yup, no point buying stuff here except for the novelty items or Taiwan brands.
+
+With that, we headed back to one of the more famous temples in Taipei, 龙山寺. Alot of people, be it locals or tourists and alot were moving around doing the prayings and offerings. Well temples are temples and we did our part both here and subsequently later at 天后宫 which is nearer to XMT. Midway, we had a 泡泡茶 that had a signboard saying serving since 197+. Wah grandfather of 泡泡茶 stalls haha. Erm, it was quite normal (crappy), and mmm.. yep, no tradition needed here for plain bubble tea!
+
+<img src="http://lh3.google.com/image/kaer84/RlPlu3_geGI/AAAAAAAAC0E/NggUpBADt1U/s288/DSCF2818.JPG" />
+
+Our XMT shopping kept getting held back, haha.. we were almost there then got detour-ed to the Red Playhouse, a place to stage shows/plays but it was listed on the map as a tourist attraction so we headed there. Turned out that the first floor is the standard tourist trap of souvenir shops and haha, after a quick browse we headed upstairs and it turned out to be some university media faculty event so erm, we joined in the fun? Not like there was much happening except that they were screening / advertising their own productions and the students manning their exhibits. There were free drinks / food which we didn't get to take.. sob and free magazines! Which we did take, and ended up dumping them shortly thereafter because erm, they were rather heavy? Haha..
+
+<img src="http://lh6.google.com/image/kaer84/RlPmVn_geOI/AAAAAAAAC1E/I9Msfyt5qWU/s288/DSCF2829.JPG" />
+... the red play house foray ...
+
+That marked the end of the sight seeing for this day and it was on to shopping shopping shopping (and oh, dinner somewhere in between, but that's not very important is it).
+<img src="http://lh6.google.com/image/kaer84/RnR-v8q6R-I/AAAAAAAADMY/Jvteg5y6QfM/s400/tw%20144.jpg" />
+
+Well, tons of people, shops all around, interesting? Yup.. it was a Saturday night so atmosphere was perhaps a tad livelier, and best of all, the weather, it had rained quite abit during the day and had stopped by late afternoon, leaving the rest of the day in a permanently cool weather which was just great! At least walking around and all that didn't felt so sticky and when hit with a blast of cold air, just well, keeps us going.
+
+Over dinner, we made plans for the rest of the night and finally agreed on clubbing and with Ivan uncontactable, we went around asking some of the salesperson where are the best places to go. But wah, kenna conned! Haha, we got recommended to this place, Lava which had supposedly free flow for a high cover but when we go there, it was a high(er) cover for only 3 drinks. BAH.
+
+<img src="http://lh4.google.com/image/kaer84/RlPnuH_geuI/AAAAAAAAC5E/05kYWWbnd34/s288/DSCF2871.JPG" />
+... the dance floor ...
+
+We made our way there around 11, after going back to the Hotel to dump our shopping stuff, managed to take a train still, so.. economical economical. Well ok lah, I'm not one to club so don't know much about the music or people, but felt the music wasn't that great and the place was quite small actually and worst, got this extremly sweaty / WET guy near us. Wah, damn gross. Haha, it was like standing next to a minefield, hmm worse, the minefield rather active in gyrating also. AHHH. The free drinks they had to offer was definitely a larger range compared to Singapore (I think) but wah, with the menu given to us, we really could make some terrible choices for the unknown drinks. Haha, some tasted really really very horrible haha, arghh.. so, lesson learnt, a more varied choice might not be always a good thing.
+
+<img src="http://lh4.google.com/image/kaer84/RlPm9H_gebI/AAAAAAAAC2s/4ONycowbeYw/s288/DSCF2845.JPG" />
+<img src="http://lh4.google.com/image/kaer84/RlPnCH_geeI/AAAAAAAAC3E/7OAnjR9j8U0/s288/DSCF2848.JPG" />
+
+Finally figured out why our entrance fee so high. Waste our money! Got some lingerie competition, and wah, got 2 of the 4 girls really quite fierce and even took their top off with an aim to win although their arms were strategically placed. I wanted to take some pictures, (no not of the topless girls, they had already worn back), and after I snapped, haha, the stage emcee or one of the crew immediately shone a torch at me and bam, the bouncer quickly came walking over, "删掉！" Wah, Strict, haha, so quickly obeyed and deleted the photo, he happy I happy, lucky never make me delete any of the other photos.
+
+Hmm, top prize was like $S100 dollars, crazy, so low! Anyway, yup, that was just a brief event and after that, we sat outside for awhile, finished up our drinks and left! Think it was almost 3 am by then. Someone said its good to take Vitamin C after alcohol consumption so we went to buy some lemonade which lol, remained largely undrunk for the night. Hey, didn't feel any difference the next morning! Taxi back quite shuang, no midnight surcharge, haha..  but wah, after clearing our stuff and bathing etc, we finally KO-ed at close to 4 am. ZzzZzzzZzzzzzz.
