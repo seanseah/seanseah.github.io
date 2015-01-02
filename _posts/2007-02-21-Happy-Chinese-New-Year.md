@@ -57,7 +57,7 @@ Preheat the oven to 350F (180C) and bake for 20-25 minutes or until light brown.
 
 Not sure if I miss anything out, oh well, a just in case, at least I can possibly try make the tarts myself in years to come haha, although that's like just a potential HUGE disaster waiting to happen.
 
-I made Jiali one tub this year, and also, one additionally huge pineapple tart as the *icing on the cake*. Homemade pineapple tarts are just awesome. I don't snack often but every Chinese New Year, I just can't resist.
+I made J one tub this year, and also, one additionally huge pineapple tart as the *icing on the cake*. Homemade pineapple tarts are just awesome. I don't snack often but every Chinese New Year, I just can't resist.
 
 <figure>
 	<a href="{{ site.url }}/images/posts/big-pineapple-tart.jpg"><img src="{{ site.url }}/images/posts/big-pineapple-tart.jpg"></a>

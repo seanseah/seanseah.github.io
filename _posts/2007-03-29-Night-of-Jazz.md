@@ -13,7 +13,7 @@ published: true
 
 After a week of bustling with FYP and work, it was a nice reset of pace back to some non-work related stuff. Before that, I managed to submit my thesis / technical paper to both examiner and supervisor and that was like a huge relief when that was done. I guess there are still some details to be improved on, but hopefully, wouldn't be picked on so much!
 
-Jiali was involved in CAC+US 2007. A jazz / pop dance performance.
+J was involved in CAC+US 2007. A jazz / pop dance performance.
 
 <figure>
 <a href="http://3.bp.blogspot.com/_m5e8Pqc8k3c/Rg8LqP3dUFI/AAAAAAAAA_I/HBRO8gb-hUc/s1600/collage.jpg"><img src="http://3.bp.blogspot.com/_m5e8Pqc8k3c/Rg8LqP3dUFI/AAAAAAAAA_I/HBRO8gb-hUc/s800/collage.jpg"></a>
@@ -35,4 +35,4 @@ To my pal: Andy, thanks! For keeping me company through the show, for waiting wi
 <a href="http://2.bp.blogspot.com/_m5e8Pqc8k3c/Rg8JR_3dUCI/AAAAAAAAA-w/AE9Shg351_Q/s1600/jiali.jpg"><img src="http://2.bp.blogspot.com/_m5e8Pqc8k3c/Rg8JR_3dUCI/AAAAAAAAA-w/AE9Shg351_Q/s800/jiali.jpg"></a>
 </figure>
 
-To jiali! For putting on such a great performance, despite all the nights I have make you wait for me, for being so strong, and for accepting me for who I am, thanks!
+To J: Congrats! For putting on such a great performance, for being so strong, and for accepting me for who I am, thanks!

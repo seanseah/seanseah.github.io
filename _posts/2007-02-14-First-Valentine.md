@@ -29,7 +29,7 @@ Even gotten some scented candles for a more romantic setting. Didn't know how to
 	<a href="http://3.bp.blogspot.com/_m5e8Pqc8k3c/RdZGqMG66II/AAAAAAAAAHM/kFLZmcRjggo/s1600/DSCF0534.jpg"><img src="http://3.bp.blogspot.com/_m5e8Pqc8k3c/RdZGqMG66II/AAAAAAAAAHM/kFLZmcRjggo/s800/DSCF0534.jpg"></a>
 </figure>
 
-And finally, present exchange time! wee =) I was serenaded by songs played by a lovely pianist - couldn't ask for more. 
+And finally, present exchange time! Besides the lovely presents, I was serenaded by songs played by a lovely pianist - couldn't ask for more. Maybe Valentine's might not be so bad after all.
 
 <figure>
 	<a href="http://3.bp.blogspot.com/_m5e8Pqc8k3c/RdZGqMG66II/AAAAAAAAAHM/kFLZmcRjggo/s1600/DSCF0585.jpg"><img src="http://3.bp.blogspot.com/_m5e8Pqc8k3c/RdZGqMG66II/AAAAAAAAAHM/kFLZmcRjggo/s800/DSCF0585.jpg"></a>

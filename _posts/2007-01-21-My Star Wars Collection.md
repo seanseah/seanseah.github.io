@@ -11,9 +11,11 @@ mathjax: null
 ---
 Star Wars was my favourite movie growing up. It still is. 
 
-A mystical force, telekinetic capabilities and duels with lightsabers were really attractive to me. I grew up on hand me down Star Wars figures from my cousins, and I had grown up watching the original star wars trilogy, either on VHS tapes or replays on Channel 5. I was around 12-13 when the Phantom Menace was released. Honestly, that first movie, The Phantom Menace, kind of sucked. But I still watched it twice. There were still some parts to be cheered about, such as the awesome soundtrack. In addition, the lightsaber duels between Darth Maul and Qui-Gon Jinn / Obi-wan Kenobi were beautifully choreographed. There was also Natalie Portman as Princess Amidala. 
+A mystical force, telekinetic capabilities and duels with lightsabers were really attractive to me. I grew up on hand me down Star Wars figures from my cousins, and I had grown up watching the original star wars trilogy multiple times, either on VHS tapes or replays on Channel 5. I was around 12-13 when the Phantom Menace was released. Honestly, that first movie, The Phantom Menace, kind of sucked. But I still watched it twice. There were still some parts to be cheered about, such as the awesome soundtrack. In addition, the lightsaber duels between Darth Maul and Qui-Gon Jinn / Obi-wan Kenobi were beautifully choreographed. There was also Natalie Portman as Princess Amidala. 
 
 That also introduced me to the expanded Star Wars Universe - new stories and new arcs.  
+
+Hands down, the best EU story was the Thrawn saga. Not many villians can best the brutal alien humanoid with blue skin and red eyes, with a clockwork brain, and constantly planning and outwitting the heroes. He doesn't use the force but his intellectual capability more than make him a match for Luke's or Leia's jedi powers.
 
 Alongside the fledging Star Wars community in Singapore, I started my own toy collection around the same time too. It was exciting times. Hasbro would release the Star Wars figures in waves, and each wave would have a few popular characters and unknowns. However, getting those popular characters often proved difficult. Darth Maul was one such character. Many trips to Toys R Us and big departmental stores often yielded unfavourable results and the next options were to buy the action figures from scalpers, collectible shops etc. That was my first exposure to the Clarke Quay flea market and also shops such as The Falcon's Hanger (TFH).
 

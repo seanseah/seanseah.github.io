@@ -26,6 +26,8 @@ As for the phone itself, features wise, it is amazing. It lacks a camera, which 
 
 Wifi! Wow.. so many benefits here, browsing on the go, VOIP, synchronising, emails. Especially with Wireless@SG set to become more popular, this is a great feature. All around campus WiFi means I'm always connected in school. It's a 3G phone but that's expensive considering that there is WiFi. The battery life is quite decent too, its been 2 days, and after some surfing here and there, a few phone calls, usual sms-es and the battery is still around 70-80%, will see how long it can last.
 
+VOIP is pretty nice technology. Starhub and Pfingo offers you a VOIP number for free currently, and you can pretty much receive calls anywhere on your Pfingo number as long as you are connected. 
+
 The E61 is really a geek toy, how many people would want a full keyboard for a mobile phone? The E61 also runs on Symbian OS, which allows for use of various software, although probably not as extensible as say windows mobile, but it has a decent community still, and more and more programs should be coming with a larger user base. 
 
 One of the cool software available on the current Nokia series platform would be Smart2Go, a mapping software released by Nokia. It has maps of many countries in the world, including Singapore. Alright, from what I see so far, the navigation is easily done by search and it works well and fast, since the maps are stored on the memory card. It works pretty fast offline.

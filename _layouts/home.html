@@ -95,6 +95,7 @@
     {% endif %}
 </header>
 
+{% if paginator.page == 1 %}
 <div id="introduction" class="contnet" role="introduction">
 	<div class="container">
 		<div class="row">
@@ -167,21 +168,8 @@
           See where people are travelling, all around the world.
         </p>
       </div>
-      <div class="discovery-tiles row-space-top-6 row-space-6">
-        <div class="homepage-module">
-          
-<div class="col-lg-8 col-md-12 rm-padding-sm">
-  <div class="discovery-card rm-padding-sm row-space-4  discovery-card-blank"
-      style=""
-      sm-img-url="">
-    <div class="text-center text-contrast va-container">
-      <div class="va-middle">
-          <i class="icon icon-picture icon-size-4 discovery-loading-icon"></i>
-      </div>
-    </div>
-</div>
-		
-		</div>
+	</div>
+{% endif %}
 
 <div id="main" class="content" role="main" itemprop="mainContentOfPage">
     <div class="container">
