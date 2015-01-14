@@ -23,7 +23,7 @@ Taiwan Grad Trip! An event to mark the end of 4 years of my education and to sym
 </div>
 </section><!-- /#table-of-contents -->
 
-## Day 1
+## Day 1: Day of the Beginning
 
 There was to be no luxury of service, drinks, or movies on board the 5 hour budget flight, and had to survive on a solitary can of Pepsi which was gulped down shortly after it landed on the mini foldable table. That cost me $3! Well at least there were quite a number of us, the ME group, Sheerine, + us = 10, to entertain ourselves. Liwei had a nifty thing with cards but the real fun started when Andy took out his PSP, and choice of game was some word hunt thing, similar to the Yahoo! games. He was just too good though. Can't beat the speed at which he is able to spot and link up the words, hack. CHEAT.
 
@@ -51,7 +51,7 @@ Our hotel, Keyman Hotel was quite near the Train Station, really a quaint little
 
 **Shihlin Night Market**. _The_ most iconic night market in Taipei. Ahh, just lots and lots of food, alot of must try, and with it being our first night and all, it was probably the one where we ate the most! Shihlin's a huge place and after satisfying our initial craving of food, we did spend most of the night weaving in and out through the stores although we weren't interested to shop all that much considering our long journey ahead. Think this is probably one of the more interesting night markets, with a mixture of both food and shopping. We stayed there till around 11pm and although we did attempt to cover the entire area, it was just too big. 
 
-## Day 2
+## Day 2: Beautiful Scenery and Expensive Coffee
 
 We will look back upon and think of this day, the day that will be forever etched in our memories, the day 2 of our trip, the one that made it great.
 
@@ -70,8 +70,10 @@ And off we go up the mountain! Hmm, sat in front, which meant, with a talkative 
 
 Our first tour stop was the 砂卡礑 trail, where we had to walk in for 20 min, could see the valley and the water formation underneath. It was quite beautiful and the fun started when we climbed down towards the rocky area.
 
+<figure class="half">
 <img src="http://lh3.google.com/image/kaer84/RlOl_3_gTmI/AAAAAAAABgI/KMbD7VA9dD4/s288/DSCF2013.JPG" />
 <img src="http://lh3.google.com/image/kaer84/RlOnK3_gTwI/AAAAAAAABhY/lPaiudULt8c/s288/DSCF2023.JPG" />
+</figure>
 .. big rock (one of the smaller ones still) ...
 
 Other than some oppurtune photo moments along the way, the next place should be the Swallow Grotto or 燕子口.
@@ -231,7 +233,7 @@ There wasn't much food left by that timing, so we trooped off to 7-Eleven and An
 
 Taroko had so many things to see, its all just so serene and beautiful that many of the pictures here, each can tell its own story. Then the multiple experiences at night, many of them being the first time, also made for good fun. Well, and to conclude it, we all had a nice room to get much needed rest!
 
-## Day 3
+## Day 3: Day of the Worst Dinner
 
 Another waking up early day, gosh, the trip starting to take its toll as we have another early train to catch, this time a draining 5 hr ride to Kaohsiung. We dumped out stuff at the main house or erm lobby, where we found the Ali BaBa mascot, the one that made us chose this location, and we eagerly snapped pictures with it! Haha, guess the entire decor of the place is not only aesthetically pleasing but with the numerous soft toys around, makes for quite a homely feel. We went around looking for breakfast and stumbled on this roadside stall that sells erm, 饭团. Its just meat wrapped in rice, with quite a number of other weird ingredients, not too bad I guess.
 
@@ -331,7 +333,7 @@ Other than an eggtart, doughnut, shopping, stationery break in between, we ended
 
 With that, tired, we took our tired bodies back to the Hotel, but were still rejuvenated enough to play dice! Loser drinks a full glass of water, or subject to a whack with the cane that we bought. Luckily, I was not the one who had to keep waking up to go to the toilet, whew!
 
-## Day 4
+## Day 4: Bike Ride Excitement
 
 It was meant to be a lazy day with us having the initial plans of spending it at a water theme park. We had thought of going to Kenting, with the nice beaches and all, but was put off by the two hours journey that was required. So, the water theme park which was situated in Kaohsiung itself would be better for a simple R&amp;R day!
 
@@ -385,7 +387,7 @@ After that, we just keep letting each other try the bike, taking turns and just 
 
 Going back time also very funny, cos it was a busy street outside and I had no guts to make a turn that involved cutting across a few lines of traffic so I stopped at the side road, and pushed the bike back. Haha.. the shop owner was once again quite scared when he saw me come back as such and straight away ask, "为什么用推的回来？" then he tested the bike immediately. Haha... ok la, it was definitely one of the more exciting moments of the trip, super adrenaline high!
 
-## Day 5
+## Day 5: Day of the Angry Bouncer
 
 Wow.. time is indeed passing quite fast. Our next travel stop would be the lotus flower pond and we took a train to Zuoying. When we arrived, we had thoughts of dumping our bags into the train locker but there were none present at the station. As the weather was good and since we were there already, might as well take a look at the vicinity, and with that we repacked our bags and set off. Cursed is my mouth... after we boarded the taxi and drove out of the railway station, raindrops started to fall and well, there really wasn't much turning back.
 
@@ -446,3 +448,105 @@ We made our way there around 11, after going back to the Hotel to dump our shopp
 Finally figured out why our entrance fee so high. Waste our money! Got some lingerie competition, and wah, got 2 of the 4 girls really quite fierce and even took their top off with an aim to win although their arms were strategically placed. I wanted to take some pictures, (no not of the topless girls, they had already worn back), and after I snapped, haha, the stage emcee or one of the crew immediately shone a torch at me and bam, the bouncer quickly came walking over, "删掉！" Wah, Strict, haha, so quickly obeyed and deleted the photo, he happy I happy, lucky never make me delete any of the other photos.
 
 Hmm, top prize was like $S100 dollars, crazy, so low! Anyway, yup, that was just a brief event and after that, we sat outside for awhile, finished up our drinks and left! Think it was almost 3 am by then. Someone said its good to take Vitamin C after alcohol consumption so we went to buy some lemonade which lol, remained largely undrunk for the night. Hey, didn't feel any difference the next morning! Taxi back quite shuang, no midnight surcharge, haha..  but wah, after clearing our stuff and bathing etc, we finally KO-ed at close to 4 am. ZzzZzzzZzzzzzz.
+
+## Day 6: The Amazing Race
+
+After a tiring night out clubbing, it was once again time for us to drag our weary bodies out of bed to accomplish our itinerary for the day. Slave drivers? Weren't holidays meant to be relaxing? Oh well, only 3 days remain and the desire to visit as many places as possible proved too strong a lure and we got ready and all set to leave, though at an hour behind schedule. Breakfast was settled at our old favourite.. 7 - 11, with me trying their curry rice, a typical jap dish but with so many jap influences having seeped into the taipei culture, what's new?
+
+<img src="http://lh3.google.com/image/kaer84/RlPoJ3_ge3I/AAAAAAAAC6M/YB1IQf6OvB8/s288/DSCF2884.JPG" />
+... clearly tired ...
+
+We missed the bus, and it was on an hourly basis, scary.. so had to wait quite awhile for the next bus, damn sian, and it was a wet cold morning, with an overcast sky, pretty much making us feel the same way. Well, the bus finally arrive and took us off to YangMingShan (YMS), and upon arrival there, it was pretty easy to spot fellow Singaporeans, and no it wasn't through the way they speak, rather just their actions and mannerisms were tell tale signs to give themselves away, (and yes, us included as well). Perhaps the kiasu nature, the bunching up at the map, the clothes.. etc. So the bunch of Singaporeans all gathered at the YMS bus stop and waited for it, machiam like the starting line, and off we go!
+
+THE AMAZING RACE - TAIPEI YMS VERSION
+
+"Make your way to 竹子湖 and collect the local produce and your next clue."
+
+First stop! we alighted at the designated bus stop but it was still an extremely far walk in. By this time, we had labelled some of the more colourful (literally) Singaporeans that were with us on the bus, they had donned bright yellow rain coats and well, we called them Team FedEx, but seriously, its DHL that's yellow, so erm, stupid mistake made by Andy.. but we didn't spot it then and happily called them Team FedEx anyway. With us being typical kiasu Singaporeans, we couldn't really afford to lose to them right, but haha, we did anyway. We were taking our time walking and it had started to rain so umbrellas were necessary and slowed us down abit. FedEx became so far ahead that we lost sight of them and without people to follow, we ran into some navigation problems as we lost sight of the route markers and had to resort to a little intuition and through the clearing, we could spot the signature yellow of team FedEx and were able to find the correct way!</span>  <span style="font-family: verdana;"><br /><br />At 竹子湖, it wasn't all too impressive, a little post history reading revealed that actually, it used to be a pond but had then since dried up and became a place for farmers etc. So erm.. really quite boring and with the rain and all, it really wasn't all that awe - inspiring, by the time we were done, team FedEx had long gone and some of the backmarkers had caught up with us, a group we affectionately termed team NUS, they were a bunch of 4 girls, from Engine I believe, and we just exchange glances / stares without saying hi. We scrambled to leave before we got overtaken once again. Oh and before we forget, we had to obtain one of the local produce and tada! Lilies!
+
+<img src="http://lh6.google.com/image/kaer84/Rny3QhF_7FI/AAAAAAAADNQ/DTReUKMtoa0/s288/tw%20182.jpg" />
+
+With that, we walked back to the bus stop to get our next clue, another 20-30 min walk in the rain, the 竹子湖 was really not worth going. 
+
+DETOUR. A DETOUR is a choice between two tasks, each with its own pros and cons. Teams must successfully complete one of the tasks described on the clue in order to proceed.
+
+1) Proceed to Erziping and take on a 1 hr hike up to Datun's Peak in gruelling conditions such as freezing cold rain.
+2) Proceed to another equally boring area, and take on a 1 hr hike in equally gruelling conditions.
+
+<img src="http://lh4.google.com/image/kaer84/Rny-aBF_7GI/AAAAAAAADNY/unA2sQOEO4Y/s400/pano.jpg" />
+
+Well given tasks such as these, we clearly had to take Option 1. So off we go up the mountain and it was cold, wet and erm.. wet. Sigh, yup, terrible day to be walking but lucky we all wore slippers, we had foresight! But that made for a little uncomfortable trek/walk and we made it nonetheless. All the way up the mountain to a plateau where well, could see more mountains in the background! Midway up, had a little voice from nowhere incident, thanks to a phone that didn't have a ready keylock :S, made from a moment of confusion... And oh at the top, well, perhaps the view was obstructed due to the rainy weather which led to quite a number of clouds or mist surrounding us. Gosh.. with the task performed it was on to next one which was well, ROADBLOCK. Erm, not really a roadblock but the closest there is.<br /></span><br />
+<img src="http://lh6.google.com/image/kaer84/Rny1uhF_7BI/AAAAAAAADMw/Lj04OGJHW_M/s288/tw%20181.jpg" />
+
+A ROADBLOCK is a task that only one team member can perform.</span><br /><br />Andy took it and it involved walking back down the mountain barefoot and wasn't he happy! With his slippers having tortured him the whole way, he was more than excited to strip off the naughty lil thing, and embraced the great outdoors full-frontedly. The task was easily completed and soon we arrived back at the start of the trail and boy were we hungry!
+
+<img src="http://lh6.google.com/image/kaer84/RlPqEn_gfTI/AAAAAAAAC9s/7XDQI6MOmjQ/s288/DSCF2912.JPG" />
+
+Time for a food break and well, there was only one store there but luckily it sold rice dumplings and each of us took one and gosh, in harsh surroundings, food always taste good and revitalised us a fair bit, though not enough as I was still blurred enough to walk into a female toilet, and didn't realised it until a lady emerged from the cubicle. Talk about embarassing.
+
+Back at the bus stop, we were on the verge of giving up before deciding to take the FAST FORWARD for this leg of the race, skipping the remaining tasks and heading straight to the pit stop. With hardly a trace of energy left, we were in no shape to visit the rest of the tourist spots and headed back to the starting point to leave YMS. Seems like the better attraction were of the later stops, with the natural hotspring and the waterfall all towards the end. More planning needed here!
+
+After a backbreaking race, we desperately needed a break, both from the rain and from the physical exertion. We aimed to go to Beitou for a good hot spring soak and upon boarding the bus from YMS, the 3 of us slept soundly till we arrived back at Jiantan, following which, we took the train to Xin Beitou where we combed the streets looking for a hotspring place. Well there were really two options only,
+
+1. a public hotspring that would cost 40NT per person
+
+2. private hotspring i.e. Hotel which provides us with a room / bed / etc for approx 800NT for 3 hrs
+
+If divided by 3, a private room isn't that bad, at least its sheltered from teh rain, nice comfortable room, with shower facilities, air con, etc. We went around looking for one but weren't able to find one that had a reasonable rate or accommodate the 3 of us, so after awhile, we settled for the public hotspring.<br /><br />Hmm... woo, a lot of people were inside, but most were of the senior age group and a few foreigners or kids. It was divided into 3 levels, with the hotness of the water separated accordingly. The baths were of the natural rock design, had 'super hot', 'just nice hot', 'medium hot', and 'you call this hot?' levels followed by two icy cold pools (perhaps extra cold due to the rainy weather). Foolhardy perhaps but we jumped into the medium hot one, which was actually quite ok, the area where the water flowed in from was a tad too hot for comfort initially but once we adapted, it became quite shuang.<br /><br />After soaking for awhile, we tried the ice cold pool, and wow.. big big difference, haha. The water was still evaporating off our back etc and can still see the vapour trails and immersing the body totally inside was both nerve wrecking and let's just say, I prefer staying in the hot pool. Think the drastic change in temperature could also result in momentarily giddiness so erm, be careful! Anyway, after that short stint, it was back in the hot pool and just lying there, with raindrops lightly pattering on your head was ultimate shuang-ness. Refer to pic.. for a better understanding.
+
+<span style="font-family: verdana;"><img src="http://kaer84.googlepages.com/5.gif" />
+
+Well, part of the hotspring experience is to see how hot you can take, so up we went to the highest level. Ok, the temperature there was CRAZY. It was also the smallest and gosh, most crowded so had to squeeze our way through. Well, that was a bad move, cause wanted to test the water temperature first, but without having much space to move, had to go all the way inside, and that's done by entering the pool, haha, so with no turning back, dip in and faster climb up at the other edge. Wah, pain! It wasn't only me through all 3 of us had problems with the water temperature and I was already the one with either the dead nerves or thickest skin as I could stay in the longest but yup, as one of the auntie there said, why torture yourself, the whole point about hotspring is for enjoyment! We agreed with her and finally settled down in the just nice hot, which was next to the crazy one.
+
+<img src="http://lh3.google.com/image/kaer84/RlPqL3_gfVI/AAAAAAAAC98/iXsCJ-PKTcg/s288/DSCF2914.JPG" />
+
+After a relaxing soak, we emerged refreshed and energised from the hotspring and were all ready to continue our itinerarry for the day, which was more shopping! We had watned to go to Danshui Fisherman Wharf + the Lover's Bridge and had aims to catch the sunset there, but we were running behing schedule and tired from the travelling, in the end, shopping wins. We decided to go back to Shihlin Night Market and later at night catch the Miramar Ferris Wheel (but haha, once started shopping, ahh, ferris wheel was cancelled also. Oh, Danshui had the "Ah Gei", some toufu / tanghoon conception, which we had been looking for as it was supposed to be quite famous but weren't able to find. Well, realised it was available at Danshui through Jiali's pictures.
+
+Anyway, we were starving and at Shihlin it was a food hunt again. Despite it being the second time we were here, and the 鸡排, we were all craving for it... Deep fried goodness, yummy!
+
+End of day 6. We didn't get to complete our planned itinerary, had to cut short both the YMS tri pas well as the Danshui segment so hmm, guess we were getting quite tired, both physically and mentally and lacked the initial eagerness that had carried us thus far. Despite that, we still had lots of fun, be it at the hotspring or later on at Shihlin, even revisiting it was able to find new places to explore, new food to eat.. oh we finally ate chou toufu, haha experience was terrible! I always couldn't really tahan the smell, but ermm.. had to try it anyway. First bite, hmm still ok, despite smelling bad, still tasted like normal toufu. After passing it to Andy and LH, wah, their facial expressions were priceless. Make it seem so terrible then they keep saying the smell regurgitating in your mouth and all, that wah, I became so conscious of my next bite that I ended up feeling the same way too! Gah! So after a couple of bites, we threw it away lol.
+
+<img src="http://lh3.google.com/image/kaer84/RlPqk3_gfdI/AAAAAAAAC-8/Th483exsA9E/s288/DSCF2924.JPG" />
+
+Hmm, lets stick to both nicer smelling and nicer tasting food. If it tastes like normal toufu, then just eat normal ones for goodness sake!
+
+## Day 7: Day of the One Oh One
+
+After a lazy morning breakfast at XMT's Mac, we saw a guy sprawled on the floor, erm.. after a hard night's partying perhaps? Hmm.. hope he was ok. Oh well, I erm, didn't want to get involved so just left him to his nice little nap, or so that's what I hope it was. We then caught the train to the Chiang Kek Shek Memorial Hall and toured the area around, took a few photos, explored the place. There were quite a number of exhibits, mainly of calligraphy and a few paintings, which LH was excited about for her mum so she bought a book of them, which we will have to return the next day to collect the autographed version.
+
+<img src="http://lh3.google.com/kaer84/RlPqw3_gfiI/AAAAAAAAC_k/Mx6WyC6AZIs/s288/DSCF2930.JPG" />
+<img src="http://lh4.google.com/kaer84/RlPq7H_gfmI/AAAAAAAADAE/wUpN0YZnM2g/s288/DSCF2939.JPG" />
+
+From the CKS Memorial Hall, we had a good view of the Taipei 101 and we spend some time at the garden there taking photos before we walked over. At 101, you are only limited access to the first 5 floors and subsequent levels require us to pay. 101 was one of those high end departmental stores, lots of branded boutiques as expected of the exclusiveness it's trying to create so with us being the wrong target crowd, we didn't stayed or shopped long. As it was still daytime, we figured it wasn't that nice a view from the top and decided against going up, so we went to New York New York but it turned out to be just another departmental store. Hmm, we were recommended food here but we couldn't find any restaurant that was within our budget so we settled lunch at the food court. The thing about Taipei food court are that the prices aren't exactly cheap, hmm, comparable to Singapore but the portions are huge! They serve lots of hot plate / western food / hot plate stuff which was quite good actually.
+
+<img src="http://lh3.google.com/kaer84/RpAwzhvIRzI/AAAAAAAADO8/zg6fQFNGJrw/s288/tw%20229.jpg" />
+<img src="http://lh6.google.com/kaer84/RpAwxRvIRyI/AAAAAAAADO4/o5v0L7Cqzm0/s288/IMG_1471.JPG" />
+
+From there, we headed to WuFenPu, the wholesale market place and as described by friends who had been there before, its really for girls, perhaps 1 out of 10-15 stores are stocked with male stuff. The stuff here probably just abit cheaper compared to Shihlin or XMT or elsewhere unless you buy more, though compared to those places, the stuff here are probably more varied I guess. Streets were small and crowded with all the people and clothes displayed outside yet there were still motorcycles weaving in and out through the crowd, with their pullcart of shopping behind. Scary!
+
+<figure>
+<a href = "https://lh5.googleusercontent.com/-TP1TrQhQyzI/RpA6NxvIR6I/AAAAAAAADPo/64IQKYWnXso/w1600/DSCF2970.JPG"><img src="https://lh5.googleusercontent.com/-TP1TrQhQyzI/RpA6NxvIR6I/AAAAAAAADPo/64IQKYWnXso/w800/DSCF2970.JPG" /></a>
+</figure>
+
+Anyway, we headed off to RaoHe at around 6+, the night market was located across WuFenPu and though it isn't that big as compared to Shihlin, it has mainly food here and definitely some interesting stuff. Although, there seemed to be an overabundance of 臭豆腐 stalls! There are like 4-5 stalls at the entrance alone? Gah... damn smelly, not much to shop already so we just walked around, eat.. and walked back to TP 101 to take the MRT back to the hotel.
+
+<img src="http://lh3.google.com/kaer84/RlPsh3_ggFI/AAAAAAAADD8/M0k7QHAwhVE/s288/DSCF2976.JPG" />
+
+While walking back, saw a few binglang stalls, we didn't try the betel nuts, and hardly get to see any binlangxishi in our so far 7 days here.. of those that we did see in Taipei or Kaohsiung hardly looked like they dolled up or if they do, ermm, weren't exactly the SYT that we thought they will be. Anyway, hmm, yup something we didn't try. It doesn't look that nice though, especially after they spit it on the floor, leaving some reddish brown stain.. zz. More importantly, 7 days down.. one last one to go!!! =)
+
+## Day 8: Time to Say Goodbye
+
+Ah.. its been two months since I came back.. time to finally finish and close this chapter of my Graduation Trip. So.. it was Day 8 in Taipei, our itinerary for the day being the two memorial halls and finish up XMT! Last day breakfast was at a local stall outside our hotel, serving sandwiches and burgers which were quite good infact, and kinda felt like should have ate it more often... well, discovering a gem on the last day is far better than never discovering it at all.
+
+We went back to SYS memorial to get the calligraphy book, and there were some problems as the author wasn't there but it was miraculously found hidden under the table as we were about to leave, so hmm, a little good luck on our last day. With us being the lazy sobs that we were =), we cancelled visiting the CKS memorial and went straight back to XMT for some walking around and eating... Shopping in the afternoon and on a weekday wasn't all that great, a certain vibrancy was missing but the food made up for it, and at least tried the 阿宗面线 + the shaved peanut ice which were famous...
+
+<img src="http://lh4.google.com/kaer84/RpAw5xvIR0I/AAAAAAAADPE/SrVxlPV813M/s144/tw%20253.jpg" /> 
+<img src="http://lh5.google.com/kaer84/RpAw8BvIR1I/AAAAAAAADPI/eM4fyZtYm2c/s144/tw%20257.jpg" />
+
+Well, finally time to leave Taiwan and after checking in, we met up with the initial group of NUS people who did a different itinerary for the past 8 days and well, we were basically comparing notes and complaining how terrible Kaohsiung was =), before we headed off for some last minute shopping to clear the Taiwan dollars / coins that we still have. Only to be stumped later cos there was a vending machine which allowed us to bring drinks onboard, why pay 3 dollars for a can of coke when there's a bottle for 1 dollar! Although that made for many sneaky drinking involved. There was mild turbulence onboard the plane, forcing the flight attendants to be seated and that marked our dinner time. We hurriedly whipped out our donuts and drinks and could eat/drink without fear of getting caught. Gosh... hate budget flights!
+
+<img src="http://lh5.google.com/kaer84/RlPtjX_ggdI/AAAAAAAADG8/xTHLQ77MAgA/s288/DSCF3027.JPG" />
+
+A quick 8 days was over just like that, marking the end of my graduation trip.. it was definitely loads of fun and yup good memories all in all... and oh! my little present for myself.. a little doughnut for breakfast!
+
+<img src="http://lh3.google.com/kaer84/Rq6cDU8L7CI/AAAAAAAADRw/KyQyK01-5nk/s288/DSCF3040.JPG" />

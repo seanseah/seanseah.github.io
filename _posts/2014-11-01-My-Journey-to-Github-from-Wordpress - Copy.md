@@ -13,7 +13,7 @@ featured: true
 published: true
 ---
 
-I have decided to set up a personal page on Github, and currently in the midst of migrating my past blog posts over. I have been dabbling with computers, web design, python, wordpress, php / mysql, django and the likes, but really just scratching the surface for each of them. This is my first step into the world of Git and also the use of Markdown / Kramdown syntax. 
+I have decided to set up a personal page on Github, and currently in the midst of migrating my past blog posts over from Blogger. I have been dabbling with computers, web design, python, wordpress, php / mysql, django and the likes, but really just scratching the surface for each of them. This is my first step into the world of Git and also the use of Markdown / Kramdown syntax. 
 
 > Learning new things is amazing!
 
@@ -23,13 +23,13 @@ This is not the foolproof way to backup a Wordpress site, but rather it is a qui
 
 Type or copy the following command into the terminal. You would need to replace yoursite.com.
 
-    wget -p -P ~/Desktop/staticwp --convert-links -m -nH http://yoursite.com/
+    `wget -p -P ~/Desktop/staticwp --convert-links -m -nH http://yoursite.com/`
 
 This will backup the site to a folder on your desktop called staticwp. 
 
 Here's what's happening: 
 
-    -p
+    `-p`
   
 > Tells wget to get all the necessary files to display the page (images, CSS, etc)
 
@@ -56,3 +56,11 @@ But anyhow, it is time to explore something new, and I have now loaded up Jekyll
 It is pretty simple setting up Jekyll on Github. Fork someone's repository, name it yourname.github.io and it get's published at the same link. Just be sure to update the posts and images before you go live.
 
 Having used it for awhile. It's pretty nice. It is not as portable as Blogger or Wordpress where I can blog from any location. Theoretically I can since I can edit directly from Github but it's not as convenient.
+
+## What will I talk about here?
+
+As of now, the plan is to keep the tech toys, gadgets, technology stuff to GadgetReactor. That will probably contain my content / work on web-based applications and Android apps as well since there's much similarity in that space. I would keep my other ramblings, my personal life experience, and diary stuff over here instead.
+
+I have updated my short bio: 
+
+> Sean is a tech geek and star wars fan. He loves messing around with new gadgets, writing little code snippets in python, javascript, html and dabbling with Android programming for time to time. He will want to catch the first screening of The Force Awakens and will be setting aside blog earnings to buy the latest Star Wars action figures.
