@@ -23,13 +23,13 @@ This is not the foolproof way to backup a Wordpress site, but rather it is a qui
 
 Type or copy the following command into the terminal. You would need to replace yoursite.com.
 
-    `wget -p -P ~/Desktop/staticwp --convert-links -m -nH http://yoursite.com/`
+    wget -p -P ~/Desktop/staticwp --convert-links -m -nH http://yoursite.com/
 
 This will backup the site to a folder on your desktop called staticwp. 
 
 Here's what's happening: 
 
-    `-p`
+    -p
   
 > Tells wget to get all the necessary files to display the page (images, CSS, etc)
 

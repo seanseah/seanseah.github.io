@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  Cerulean Seas and Azure Skies
-description: Travel post on trip to Phuket
+description: Travel post on my trip to Phuket
 headline:  
 categories: personal
 tags:
   - travelling
+  - phuket
+  - thailand
 imagefeature: 
 comments: false
 published: true
@@ -21,7 +23,7 @@ Well, our airfares, wah, we manage to get our 1 dollar Tiger Airways tickets, bu
 
 Anyway, checking in to our hotel, wa, a bit of a letdown as everything felt abit old and grimey, erm.. no Aircon at the reception area, or the corridors and we were underwhelmed. The cleanliness of the place wasn't ideal and that always stands out for me, as a sign of how much dedicated the service staff was. I guess, for a supposed 4 star hotel, we were expecting abit more, but we did take the standard (much cheaper) rooms as opposed to the deluxe which was more highly recommended. We stayed at the Baumanburi in Phuket, Thailand.
 
-Next morning, went to had breakfast, or rather, we were the breakfast for the mosquitoes. The package included daily breakfast provided, which was nice, and it was a decent spread, with good selection of international and local thai dishes, with quite a nice selection of fruits. The food quality wasn't the best, but we were able to fill our stomachs for the next 3 days. Anyway, the problem was the mosquitoes! So many blood suckers around, and a friendly Mynah that wasn't people shy, and would stick around searching for leftovers.
+Next morning, we went down for breakfast, or rather, we were the breakfast for the mosquitoes. The package included daily breakfast provided, which was nice, and it was a decent spread, with good selection of international and local thai dishes, with quite a nice selection of fruits. The food quality wasn't the best, but we were able to fill our stomachs for the next 3 days. Anyway, the problem was the mosquitoes! So many blood suckers around, and a friendly Mynah that wasn't people shy, and would stick around searching for leftovers.
 
 We spent the first part of the day touring around the hotel, plus checked out the swimming pool, which was quite nice, had a lot of interesting decorations, jacuzzi areas, etc etc... and poolside bar. It was a nice set of facilities and I guess that's what gives it its 4 star rating. We lazed and swam around till around 10+ before heading to the beach. The skies were getting cloudy and wanted to at least check out the beach before the rain comes.
 
@@ -35,14 +37,14 @@ Anyway, since we are here already, we decided to try out the jet ski and it was 
 
 The night life seems more toned down from what was previously publicized but there are still number of pubs, girls etc all around, and erm.. lady boys? We were looking for our next day Phi Phi island tour and after much enquires with the many tour agents spread across the town, we finally found our desired ship and at the cheapest rate of 750 baht!
 
-It was a fight night and the boxers were in open roof vans passing flyers around trying to get people to watch, it was crazy, 45 dollars for the match, that's money I wasn't interested in parting, and I think to celebrate the fight, fireworks were set off, guess it was a pretty big fight actually. And just two days before, I was so hyped up to watch the Oscar De La Hoya vs Floyd Mayweather Jr fight, billed as the biggest boxing event this year! Mayweather won incidentally, erm, sort of like a story book fight.
+It was a fight night and the boxers were in open roof vans passing flyers around trying to get people to watch, it was crazy, 45 dollars for the match, that's money I wasn't interested in parting, and I think to celebrate the fight, fireworks were set off, guess it was a pretty big fight actually. And just two days before, I was so hyped up to watch the Oscar De La Hoya vs Floyd Mayweather Jr fight, billed as the biggest boxing event this year! Mayweather won incidentally.
 
-Off to Phi Phi island, the minivan pickup was at 0700 so we had to wake up early, get breakfast etc and then wait for the bus. It took us about an hour to reach the ferry terminal which was located on the other side of the island and wah, the skies were great today, clear, blue, white wispy clouds.. ahh.. perfect!
+THe next morning we were off to Phi Phi island, the minivan pickup was at 0700 so we had to wake up early, get breakfast etc and then wait for the bus. It took us about an hour to reach the ferry terminal which was located on the other side of the island and wah, the skies were great today, clear, blue, white wispy clouds.. ahh.. seems like the perfect day for an island excursion.
 
-So many various agencies at the terminal, I guess all of them are about the same, traveling the same route, in a way, ours is good as it wasn't so crowded as some of the other boats so it gave us alot of space to laze and horse around on the top deck! No chairs though, but hey just lying down and feeling the sea wind is good enough.
+We were stunned by the sheer number of agencies and operators at the terminal, I guess all of them are about the same, traveling the same route, in a way, ours is good as it wasn't so crowded as some of the other boats so it gave us alot of space to laze and horse around on the top deck! No chairs though, but hey just lying down and feeling the sea wind is good enough.
 
 The view was great, and managed to get lots of nice postcard - esque shots, shall remember to include more people in them next time!
 
-The water was really very clear and when we finally stopped to do some snorkeling, there were lots of small fishes and they kept flocking to the bread that the people on board will throw at them. To be honest, didn't really enjoyed the snorkeling, felt it was quite boring, and didn't had much to swim. And the equipment they provided was a turn off, first erm, wonder about the cleanliness of the mouthpiece and the goggles had a funny smell! Ahh.. after that, finally reach Phi Phi island for lunch, had a very nice beach there! Clear sand, clear water, beautiful backdrop!
+The water was really very clear and when we finally stopped to do some snorkeling, there were lots of small fishes and they kept flocking to the bread that the people on board will throw at them. To be honest, didn't really enjoyed the snorkeling, felt it was quite boring, and didn't had much space to swim. And the equipment they provided was a turn off, first erm, I kept wondering about the cleanliness of the mouthpiece and the goggles had a funny smell! After that, we finally reached Phi Phi island for lunch, and there was a very nice beach there! Clear sand, clear water, beautiful backdrop! It was such a marked distinction against the crowded Patong beach - and it's really a lovely place to visit for any sightseeing tourists to Phuket.
 
-It was such a marked distinction against the crowded Patong beach - and it's really a lovely place to visit for any sightseeing tourists to Phuket.
+We returned back to mainland Phuket later in the evening and had a seafood dinner to mark a nice end to the day.
