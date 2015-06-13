@@ -4,7 +4,7 @@ title: 情书两封
 description: 恋爱总有一天会变成生活，生活会变成喜悦。
 headline: 
 categories: personal
-tags:Memo, Letter
+tags:
   - blogging
   - jekyll
 imagefeature:
