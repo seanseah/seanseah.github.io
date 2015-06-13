@@ -1,9 +1,9 @@
-title:            Sean Seah
-description:      Hi There
+title:            Leah’s Swing Dance
+description:      回旋舞步
 logo:             logo.png
 disqus_shortname:
 # Assign a default image for your site's header and footer
-default_bg:       seanseah_bg.jpg
+default_bg:       Leah_cc.jpg
 search:           true
 share:            true
 # Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
@@ -18,25 +18,25 @@ fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url: http://seanseah.github.io
+url: http://leah.li
 
 # Owner/author information
 owner:
-  name:           Sean Seah
-  avatar:         seanseah.jpg
-  email:          sean@gadgetreactor.com
+  name:           Leah Li
+  avatar:         Leah.jpg
+  email:          nankailiyi@live.cn  
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Sean is a writer, engineer, startup evangelist, and a project manager based in Singapore. His interests are anything technology-related, good roasted coffee, and wines.
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        gadgetreactor
-  facebook:       gadgetreactor
-  github:         seanseah
+  twitter:        Leah
+  facebook:       Leah
+  github:         Leah-li
   stackexchange:
   linkedin:
-  instagram:      sean__seah
+  instagram:      Leah
   flickr:
   tumblr:
-  google_plus:    https://plus.google.com/+SeanSeahSG/
+  google_plus:    https://plus.google.com/azeril_lapland/
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-58151941-1
@@ -61,7 +61,7 @@ links:
     url: /about-sean
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Singapore
+timezone:    Asia/Shanghai
 future:      true
 highlighter: pygments
 markdown:    kramdown
@@ -87,8 +87,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://seanseah.github.io/'
-  relativeLinks: 'http://seanseah.github.io/links.jsonp'
+  siteurl: 'http://leah.li/'
+  relativeLinks: 'http://leah.li/links.jsonp'
   media: 'images'
   metadata:
     _posts:
