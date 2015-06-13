@@ -4,8 +4,8 @@ title: 我想，也会有黑色的天堂
 description: 他失去了这个五颜六色的世界，可是无疑，他拥有着一个更为广阔和辽远的天地，那里，是我不曾到过，也不曾想象，直到遇见了他才依稀看见的地方。  
 headline: 
 categories: personal
-tags: [life, love, ]
-  - dates
+tags: 
+  - life
 imagefeature: 
 comments: ture
 published: true
