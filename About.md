@@ -1,11 +1,12 @@
 ---
 layout: page
-permalink: /About-Me/
+permalink: /About/
 title: About Me
 tags:
 image:
-  feature:
+feature:
 ---
+
 <figure>
   <img src="{{ site.url }}/images/Leah.jpg">
   <figcaption>Me</figcaption>
