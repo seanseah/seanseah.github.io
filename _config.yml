@@ -27,6 +27,7 @@ owner:
   email:          nankailiyi@live.cn  
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    你看，我想要的东西好多。我可能什么都想要：那每回无限旋落的黑暗 以及每一个步伐升盈令人战栗的光辉。
+  favicon:        ./favicon.png
   # Social networking links used in footer. Update and remove as you like.
   twitter:        Leah
   facebook:       Leah
