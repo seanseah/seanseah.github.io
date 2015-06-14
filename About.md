@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /About/
+permalink: /about/
 title: About Me
 tags:
 image:
