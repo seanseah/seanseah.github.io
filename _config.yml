@@ -51,8 +51,8 @@ links:
     url: /
     external: false
     icon: home
-  - title: <i class="icon-book"></i> My Toys
-    url: /gadgets
+#  - title: <i class="icon-book"></i> My Toys
+#    url: /gadgets
   - title: <i class="icon-gear"></i> Categories
     url: /categories
   - title: <i class="icon-tags"></i> Tags
