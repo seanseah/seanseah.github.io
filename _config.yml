@@ -58,7 +58,7 @@ links:
   - title: <i class="icon-tags"></i> Tags
     url: /tags
   - title: <i class="icon-pencil"></i> About Me
-    url: /About
+    url: /abuot.md 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Shanghai
