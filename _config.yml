@@ -29,15 +29,15 @@ owner:
   description:    你看 我想要的东西好多。我可能什么都想要：那每回无限旋落的黑暗 以及每一个步伐升盈令人战栗的光辉。
   favicon:        favicon.png
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        Leah
-  facebook:       Leah
+  twitter:        
+  facebook:       profile.php?id=100007516723884
   github:         Leah-li
-  stackexchange:
-  linkedin:
-  instagram:      Leah
-  flickr:
-  tumblr:
-  google_plus:    https://plus.google.com/azeril_lapland/
+  stackexchange:  
+  linkedin:       
+  instagram:      Liyi_Leah
+  flickr:         
+  tumblr:         
+  google_plus:    
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-58151941-1
