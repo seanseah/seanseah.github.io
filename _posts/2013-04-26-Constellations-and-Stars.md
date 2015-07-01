@@ -22,4 +22,4 @@ published: true
 他们在南京路下车了，那个穿绿色冲锋衣的白人男孩子拉起了旁边的漂亮女孩子的手，他们一伙继续比比划划地下车了。  
 他们组成了什么星座呢？我是不是就像旁边划过的一颗流星？^ ^  
 
-![Constellations_and_Stars](/images/Constellations_and_Stars.jpg)
+![Constellations_and_Stars](/images/Constellations_and_Stars.jpg "牵着乌龟散步的兔大哥^ ^")
