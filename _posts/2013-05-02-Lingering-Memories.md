@@ -27,4 +27,4 @@ published: true
 
 也许这段话，可以说给几个月后的自己，但年龄大概根本不重要，现在就可以哒。  
 
-![Tree_and_flowers](./images/Tree_and_Flowers.jpg)
+![Tree_and_flowers](/images/Tree_and_Flowers.jpg)

@@ -11,7 +11,7 @@ comments: ture
 published: true  
 ---
 
-![Baraka](./images/Baraka.jpg) 
+![Baraka](/images/Baraka.jpg) 
 
 刚刚看完纪录片《Baraka》，中文译名《天地玄黄》，好一个霸气的名字。Baraka在古伊斯兰语中意为祝福，我想它大概是一个带点残酷的温柔的词，如若没有残酷，又何须祝福？整部片子没有一句台词，只有声音，各种各样的声音，配上一个又一个的镜头和大幅大幅的画面。看到最后，我几乎要落下泪来。  
 
