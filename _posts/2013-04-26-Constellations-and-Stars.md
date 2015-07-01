@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: 念念不忘    
+title: 星座与星    
 description: 我……穷尽了我的想象力，也实在不知道他们从哪里来，将要到哪里去，亦或是在说着什么。唯一一点确定的是，他们比我遇见的公交车上98%的人都要开心。      
 headline: 
 categories: personal  
@@ -22,4 +22,4 @@ published: true
 他们在南京路下车了，那个穿绿色冲锋衣的白人男孩子拉起了旁边的漂亮女孩子的手，他们一伙继续比比划划地下车了。  
 他们组成了什么星座呢？我是不是就像旁边划过的一颗流星？^ ^  
 
-![Constellations_and_Stars](./images/Constellations_and_Stars.jpg)
+![Constellations_and_Stars](/images/Constellations_and_Stars.jpg)
