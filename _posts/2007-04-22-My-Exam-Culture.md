@@ -1,17 +1,17 @@
 ---
 layout: post
 title: My Exam Culture
-description: 
+description:
 headline:  
 categories: personal
 tags:
-  - blogging  
+  - reflections
 comments: false
 mathjax: null
 published: true
 ---
 
-How apt, a day for Sociology and a day to talk about my exam culture with it's own special rituals and routines to get myself in the proper frame of mind for exams. I guess, in a way, it calms me down to know that a routine helps establish a certain form of consistency. Like I guess, sleep + waking early helps ensure I get to the examination halls on time and well today is a bad example of that, by the time I reach, people were already seated inside! My exam cultue is made up of the following quick rules. 
+How apt, a day for Sociology and a day to talk about my exam culture with it's own special rituals and routines to get myself in the proper frame of mind for exams. I guess, in a way, it calms me down to know that a routine helps establish a certain form of consistency. Like I guess, sleep + waking early helps ensure I get to the examination halls on time and well today is a bad example of that, by the time I reach, people were already seated inside! My exam cultue is made up of the following quick rules.
 
 Right, first up, sleep, I need *sleep*. Lots. I like to make sure I go into an exam well rested. I don't believe in last minute studying.
 _Been getting less and less though as the semesters go by._
@@ -20,11 +20,11 @@ Need to please somebody up there, soul searching, *say a little prayer*. I am a 
 
 Need to have a quick revision / look through before I step into the examination hall.
 
-Need to arrive early. 
+Need to arrive early.
 
 Need to generate confidence, regardless of whether I should or shouldn't.
 
-Need to listen to my exam anthem. If no battery, that would throw my momentum off =(
+Need to listen to my exam anthem. If my trusty iPod Touch is flat, that would throw my momentum off =(. That's why I have backup music on my **E61**.
 
 Well, talking about my anthem, these have been my choice of songs so far. Haha, can't remember Year 1 Sem 1 though. So.. my worst semester linked without a choice of song, haha.. now that explains it...
 

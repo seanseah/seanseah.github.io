@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Going to the Zoo
-description: Exactly 52 days and counting … 
-headline: 
+description: It's been a while since we last visited the zoo.
+headline:
 categories: personal
 tags:
   - dates
-imagefeature: 
+  - gallery
+imagefeature:
 comments: false
 published: true
 ---
@@ -24,7 +25,7 @@ At the entrance.. Parrots! I think I remembered correctly though it might be a b
 <a href="http://1.bp.blogspot.com/_m5e8Pqc8k3c/ReIohqvqrFI/AAAAAAAAAK8/0lwKESDwU48/s1600/DSCF0613.jpg"><img src="http://1.bp.blogspot.com/_m5e8Pqc8k3c/ReIohqvqrFI/AAAAAAAAAK8/0lwKESDwU48/s800/DSCF0613.jpg"></a>
 </figure>
 
-It was feeding time and as the monkeys got food from the keeper, it seems to feed some to the fishes below and what appeared to be stroking them! I don't think monkeys actually eat fishes now, do they?
+It was feeding time and as the monkeys got food from the keeper, it seems to feed some to the fishes below and what appears to be stroking them!
 
 <figure class="half">
 	<a href="http://1.bp.blogspot.com/_m5e8Pqc8k3c/ReInSqvqrEI/AAAAAAAAAKw/5fOKjgpI-Uc/s1600/title.jpg"><img src="http://1.bp.blogspot.com/_m5e8Pqc8k3c/ReInSqvqrEI/AAAAAAAAAKw/5fOKjgpI-Uc/s600/title.jpg"></a>
