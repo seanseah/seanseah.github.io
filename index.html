@@ -9,7 +9,13 @@ tags:
 	{% for post in paginator.posts %}
 		{% if site.wpm %}
 		
-
+<div class="post-content-truncate">
+  {% if post.content contains "<!-- more -->" %}
+    {{ post.content | split:"<!-- more -->" | first % }}
+  {% else %}
+    {{ post.content | strip_html | truncatewords:100 }}
+  {% endif %}
+</div>
 		
 		{% assign readtime = post.content | strip_html | number_of_words | append: '.0' | divided_by:site.wpm %}
 		{% else %}
@@ -48,14 +54,7 @@ tags:
 	                        </li>
 	                    </ul>
 
-		
-                      <div class="post-content-truncate">
-                        {% if post.content contains "<!-- more -->" %}
-                          {{ post.content | split:"<!-- more -->" | first % }}
-                        {% else %}
-                          {{ post.content | strip_html | truncatewords:50 }}
-                        {% endif %}
-                      </div>
+
 
 	                </header>
 	            </article>
