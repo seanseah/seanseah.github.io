@@ -17,13 +17,6 @@ tags:
 		{% assign modifiedtime = post.modified | date: "%Y%m%d" %}
 		{% assign posttime = post.date | date: "%Y%m%d" %}
 		
-<div class="post-content-truncate">
-  {% if post.content contains "<!-- more -->" %}
-    {{ post.content | split:"<!-- more -->" | first % }}
-  {% else %}
-    {{ post.content | strip_html | truncatewords:100 }}
-  {% endif %}
-</div>		
 		
 			{% if post.type == 'quote' %}
 			<div class="row">
@@ -438,3 +431,10 @@ tags:
 {% endif %}
 
 
+<div class="post-content-truncate">
+  {% if post.content contains "<!-- more -->" %}
+    {{ post.content | split:"<!-- more -->" | first % }}
+  {% else %}
+    {{ post.content | strip_html | truncatewords:100 }}
+  {% endif %}
+</div>	
