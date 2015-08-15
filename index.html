@@ -49,19 +49,31 @@ tags:
 	                        </li>
 	                    </ul>
 
+			            <div class="post-body bordered-bottom text-center">
+			                {% if post.description %}
+			                <a href="{{ site.url }}{{ post.url }}" data-toggle="tooltip" title="{{ post.description }}" class="more-link btn btn-danger btn-large">
+			                    <i class="icon-link"></i> permalink...
+			                </a>
+			                {% else %}
+			                <a href="{{ site.url }}{{ post.url }}" data-toggle="tooltip" title="Read more about {{ post.title }}" class="more-link btn btn-danger btn-large">
+			                    <i class="icon-link"></i> permalink...
+			                </a>
+			                {% endif %}
+			            </div>
 
 
 	                </header>
 	            </article>
 	        </div>
 	        {% endif %}
+	        
 	        {% if post.type == 'status' %}
 	        <div class="row">
 	            <article class="post col-md-10 col-md-offset-1">
 	               <header class="post-header">
-	                    <h2 class="post-title text-center super lighter">
+	                    <h4 class="post-title text-center super lighter">
 	                        <a href="{{ site.url }}{{ post.url }}" style="color: #c91b26"><i class="icon-retweet"></i> "{{ post.excerpt | strip_html }}"</a>
-	                    </h2>
+	                    </h4>
 	                    <p class="light small text-center">
 	                        Share this Status
 	                    </p>
@@ -94,6 +106,7 @@ tags:
 	            </article>
 	        </div>
 	        {% endif %}
+	        
 	        {% if post.type == 'video' %}
 	        <div class="row">
 	            <article class="post post col-md-8 col-md-offset-2">
@@ -431,10 +444,3 @@ tags:
 {% endif %}
 
 
-<div class="post-content-truncate">
-  {% if post.content contains "<!-- more -->" %}
-    {{ post.content | split:"<!-- more -->" | first % }}
-  {% else %}
-    {{ post.content | strip_html | truncatewords:100 }}
-  {% endif %}
-</div>	
