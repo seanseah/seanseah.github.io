@@ -11,6 +11,8 @@ comments: ture
 published: true  
 ---
 
+图片均来自 Instagram 标准：我喜欢
+
 <figure class="third">
 	<a href="{{ site.url }}/images/instagram/insta2.jpg"><img src="{{ site.url }}/images/instagram/insta2.jpg"></a>
 	<a href="{{ site.url }}/images/instagram/insta4.jpg"><img src="{{ site.url }}/images/instagram/insta4.jpg"></a>
