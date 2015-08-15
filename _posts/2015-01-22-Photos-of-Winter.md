@@ -1,12 +1,12 @@
 ---
-layout: post
-type: photo
-title: "冬天在相片里"
-description: ""
-category: photos
-tags: [instagram, ]
-imagefeature: /images/instagram/insta2.jpg
-comments: true
+layout: post  
+type: photo  
+title: "冬天在相片里"  
+description: ""  
+category: photos  
+tags: [instagram, ]  
+imagefeature: /images/instagram/insta2.jpg  
+comments: true  
 mathjax: 
 ---
 
