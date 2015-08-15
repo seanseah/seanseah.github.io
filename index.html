@@ -9,14 +9,7 @@ tags:
 	{% for post in paginator.posts %}
 		{% if site.wpm %}
 		
-		
-                <div class="post-content-truncate">
-                  {% if post.content contains "<!-- more -->" %}
-                    {{ post.content | split:"<!-- more -->" | first % }}
-                  {% else %}
-                    {{ post.content | strip_html | truncatewords:50 }}
-                  {% endif %}
-                </div>
+
 		
 		{% assign readtime = post.content | strip_html | number_of_words | append: '.0' | divided_by:site.wpm %}
 		{% else %}
@@ -54,17 +47,15 @@ tags:
 	                            </a>
 	                        </li>
 	                    </ul>
-			            <div class="post-body bordered-bottom text-center">
-			                {% if post.description %}
-			                <a href="{{ site.url }}{{ post.url }}" data-toggle="tooltip" title="{{ post.description }}" class="more-link btn btn-danger btn-large">
-			                    <i class="icon-link"></i> permalink...
-			                </a>
-			                {% else %}
-			                <a href="{{ site.url }}{{ post.url }}" data-toggle="tooltip" title="Read more about {{ post.title }}" class="more-link btn btn-danger btn-large">
-			                    <i class="icon-link"></i> permalink...
-			                </a>
-			                {% endif %}
-			            </div>
+
+<div class="post-content-truncate">
+  {% if post.content contains "<!-- more -->" %}
+    {{ post.content | split:"<!-- more -->" | first % }}
+  {% else %}
+    {{ post.content | strip_html | truncatewords:100 }}
+  {% endif %}
+</div>
+
 	                </header>
 	            </article>
 	        </div>
@@ -443,3 +434,5 @@ tags:
 			{% endif %}
 	{% endfor %}
 {% endif %}
+
+
