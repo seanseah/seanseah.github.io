@@ -5,13 +5,13 @@ title: "冬天在相片里"
 description: ""  
 category: photos  
 tags: [instagram, ]  
-imagefeature: /images/instagram/insta2.jpg
+imagefeature: /images/instagram/insta1.jpg
 comments: true  
 mathjax: 
 ---
 
 <figure class="third">
-	<a href="{{ site.url }}/images/instagram/insta2.jpg"><img src="{{ site.url }}/images/instagram/insta2.jpg"></a>
+	<a href="{{ site.url }}/images/instagram/insta1.jpg"><img src="{{ site.url }}/images/instagram/insta1.jpg"></a>
 	<a href="{{ site.url }}/images/instagram/insta4.jpg"><img src="{{ site.url }}/images/instagram/insta4.jpg"></a>
 	<a href="{{ site.url }}/images/instagram/insta5.jpg"><img src="{{ site.url }}/images/instagram/insta5.jpg"></a>
 </figure>
