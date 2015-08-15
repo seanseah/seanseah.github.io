@@ -8,7 +8,7 @@ feature:
 ---
 
 <figure>
-  <img src="{{ site.url }}/images/Leah.jpg">
+  <img src="{{ site.url }}/images/Leah.png">
   <figcaption>Me</figcaption>
 </figure>
 
