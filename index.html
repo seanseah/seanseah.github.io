@@ -1,13 +1,23 @@
 ---
 layout: home
 title: Latest Posts
-description: "Sean's Blog Posts"
+description: "Leah's Blog Posts"
 headline: My Diary
 tags: 
 ---
 {% if site.paginate %}
 	{% for post in paginator.posts %}
 		{% if site.wpm %}
+		
+		
+                <div class="post-content-truncate">
+                  {% if post.content contains "<!-- more -->" %}
+                    {{ post.content | split:"<!-- more -->" | first % }}
+                  {% else %}
+                    {{ post.content | strip_html | truncatewords:100 }}
+                  {% endif %}
+                </div>
+		
 		{% assign readtime = post.content | strip_html | number_of_words | append: '.0' | divided_by:site.wpm %}
 		{% else %}
 		{% assign readtime = post.content | strip_html | number_of_words | append: '.0' | divided_by:180 %}
