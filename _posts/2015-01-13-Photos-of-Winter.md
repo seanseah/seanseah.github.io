@@ -5,7 +5,7 @@ title: "冬天在相片里"
 description: ""  
 category: photos  
 tags: [instagram, ]  
-imagefeature: http://i.imgur.com/UKhrRrK.jpg  
+imagefeature:  
 comments: true  
 mathjax: 
 ---
