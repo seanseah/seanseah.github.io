@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: 我的大学·窗外  
-description: 学到一句意大利语，特别棒：Chiudi gli occhi.Ho una sorpresa per me. 嗯，我觉得就是这样的一种感觉，让我相信自己是一个受到幸运眷顾的人。       
+description: Chiudi gli occhi.Ho una sorpresa per me.       
 headline: 
 categories: personal  
 tags: 
