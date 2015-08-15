@@ -1,14 +1,15 @@
+
 ---
-layout: post  
-title: Type  
-description:       
+layout: post
+type: quote
+title: "Sample Quotation Post"
+description: 
 headline: 
-categories: personal  
-tags: 
-  - Type  
-imagefeature:  
-comments: ture  
-published: true  
+category: quote
+image: 
+  feature: 
+comments: true
+mathjax: 
 ---
 
 
