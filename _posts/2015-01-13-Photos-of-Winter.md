@@ -22,5 +22,5 @@ mathjax:
 </figure>
 
 <figure>
-	<a href="{{ site.url }}/images/instagram/insta13.jpg"><img src="{{ site.url }}/images/instagram/insta3.jpg"></a>
+	<a href="{{ site.url }}/images/instagram/insta3.jpg"><img src="{{ site.url }}/images/instagram/insta3.jpg"></a>
 </figure>
