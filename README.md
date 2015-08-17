@@ -1,5 +1,13 @@
-# Sean Seah on GitHub
+# Leah's Swing Dance
 
-Site is adapted from the HMFAYSAL OMEGA THEME, Author:	Hossain Mohd Faysal.  
+This is a blog created by Leah. The blog is live at [leah.li](http://leah.li/).
 
-Making the decision to switch over from platforms such as Wordpress or Blogger to the Github / Jekyll combo was not easy. Ease of use and setup of Wordpress are major plus points. However, having lose two sites due to the inefficiency of MySQL migration led me to try something different. It was tempting to use a static loader platform such as Jekyll which allows quick setup and host switching as compared to the Wordpress (PHP/MySQL) stack.
+## Tools used
+
+* [Github](https://github.com/) All is there.
+* [Jekyll](http://jekyllrb.com/), a static site generator;
+* [Hmfaysal-Omega](https://github.com/hmfaysal/hmfaysal-omega-theme), a Jekyll theme.
+
+## Just write
+
+开始写吧！
