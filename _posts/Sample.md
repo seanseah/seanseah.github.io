@@ -1,14 +1,12 @@
----
+---  
 layout: post  
-title: 添加标题  
+title:   
 description:       
-headline: 
 categories: Blog  
-tags: 
-  - Life  
-imagefeature:  
+tags:  
+  -   
 comments: ture  
 published: true  
----
+---  
 
-
+Start writing...
