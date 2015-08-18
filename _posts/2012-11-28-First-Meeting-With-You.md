@@ -3,7 +3,7 @@ layout: post
 title: 与君初相识，犹如故人归
 description: “与君初相识，犹如故人归”和容若的“人生若只如初见”相比，又是另一种境界了。一直走在路上的人，该会有更深的体会吧。    
 headline: 
-categories: personal
+categories: Blog
 tags: 
   - Life
 imagefeature: 

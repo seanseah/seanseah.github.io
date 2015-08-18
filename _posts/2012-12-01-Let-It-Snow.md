@@ -3,7 +3,7 @@ layout: post
 title: Let it snow  
 description: 我当然，没有太多很好的东西，也好像还没有献给这个倒霉世界。但是我会有种感觉，如果把拥有的最好的东西，献给这个世界，那会得到一份神秘的大礼物，不仅仅会收到你所献出的，还包括这整个世界，还包括一种独一无二的温暖与美好。     
 headline: 
-categories: personal  
+categories: Blog  
 tags: 
   - Life  
 imagefeature:  

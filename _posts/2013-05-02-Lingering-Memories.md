@@ -3,7 +3,7 @@ layout: post
 title: 念念不忘    
 description: 大概我什么也不该想，该安抚劝慰焦虑，先勇气满满地走向明天，再选择下一步，走向以后，就像一棵蔓延的二叉树。又或许只要用心，所有的道路都会通向一个结果，即使不是最初想要的，也会是值得双手合十的。      
 headline: 
-categories: personal  
+categories: Blog  
 tags: 
   - Life  
 imagefeature:  

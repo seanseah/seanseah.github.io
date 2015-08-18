@@ -3,9 +3,9 @@ layout: post
 title: "冬天在相片里"  
 description:       
 headline: 
-categories: personal  
+categories: Blog  
 tags: 
-  - Type  
+  - Instagram  
 imagefeature: http://i.imgur.com/UKhrRrK.jpg
 comments: ture  
 published: true  

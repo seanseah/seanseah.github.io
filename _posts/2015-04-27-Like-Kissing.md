@@ -3,7 +3,7 @@ layout: post
 title: "Like kissing"  
 description:   
 headline:   
-category: quote  
+category: Quote  
 tags:   
   imagefeature:   
 comments: true  

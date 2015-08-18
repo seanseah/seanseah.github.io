@@ -3,7 +3,7 @@ layout: post
 title: 遇见一只小狐狸
 description: 我与一只小狐狸的故事  
 headline: 
-categories: personal
+categories: Blog
 tags: 
   - Story
 imagefeature: 

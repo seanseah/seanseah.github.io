@@ -3,7 +3,7 @@ layout: post
 title: Life In One Day 
 description: 几个问题与几个答案。     
 headline: 
-categories: personal  
+categories: Blog  
 tags: 
   - Life  
 imagefeature:  

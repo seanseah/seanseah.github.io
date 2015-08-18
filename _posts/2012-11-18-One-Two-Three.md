@@ -3,7 +3,7 @@ layout: post
 title: 一二三
 description: 一个人身上总会带有时代与过去的烙印 但那也是属于自己的东西  
 headline: 
-categories: personal
+categories: Blog
 tags: 
   - Life
 imagefeature: 

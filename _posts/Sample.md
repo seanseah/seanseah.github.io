@@ -1,11 +1,11 @@
 ---
 layout: post  
-title: Type  
+title: 添加标题  
 description:       
 headline: 
-categories: personal  
+categories: Blog  
 tags: 
-  - Type  
+  - Life  
 imagefeature:  
 comments: ture  
 published: true  

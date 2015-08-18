@@ -3,7 +3,7 @@ layout: post
 title: 我的大学·窗外  
 description: Chiudi gli occhi.Ho una sorpresa per me.       
 headline: 
-categories: personal  
+categories: Blog  
 tags: 
   - Life  
 imagefeature:  

@@ -3,7 +3,7 @@ layout: post
 title: 《罗马人的故事》  
 description:       
 headline: 
-categories: personal  
+categories: Blog  
 tags: 
   -  Reading  
 imagefeature:  

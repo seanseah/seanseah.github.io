@@ -3,7 +3,7 @@ layout: post
 title: The Sound of Silence  
 description: 这个社会大得有点让我恐慌，但我想我应该不害怕，害怕的时候，我要一抬脚，就去做好了。     
 headline: 
-categories: personal  
+categories: Blog  
 tags: 
   - Life  
 imagefeature:  
