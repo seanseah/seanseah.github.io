@@ -14,8 +14,6 @@ feature:
 
 I'm Leah Li.
 
-This is my first website.
+It's my first website.
 
-There is no more stories I can tell you. Maybe some day you all will know something in my heart.
-
-This moment,I just just want to fly.
+There is no more stories I could tell you. Maybe someday you all will know something.Go through the time.
