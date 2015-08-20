@@ -19,7 +19,7 @@ h5 {
   margin: 0;
 }
 h1 {
-  font-size: 38px;
+  font-size: 32px;
   line-height: 48px;
   margin-bottom: 24px;
 }
@@ -318,7 +318,7 @@ pre {
 }
 @media (max-width: 320px) {
   body {
-    font-size: 16px;
+    font-size: 12px;
   }
   h1 {
     font-size: 23px;
@@ -452,7 +452,7 @@ html {
 }
 /* - Blog title and description - */
 .blog-title {
-  font-size: 36px;
+  font-size: 24px;
   line-height: 36px;
   text-transform: uppercase;
   margin-bottom: 12px;
