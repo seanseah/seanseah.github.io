@@ -9,8 +9,6 @@ tags:
 comments: ture  
 published: true  
 ---  
-#Open Door Bookshop in Roma
-
 这家书店在台伯河岸边的一条安静的小巷子里，需要从大路的一个小路口拐进去，再转个弯，顺着弯弯曲曲的小路走一段，才能发现它。第一眼看见它的时候，哇，感觉太棒啦！年代的破旧感与厚重感从招牌上就可以略略看出来，好像走进了对角巷的某一家书店。
 <center>
 <img src="http://i1045.photobucket.com/albums/b457/Leah_li/Blog/IMG_2758_zpsfspqacgt.jpg">
