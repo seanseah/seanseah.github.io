@@ -173,7 +173,7 @@ Who are your heros in real life?
 32、你最喜爱的名字有哪些？
 What are your favorite names?
 
-**Azeril 挺不错的，Leah 这个瞅着也还行吧**
+**Azeril，暖炉**
 
 33、你最不喜欢什么？
 What is it that you most dislike?
