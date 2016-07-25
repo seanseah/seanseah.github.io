@@ -1,9 +1,7 @@
 ---
 layout: page
 permalink: /license/
-title: LICENSE
-description: "License for seanseah.github.io
-headline: "The License"
+title: The License
 tags:
 image:
   feature:
