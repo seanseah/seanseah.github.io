@@ -11,9 +11,6 @@ comments: ture
 published: true  
 ---  
 
-Start writing...
-
-
 
 因了某些缘由，这两天总是陆陆续续地想起二十多年的日子里经历过贴近我自己生命的死亡的事情。
   
