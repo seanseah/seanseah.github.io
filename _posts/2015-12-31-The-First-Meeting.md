@@ -5,7 +5,9 @@ description: 2015 年终总结
 headline: 
 categories: Blog
 tags: 
-  - Life  
+  - Life
+  - Review
+  - Think  
 imagefeature:  
 comments: ture
 ---
