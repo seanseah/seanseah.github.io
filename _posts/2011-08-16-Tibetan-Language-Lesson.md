@@ -1,18 +1,19 @@
 ---
-layout:post
-title:藏语课
-description:我想...
-headline:
-categories:Blog
-tags:
--Life
-imagefeature:
-comments:ture
-published:true
+layout: post  
+title: 藏语课  
+description: 在新华书店，面对一堆藏文课本，折腾了好久，好不容易才确定了这一本是小学一年级的藏文课本。      
+headline: 
+categories: Blog  
+tags: 
+  - Life
+  - Travel  
+imagefeature:  
+comments: ture  
+published: true  
 ---
 
 
-2011-08-1601:05:04
+2011-08-16 01:05:04
 
 在新华书店，面对一堆藏文课本，折腾了好久，好不容易才确定了这一本是小学一年级的藏文课本。
 
@@ -40,6 +41,7 @@ published:true
 一个月下来，要回去拉萨了，我的藏语课也结束了。买的让她们笑歪了的一年级的课本终于还有一大半是新的，最后也只学会了三十个藏语字母，顶多看着前面的藏族妈妈买饼的时候能够听懂她是要买一个，两个，三个，还是四个，再多？再多我也不知道是多少了……只能数她袋子里的饼子个数了。
 
 ![](/images/TibetBookPagesCover.jpg)
+
 ![](/images/TibetBookPagesInside.jpg)
 
 装下了大家多少笑声的藏语课本。
