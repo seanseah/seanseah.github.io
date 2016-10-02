@@ -6,6 +6,8 @@ author: Kaer
 categories: places
 tags:
 - places
+- friends
+- makan
 modified_time: '2014-07-01T15:43:54.086+08:00'
 blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-4474260542138241623
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/02/villa-bali-vist.html
@@ -46,13 +48,13 @@ good?
 hmmm. 
 
 <img alt="" border="0" 
-src="http://2.bp.blogspot.com/_m5e8Pqc8k3c/RcKJExBODWI/AAAAAAAAAFE/suc71DYhrag/s320/DSCF0398.jpg" 
+src="http://2.bp.blogspot.com/_m5e8Pqc8k3c/RcKJExBODWI/AAAAAAAAAFE/suc71DYhrag/s1600/DSCF0398.jpg" 
 id="BLOGGER_PHOTO_ID_5026730849069829474" style="cursor: pointer; display: 
 block; margin: 0px auto 10px; text-align: center;" 
 />
 
 <img alt="" border="0" 
-src="http://2.bp.blogspot.com/_m5e8Pqc8k3c/RcKK8xBODZI/AAAAAAAAAFc/cjEYy4JmJDw/s320/DSCF0397.jpg" 
+src="http://2.bp.blogspot.com/_m5e8Pqc8k3c/RcKK8xBODZI/AAAAAAAAAFc/cjEYy4JmJDw/s1600/DSCF0397.jpg" 
 id="BLOGGER_PHOTO_ID_5026732910654131602" style="cursor: pointer; display: 
 block; margin: 0px auto 10px; text-align: center;" 
 />

@@ -3,7 +3,7 @@ layout: post
 title: Ahoy! Onboard the Sapphire Princess
 description:
 headline:
-categories: personal
+categories: travel
 tags:
   - travel
 imagefeature:

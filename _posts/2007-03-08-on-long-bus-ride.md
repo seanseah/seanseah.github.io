@@ -3,8 +3,9 @@ layout: post
 title: on A Long Bus Ride
 date: '2007-03-08T13:35:00.000+08:00'
 author: Kaer
+categories: personal
 tags:
-- work
+- school
 - places
 modified_time: '2014-07-01T16:41:19.425+08:00'
 thumbnail: http://2.bp.blogspot.com/_m5e8Pqc8k3c/Re-f9H8IlLI/AAAAAAAAA80/GiyZh3FZ3gE/s72-c/DSCF0913.JPG

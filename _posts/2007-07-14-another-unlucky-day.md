@@ -5,6 +5,8 @@ date: '2007-07-14T17:00:00.000+08:00'
 author: Kaer
 tags:
 - dates
+- movie
+categories: personal
 modified_time: '2012-10-01T20:46:45.703+08:00'
 blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-90061882455294884
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/07/another-unlucky-day.html

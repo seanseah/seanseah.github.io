@@ -3,6 +3,7 @@ layout: post
 title: telling Time
 date: '2007-06-14T21:24:00.000+08:00'
 author: Kaer
+categories: personal
 tags:
 - dates
 modified_time: '2007-06-14T21:57:58.821+08:00'

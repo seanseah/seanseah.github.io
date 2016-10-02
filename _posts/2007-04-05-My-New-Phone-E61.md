@@ -6,6 +6,7 @@ headline:
 categories: tech
 tags:
   - toys
+  - tech
 
 comments: false
 mathjax: null

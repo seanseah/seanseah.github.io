@@ -3,7 +3,7 @@ layout: post
 title:  My Taiwan Grad Trip
 description: Travel post on trip to Taiwan
 headline:  
-categories: personal
+categories: travel
 tags:
   - travelling
 imagefeature: 

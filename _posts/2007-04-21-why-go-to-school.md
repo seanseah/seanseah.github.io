@@ -4,7 +4,8 @@ title: why Go To School?
 date: '2007-04-21T11:01:00.000+08:00'
 author: Kaer
 tags:
-- work
+- school
+categories: personal
 modified_time: '2014-07-01T17:23:52.674+08:00'
 blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-7752327543124253110
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/04/why-go-to-school.html

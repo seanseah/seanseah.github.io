@@ -3,6 +3,7 @@ layout: post
 title: more Than Meets The Eye
 date: '2007-06-24T08:54:00.000+08:00'
 author: Kaer
+categories: personal
 tags:
 - toys
 modified_time: '2007-06-24T13:35:37.724+08:00'
@@ -37,11 +38,13 @@ versions but the original season was definitely the best. My favourite
 character.. Optimus Prime, a bit boring la, being the Autobot leader and all, 
 but erm, still the most cool / composed / zai / best looking! 
 
-![](http://3.bp.blogspot.com/_m5e8Pqc8k3c/Rn3xGBF_7HI/AAAAAAAADNg/zADiHYsGe5M/s1600/convoy-8404-full.jpg).. 
-The evolution of Optimus Prime .. 
+![](http://3.bp.blogspot.com/_m5e8Pqc8k3c/Rn3xGBF_7HI/AAAAAAAADNg/zADiHYsGe5M/s1600/convoy-8404-full.jpg)
 
-![](http://4.bp.blogspot.com/_m5e8Pqc8k3c/Rn3xGRF_7JI/AAAAAAAADNw/pjvhGN--i1k/s1600/optimus.jpg)... 
-21st Century Look ... 
+... The evolution of Optimus Prime .. 
+
+![](http://4.bp.blogspot.com/_m5e8Pqc8k3c/Rn3xGRF_7JI/AAAAAAAADNw/pjvhGN--i1k/s1600/optimus.jpg)
+
+... 21st Century Look ... 
 
 Still prefer the old chunky robot version 
 as opposed to the more organic looking prime now. Even the classic generation 
@@ -54,5 +57,6 @@ cartoon, still a must watch to relive some of the childhood memories.
 Autobots, transform.. and roll out! 
 
 ![](http://3.bp.blogspot.com/_m5e8Pqc8k3c/Rn3xGBF_7II/AAAAAAAADNo/M7bRWKlR3-U/s1600/megatron-arm-full.jpg) 
+
 I want to time travel, back to my 
 childhood, revisiting the moments, reliving them... 

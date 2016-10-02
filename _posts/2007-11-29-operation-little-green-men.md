@@ -5,6 +5,7 @@ date: '2007-11-29T00:07:00.000+08:00'
 author: Kaer
 tags:
 - work
+categories: personal
 modified_time: '2007-12-02T11:04:50.301+08:00'
 thumbnail: http://1.bp.blogspot.com/_m5e8Pqc8k3c/R1GII9i6ZKI/AAAAAAAADWs/eTd7xqh9_E0/s72-c/IMG_1012.JPG
 blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-8614128745872872583

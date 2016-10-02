@@ -5,6 +5,7 @@ date: '2008-01-26T10:08:00.000+08:00'
 author: Kaer
 tags:
 - work
+categories: personal
 modified_time: '2008-01-26T10:57:19.286+08:00'
 blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-5735814831837247387
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2008/01/what-difference-year-makes.html

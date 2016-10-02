@@ -7,6 +7,7 @@ tags:
 - places
 - Bali
 - dates
+categories: travel
 modified_time: '2009-05-06T22:53:50.406+08:00'
 thumbnail: http://lh4.ggpht.com/_m5e8Pqc8k3c/Sf7ffOb1d2I/AAAAAAAAGdM/7D8luvhB56Q/s72-c/DSCF5836_thumb%5B1%5D.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-1777562127347334312

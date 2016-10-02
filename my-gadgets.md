@@ -7,41 +7,103 @@ image:
   feature:
 ---
 
-If you couldn't tell by now, I like gadgets. Here's a collection of things I owned, reviewed and meddled with. I have been building computers ever since my Ivan helped me up with my first set, and have also helped friends and family with DIY-ing computers too. Most things i own are generally budget friendly and as much as I like tech, I am not too keen on splurging a fortune on them.
+If you couldn't tell by now, I like gadgets. Here's a collection of things I owned, reviewed and meddled with. 
+I have been building computers ever since my Ivan helped me up with my first set, and have also helped friends 
+and family with DIY-ing computers too. Most things i own are generally budget friendly and as much as I like tech,
+I am not too keen on splurging a fortune on them.
 
 ## Gadgets I Own
 
+#### Guitars
 + Guitar 1: Peavey Something ...
 + Guitar 2: A black Yamaha RG Axe that I sandpapered and spray painted metallic silver
 + Guitar 3: Slash Custom Snake Guitar is a guitar I will buy one day ...
-+ Sony Ericsson Phone
-+ Samsung (clamshell phone)
+
+#### Consoles
++ Nintendo Entertainment System
++ Sega Game Gear
++ XBOX
++ XBOX 360 w/ Kinect
+
+#### Phones
++ Sony Ericsson T68i
++ Samsung (clamshell phone) 
 + Nokia E61
-+ iPod Mini 8GB
-+ iPod Touch 2 (Apple Peel 520)
 + HTC Touch
 + HTC Touch 2
 + Optimus 2X
 + Blackberry 9630
 + Samsung Galaxy S3
-+ HP Stream 7
-+ Asus Chromebox
 + LG G Pro 2
++ HTC One E8
++ Samsung Galaxy S7 Edge
++ Redmi 1
++ Asus Zenfone 2 Zoom
+
+#### Tablets
 + Nook Color
 + Nexus 7 2012
 + iPad 2
++ HP Stream 7
+
+#### Media Players
++ iPod Mini 8GB
++ iPod Touch 2 (Apple Peel 520)
++ Veolo 4K
 + Tronsmart MK908
++ Chromecast
+
+#### PC
+
++ Pentium 100
+  + 8mb RAM
+  + 1.6 GB HDD
+  + 6XCDROM
+
++ Celeron 333
+  + Celeron 333
+  + Riva TNT
+  + 256mb RAM
+
++ AMD XP 1700+
+
++ Core2Duo E6300
++ AsRock 775 HDTV-Twins
+  + ASUS ATI 4850
+
++ AMD Phenom II X2 550
+  + Biostar TA790GXE
+  + Palit GTX 460
+  + Dell U2312HM
+  + LG 42" TV
+
++ AMD X3 440
+  + Biostar A780L3G
+  + NVIDIA
+
++ Fujitsu S6300 ?
+  + Intel Centrino
+  + 512MB RAM
+
++ HP Mini (hackintosh)
+
++ Asus Chromebox
 + Canon Pixma MG3170
+
+
+#### Cameras
 + Fujifilm X31
 + Pentax K-X
 	+ 18-55 mm f/3.5 - f/5.5 lens
 	+ 50mm manual f/1.8 lens
-+ XBOX
-+ XBOX 360 w/ Kinect
+
+#### Wearables
 + LG G Watch R
++ Xiaomi Band
++ Activa Band
++ Fitbit
 
-
-> Recent years have seen a significant adoption of Android / Google related gadgets. My other family members have used Apple and also Microsoft based mobile devices so that has kept me abreast of the scene.
+Recent years have seen a significant adoption of Android / Google related gadgets. My other family members have used Apple and also Microsoft based mobile devices so that has kept me abreast of the scene.
 
 ## Gadgets I reviewed
 
@@ -166,9 +228,22 @@ XBMC Plugins
 - sg!Radio
 - sg!TV
 
-Clan ngE - It was started by my secondary school friend as we were the only two in the school playing Unreal Tournament. There were only four of us, my school mate's brother and a rookie who was an endearing 12 year old - Psymasta. We were a small social group and when I started playing more competitively, we disbanded and I joined one of the bigger clans in Singapore. Now I was known online as Kaer[X3M] - and since I was still on 56k dial up connection, my ping connection was usually in the range of 150-250, which was still substantial lag for a fast-paced first person shooter. Yet, I handled myself pretty well online and was known as one of the better 56k players. It was also around that time when I took part in my first gaming competition. Adapting to gameplay without lag was a strange experience. UnrealTournament was quite big in Singapore, albeit perhaps smaller than Quake but it was still a nice, sizeable community. There were about 30 teams, and we made it to the last 8, before being eliminated.
+Clan ngE - It was started by my secondary school friend as we were the only two in the school playing Unreal 
+Tournament. There were only four of us, my school mate's brother and a rookie who was an endearing 12 year old - 
+Psymasta. We were a small social group and when I started playing more competitively, we disbanded and I joined 
+one of the bigger clans in Singapore. Now I was known online as Kaer[X3M] - and since I was still on 56k dial up 
+connection, my ping connection was usually in the range of 150-250, which was still substantial lag for a 
+fast-paced first person shooter. Yet, I handled myself pretty well online and was known as one of the better 
+56k players. It was also around that time when I took part in my first gaming competition. Adapting to gameplay 
+without lag was a strange experience. UnrealTournament was quite big in Singapore, albeit perhaps smaller than 
+Quake but it was still a nice, sizeable community. There were about 30 teams, and we made it to the last 8, before 
+being eliminated.
 
-When I finally made the upgrade over to broadband, I saw a marked improvement in my gameplay. Over time, my skills improved and I continued to participate in the clan activities although it coincided with my 'O' levels. I still remember playing UT on the night before my O level exams. Once the exams were out of the way, there were a couple of LAN gmaing competitions and I think the best result was in the SAFRA gaming competition as well as one organised at Cathay Cineleisure.
+When I finally made the upgrade over to broadband, I saw a marked improvement in my gameplay. Over time, my skills 
+improved and I continued to participate in the clan activities although it coincided with my 'O' levels. I still 
+remember playing UT on the night before my O level exams. Once the exams were out of the way, there were a couple 
+of LAN gmaing competitions and I think the best result was in the SAFRA gaming competition as well as one organised 
+at Cathay Cineleisure.
 
 ## Routers
 
@@ -176,36 +251,3 @@ When I finally made the upgrade over to broadband, I saw a marked improvement in
 + 2Wire Modem (Singtel)
 + Dlink 865L (stock firmware but Tomato upgrade coming soon)
 
-## Computers
-
-+ Pentium 100
-  + 8mb RAM
-  + 1.6 GB HDD
-  + 6XCDROM
-
-+ Celeron 333
-  + Celeron 333
-  + Riva TNT
-  + 256mb RAM
-
-+ AMD XP 1700+
-
-+ Core2Duo E6300
-+ AsRock 775 HDTV-Twins
-+ ASUS ATI 4850
-
-+ AMD Phenom II X2 550
-+ Biostar TA790GXE
-+ Palit GTX 460
-+ Dell U2312HM
-+ LG 42" TV
-
-AMD X3 440
-Biostar A780L3G
-NVIDIA
-
-Fujitsu S6300 ?
-Intel Centrino
-512MB RAM
-
-HP Mini (hackintosh)

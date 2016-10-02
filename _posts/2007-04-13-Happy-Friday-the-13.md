@@ -6,7 +6,8 @@ headline:
 categories: personal
 tags:
   - dates
-  - omnomnom
+  - places
+  - makan
 imagefeature:
 comments: false
 published: true

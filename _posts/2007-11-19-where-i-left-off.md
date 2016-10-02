@@ -3,7 +3,8 @@ layout: post
 title: where I Left Off
 date: '2007-11-19T19:12:00.000+08:00'
 author: Kaer
-tags: 
+tags: car
+categories: personal
 modified_time: '2007-11-20T07:19:20.211+08:00'
 thumbnail: http://3.bp.blogspot.com/_m5e8Pqc8k3c/R0GWUzvg-BI/AAAAAAAADV0/sUDqsSVZemw/s72-c/fit1.jpg
 blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-8543130278965328227

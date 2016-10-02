@@ -5,6 +5,7 @@ date: '2008-04-24T21:09:00.000+08:00'
 author: Kaer
 tags:
 - work
+categories: personal
 modified_time: '2008-04-24T21:10:05.182+08:00'
 blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-1175135363657775748
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2008/04/long-overdue-entry.html

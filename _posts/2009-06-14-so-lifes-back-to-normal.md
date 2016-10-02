@@ -5,6 +5,7 @@ date: '2009-06-14T22:44:00.001+08:00'
 author: Kaer
 tags:
 - dates
+categories: personal
 modified_time: '2009-06-14T22:44:54.568+08:00'
 thumbnail: http://lh6.ggpht.com/_m5e8Pqc8k3c/SjUM2kf6R0I/AAAAAAAAGhI/4VapNOQTzxg/s72-c/019_thumb.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-4630743052608447779

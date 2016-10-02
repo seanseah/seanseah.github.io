@@ -3,6 +3,7 @@ layout: post
 title: no Computer...
 date: '2007-03-10T10:16:00.000+08:00'
 author: Kaer
+categories: personal
 tags:
 - geek
 modified_time: '2014-07-01T16:48:49.607+08:00'
@@ -10,9 +11,11 @@ blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-34332339751885227
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/03/no-computer.html
 ---
 
-> Andy: one day if u dun have computer and internet... HOW? 
-> Sean: read"
-> Andy: haha, so calm ah.. never go kee siao?" 
+```
+Andy: one day if u dun have computer and internet... HOW?
+Sean: read.
+Andy: haha, so calm ah.. never go kee siao?"
+```
 
 Haha.. being so reliant on my computer, turning it on the moment I wake up, 
 and then off usually only when I'm asleep, is it possible for me to withdraw 

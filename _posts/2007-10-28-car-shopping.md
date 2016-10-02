@@ -3,7 +3,8 @@ layout: post
 title: car Shopping
 date: '2007-10-28T17:38:00.000+08:00'
 author: Kaer
-tags: 
+tags: car
+categories: personal
 modified_time: '2012-10-01T21:01:07.308+08:00'
 thumbnail: http://4.bp.blogspot.com/_m5e8Pqc8k3c/RyRe6thPkSI/AAAAAAAADTs/R98gvbYsLo8/s72-c/avante.jpg
 blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-2352965518359061273

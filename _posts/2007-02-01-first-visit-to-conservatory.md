@@ -3,8 +3,8 @@ layout: post
 title: first Visit to the Conservatory
 date: '2007-02-01T23:34:00.000+08:00'
 author: Kaer
-tags:
-- concerts
+categories: places
+tags: [concerts, places]
 modified_time: '2014-07-01T15:54:44.792+08:00'
 blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-804341918803114441
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/01/first-visit-to-conservatory.html

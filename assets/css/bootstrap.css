@@ -468,7 +468,7 @@ h6,
 p {
   margin: 0 0 30px;
 }
-.lead {
+/*.lead {
   margin-bottom: 20px;
   font-size: 16px;
   font-weight: 200;
@@ -478,7 +478,7 @@ p {
   .lead {
     font-size: 21px;
   }
-}
+}*/
 small,
 .small {
   font-size: 85%;

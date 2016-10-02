@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  Cerulean Seas and Azure Skies
-description: Travel post on my trip to Phuket
+description: My trip to Phuket
 headline:  
-categories: personal
+categories: travel
 tags:
   - travelling
   - phuket

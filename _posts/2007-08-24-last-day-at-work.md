@@ -5,6 +5,7 @@ date: '2007-08-24T07:58:00.001+08:00'
 author: Kaer
 tags:
 - work
+categories: personal
 modified_time: '2012-10-01T20:55:28.862+08:00'
 blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-8502930464426110030
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/08/last-day-at-work.html

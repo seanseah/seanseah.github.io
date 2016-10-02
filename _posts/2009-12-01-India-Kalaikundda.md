@@ -3,7 +3,7 @@ layout: post
 title:  First Visit to India
 description: It's a Work Trip
 headline:  
-categories: personal
+categories: travel
 tags:
   - travelling
 imagefeature: 

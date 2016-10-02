@@ -3,10 +3,11 @@ layout: post
 title: Going to the Zoo
 description: It's been a while since we last visited the zoo.
 headline:
-categories: personal
+categories: places
 tags:
   - dates
   - gallery
+  - places
 imagefeature:
 comments: false
 published: true

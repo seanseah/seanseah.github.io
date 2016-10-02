@@ -2,6 +2,7 @@
 layout: post
 title: pancakes, Guitars and Eggs
 date: '2007-03-15T19:24:00.000+08:00'
+categories: personal
 author: Kaer
 tags:
 - dates

@@ -5,6 +5,8 @@ date: '2007-10-07T17:41:00.000+08:00'
 author: Kaer
 tags:
 - dates
+- shows
+categories: personal
 modified_time: '2007-10-07T21:01:34.507+08:00'
 thumbnail: http://4.bp.blogspot.com/_m5e8Pqc8k3c/Rwir5fRkdfI/AAAAAAAADTk/iE6hPTKSuKQ/s72/deli.jpg
 blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-2360411447931009930

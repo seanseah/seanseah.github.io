@@ -9,7 +9,6 @@ tags:
   - jekyll
 imagefeature:
 comments: false
-featured: true
 published: true
 ---
 

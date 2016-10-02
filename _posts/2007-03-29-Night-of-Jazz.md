@@ -3,7 +3,7 @@ layout: post
 title: Night of Jazz
 description: Celebrating J's Performance
 headline:  
-categories: tech
+categories: personal
 tags:
   - dates
 

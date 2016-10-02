@@ -3,6 +3,7 @@ layout: post
 title: coaching Session
 date: '2009-06-16T22:12:00.001+08:00'
 author: Kaer
+categories: personal
 tags:
 - work
 modified_time: '2009-06-16T22:16:58.048+08:00'

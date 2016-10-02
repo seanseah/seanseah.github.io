@@ -3,8 +3,10 @@ layout: post
 title: in The Whirlwind Of Things
 date: '2007-03-06T19:47:00.000+08:00'
 author: Kaer
+categories: personal
 tags:
-- work
+- school
+- reflections
 modified_time: '2014-07-01T16:38:04.567+08:00'
 thumbnail: http://4.bp.blogspot.com/_m5e8Pqc8k3c/Re1V4k02V0I/AAAAAAAAA8U/sFxs4iP7yEA/s72-c/DSCF0909.JPG
 blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-107940078428940982

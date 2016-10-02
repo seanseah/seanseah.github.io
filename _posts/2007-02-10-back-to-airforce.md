@@ -3,8 +3,8 @@ layout: post
 title: back To Airforce
 date: '2007-02-10T09:24:00.000+08:00'
 author: Kaer
-tags:
-- work
+categories: [personal]
+tags: [work, reflections]
 modified_time: '2014-07-01T16:04:15.496+08:00'
 thumbnail: http://1.bp.blogspot.com/_m5e8Pqc8k3c/RdZeEsG66OI/AAAAAAAAAIU/k7MTMkB2RoE/s72/DSCF0574.JPG
 blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-2416266170497539340

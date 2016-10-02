@@ -3,6 +3,7 @@ layout: post
 title: birds Of The Wild - revisited
 date: '2007-03-17T09:53:00.000+08:00'
 author: Kaer
+categories: places
 tags:
 - places
 - dates

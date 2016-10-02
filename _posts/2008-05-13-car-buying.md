@@ -5,7 +5,8 @@ date: '2008-05-13T11:23:00.008+08:00'
 author: Kaer
 tags:
 - geek
-- dates
+- car
+categories: personal
 modified_time: '2008-05-14T11:25:53.811+08:00'
 thumbnail: http://3.bp.blogspot.com/_m5e8Pqc8k3c/SCpWPqPo0rI/AAAAAAAADsI/GHVyx4eQieM/s72-c/incus_avante.jpg
 blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-5890808168657031328
