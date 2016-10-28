@@ -105,16 +105,23 @@ I am not too keen on splurging a fortune on them.
 
 Recent years have seen a significant adoption of Android / Google related gadgets. My other family members have used Apple and also Microsoft based mobile devices so that has kept me abreast of the scene.
 
+
+My first ever computer was a gift from my father, when I was 12 years old. Before that, I didn't have my computer but had been using them at my cousins and over at friends place. I was a big fan of computer games at that time. Mashing away on a keyboard was pretty entertaining. I especially like [Paperboy](https://archive.org/stream/arcade_paperboy/paperboy.zip?module=paperboy&scale=1&keyboard=arcade) and the Duke Nukem series. 
+
+That first PC was a Pentium 100, with 8mb of RAM. Games were limited but it was great fun. I had no idea why but I kept playing Wing Commander, I guess it was one of those free games. 
+
 ## Gadgets I reviewed
 
 I started [GadgetReactor](http://www.gadgetreactor.com) in 2012 together with Zhaolin to share tech news and my own experiences toying with gadgets I bought. I was impressed by the Barnes & Noble Nook Color and wanted to share my experience with it. We didn't had much gadgets and we focused on sharing tech news at the start.
 
 2012
+
 1. iNo One (ZL)
 2. Nexus 7
 3. Nook Color
 
 2013
+
 1. Google Nexus 4 (ZL)
 2. HTC Butterfly S
 3. TactSlider
@@ -134,6 +141,7 @@ I started [GadgetReactor](http://www.gadgetreactor.com) in 2012 together with Zh
 17. LG G FLex (Event)
 
 2014
+
 1. SGHITECH Pride Non Camera
 2. ASUS Chromebox
 3. SGHITECH Excellence Non Camera
@@ -167,6 +175,7 @@ I started [GadgetReactor](http://www.gadgetreactor.com) in 2012 together with Zh
 32. HTC Desire Eye
 
 2015
+
 1. LG G Flex 2 (Event)
 2. Alienware Laptops (Event)
 3. HP Stream 7
@@ -202,7 +211,9 @@ I started [GadgetReactor](http://www.gadgetreactor.com) in 2012 together with Zh
 
 
 ## Random Stuff
+
 Websites
+
 - Personal
 - ngE Clan
 - Rehabking
@@ -212,6 +223,11 @@ Websites
 - CS2102 Database (NUS) - iTunes Library
 - Geek-Looking-Glass
 - VJC Robotics
++ Share our joy
++ Inspiration Social
++ Windfall Travels
++ Rehab King
++ Diapers n Diapers
 
 Android Codes and some other random stuff
 Financial Expense Tracker
@@ -222,6 +238,7 @@ ShareOurJoy * 3
 Corporate Video for D&D
 
 XBMC Plugins
+
 - GameSaves
 - GameTrailers
 - NowShowing

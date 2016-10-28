@@ -78,7 +78,7 @@ Well, leaving the military was a big decision. Where to next? Studies? Work? The
 </blockquote>
 
 ### 2012 - Start Up Ecosystem
-I found myself plonked into the world of SMEs and Start Ups. Life in SPRING Singapore soon exposed me to a myraid of companies, and the challenges they faced. But I wasn't satisfied. I wanted a bigger challenge.
+I found myself plonked into the world of SMEs and Start Ups. Life in SPRING Singapore soon exposed me to a myraid of companies, and the challenges they faced. But the transition to SPRING aided my journey forward. I wanted a bigger challenge - to be in the eye of the storm.
 
 ### 2014 - Optic2Connect
 I was inspired by Jason and the visions for the company. We had dreams to make it big, but I also know the journey was fraught with risks. We fought for 2 years, but the industry demand wasn't as robust as we envisoned. It was an exciting journey, from networking with investors, closing deals, to striking industry partnerships, it was a highly enriching two years. 
