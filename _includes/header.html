@@ -1,6 +1,6 @@
 <header id="header" class="header bg-white">
     <div class="navbar-container">
-      <a href="/" title="Visit {{site.title }}" class="navbar-logo"> <img src="{{ site.url }}/style/Logo.png" alt="{{ site.title }}"> {{ site.title }} </a>
+      <a href="/" title="Visit {{site.title }}" class="navbar-logo"> <img src="{{ site.url }}/style/logo.png" alt="{{ site.title }}"> {{ site.title }} </a>
         <div class="navbar-menu">
             {% for link in site.links %}             
             <a href="{% unless link.external %}{{ site.url }}{% endunless %}{{ link.url }}">{{ link.name }}</a>
