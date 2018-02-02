@@ -1,0 +1,49 @@
+<div class="post-header-thumb bg-white}">
+  <div class="post-header-thumb-op"> 
+  </div>
+  <div class="post-header-thumb">
+    <div class="post-header-thumb-container">
+    <h1 class="post-title" itemprop="name headline">
+      {{ page.title }}
+    </h1>
+      {% if page.categories %}
+    <div class="post-data">  
+    <time datetime="{{ page.date | date: '%F'}}" itemprop="datePublished">
+      Post Date：{{ page.date | date: "%F"}}
+    </time>
+    <a href="/tags#{{ page.categories }}" title="Visit {{ page.categories }}" data-hover="Category: {{ page.categories }}">
+      Category: {{ page.categories }}
+    </a>
+    </div>
+      {% endif %}
+
+    <div class="post-tags">
+      {% unless page.tags == empty %}
+      {% assign tags_list = page.tags %}
+      {% if tags_list.first[0] == null %}
+      {% for tag in tags_list %} 
+    <a href="/tags#{{ tag }}" title="Visit{{ tag }}" data-hover="{{ tag }}">
+      {{ tag }} 
+      <span>
+        ({{ site.tags[tag].size }})
+      </span>
+      {% unless forloop.last %}{% endunless %}
+    </a>
+      {% endfor %}
+      {% else %}
+      {% for tag in tags_list %} 
+    <a href="/tags#{{ tag[0] }}" title="Visit {{ tag[0] }}" data-hover="{{tag[0]}}">
+      {{ tag[0] }} 
+      <span>
+        ({{ tag[1].size }})
+      </span>
+      {% unless forloop.last %}{% endunless %}
+    </a>
+      {% endfor %}
+      {% endif %}
+      {% assign tags_list = nil %}
+      {% endunless %} 
+  </div>
+</div>
+</div>
+</div>

@@ -1,13 +1,12 @@
----  
-layout: post  
-title:   
+---
+layout: post
+title: ""
 description:  
-headline:  
-categories: Blog  
-tags:  
-  -   
-comments: ture  
-published: true  
----  
+categories: Blog
+background-image: 
+tags:
+    - github  
+    - git  
+---
 
 Start writing...

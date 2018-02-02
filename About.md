@@ -1,15 +1,12 @@
 ---
 layout: page
-permalink: /about/
 title: About Me
-tags:
-image:
-feature:
+description: "About Me"
+permalink: /About/
 ---
 
 <figure>
-  <img src="{{ site.url }}/images/Leah.png">
-  <figcaption>Me</figcaption>
+  <img src="{{ site.url }}/style/Leah.png">
 </figure>
 
 I'm Leah Li.

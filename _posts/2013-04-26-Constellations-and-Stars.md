@@ -1,12 +1,12 @@
 ---
 layout: post  
 title: 星座与星    
-description: 我……穷尽了我的想象力，也实在不知道他们从哪里来，将要到哪里去，亦或是在说着什么。唯一一点确定的是，他们比我遇见的公交车上98%的人都要开心。      
+description: "我……穷尽了我的想象力，也实在不知道他们从哪里来，将要到哪里去，亦或是在说着什么。唯一一点确定的是，他们比我遇见的公交车上98%的人都要开心。"  
 headline: 
 categories: Blog  
 tags: 
   - Life  
-imagefeature:  
+imagefeature: stars.jpg 
 comments: ture  
 published: true  
 ---
