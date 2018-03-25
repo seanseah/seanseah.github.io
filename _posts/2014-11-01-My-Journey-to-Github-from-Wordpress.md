@@ -12,11 +12,21 @@ comments: false
 published: true
 ---
 
-I have decided to set up a personal page on Github, and currently in the midst of migrating my past blog posts over from Blogger. I have been dabbling with computers, web design, python, wordpress, php / mysql, django and the likes, but really just scratching the surface for each of them. This is my first step into the world of Git and also the use of Markdown / Kramdown syntax. 
+I have decided to set up a personal page on Github, and currently in the midst of 
+migrating my past blog posts over from Blogger. I have been dabbling with computers, 
+web design, python, wordpress, php / mysql, django and the likes, but really just 
+scratching the surface for each of them. This is my first step into the world of 
+Git and also the use of Markdown / Kramdown syntax. 
 
 > Learning new things is amazing!
 
-Learning new things can be amazing, but it can be painful too. However, it is rewarding nonetheless. I switched over to Github for a few reasons. Free stuff is always appreciated and Github offers great response / connection across anywhere in the world. Better than the usual web host in fact and I figured it would be a fantastic place to host my website. Next up, Github has always been about a code repository and I have seen so many past work / websites disappear in dust and I didn't want that to happen again. I recently had the same problem with Wordpress as it was a pain to migrate them due to the MySQL databases. However, I have since learned an easier way to do it.
+Learning new things can be amazing, but it can be painful too. However, it is 
+rewarding nonetheless. I switched over to Github for a few reasons. Free stuff 
+is always appreciated and Github offers great response / connection across anywhere 
+in the world. Better than the usual web host in fact and I figured it would be a 
+fantastic place to host my website. Next up, Github has always been about a code 
+repository and I have seen so many past work / websites disappear in dust and I
+didn't want that to happen again. I recently had the same problem with Wordpress as it was a pain to migrate them due to the MySQL databases. However, I have since learned an easier way to do it.
 
 This is not the foolproof way to backup a Wordpress site, but rather it is a quick step to convert a WordPress site to static HTML and CSS. Perhaps more for archiving purposes. This needs a Linux / Unix terminal, and through using a command, called wget. 
 

@@ -89,8 +89,7 @@ I was inspired by Jason and the visions for the company. We had dreams to make i
 ### 2015 - The Little Prince (Tyrant)
 Nothing changes your life as much as being a parent. I always like to spend time by myself, sometimes just spacing out, thinking about nothing. But ever since I became a dad, well, that time is sorely missed. That said, having little Shane is a blessing and tough as it is, I just got to embrace fatherhood with all that I can give.
 
-### Koyo
-
+### 2016 - Koyo
 
 ### 2017 - Goodbye my love Pt 2
-
+It's not easy to say [Goodbye](/personal/Incoming). I hope you would be in a better place.

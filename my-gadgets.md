@@ -228,7 +228,7 @@ Websites
 - Squadron
 - Project BRASIL
 - Travel Website Project
-- CS2102 Database (NUS) - iTunes Library
+- CS2102 Database (NUS) - Cloud Enabled Music Library Player
 - Geek-Looking-Glass
 - VJC Robotics
 + Share our joy
@@ -236,7 +236,12 @@ Websites
 + Windfall Travels
 + Rehab King
 + Diapers n Diapers
++ Moobee
++ Cloud AceProxy
++ Descaro (Downloader)
 
+Deploying OrangeHRM (O2C)
+DJANGO
 Android Codes and some other random stuff
 Financial Expense Tracker
 IFTTT Recipes
