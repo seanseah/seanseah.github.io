@@ -209,6 +209,14 @@ I started [GadgetReactor](http://www.gadgetreactor.com) in 2012 together with Zh
 31. Strix Gaming Gear (Keyboard, Mouse, Mousepad)
 32. Sony Xperia Z3+
 
+2016
+
+2017
+
+
+HTC U Ultra
+. ASUS B9440
+
 
 ## Random Stuff
 

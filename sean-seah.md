@@ -30,13 +30,16 @@ technology.
 Back in 2012, together with Zhaolin, we launched GadgetReactor to capture our 
 thoughts and opinions on the latest technology, especially on the Singapore front. 
 There are many, many noteworthy international tech blogs, but local ones weren't 
-that many. GadgetReactor soon evolved to cover gadgets in all forms, and especially 
-interested in tech that serve to improve life. It was fun. Blogging has brought me new 
-opportunities and allowed me to experience the latest gadgets first hand. Yu Cheng
-has joined the team as well, and adds an insightful perspective especially on mobile
-technology. Along the way, I noticed that the cruel sword of obsolescence spares none,
+that many. GadgetReactor soon evolved to cover gadgets in all forms. It was fun. 
+Blogging has brought me new opportunities and allowed me to experience the latest 
+gadgets first hand. Yu Cheng joined the team in 2016, and added an insightful 
+perspective especially on mobile technology. 
+
+Along the way, I noticed that the cruel sword of obsolescence spares none,
 with many companies falling. The downfall of Nokia is one such example. The lesson 
 from it applies to us as well. We need to stay relevant otherwise we become obsolete.
+Tech blogs are no exception, and the relevancy of the articles are extremely short-
+lived. Interest in specific tech content do not last more than a few months.
 
 On a personal level, I started my own blog back in 2007. I thought this could be quite 
 fun, always wanted to blog but never had much of a life to talk about, and this could 

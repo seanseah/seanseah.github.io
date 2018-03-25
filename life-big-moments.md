@@ -81,11 +81,16 @@ Well, leaving the military was a big decision. Where to next? Studies? Work? The
 I found myself plonked into the world of SMEs and Start Ups. Life in SPRING Singapore soon exposed me to a myraid of companies, and the challenges they faced. But the transition to SPRING aided my journey forward. I wanted a bigger challenge - to be in the eye of the storm.
 
 ### 2014 - Optic2Connect
-I was inspired by Jason and the visions for the company. We had dreams to make it big, but I also know the journey was fraught with risks. We fought for 2 years, but the industry demand wasn't as robust as we envisoned. It was an exciting journey, from networking with investors, closing deals, to striking industry partnerships, it was a highly enriching two years. 
+I was inspired by Jason and the visions for the company. We had dreams to make it big, but I also know the journey was fraught with risks. We fought for 2 years, but the industry demand wasn't as robust as we envisoned. It was an exciting journey, from networking with investors, closing deals, to striking industry partnerships. It was a highly enriching two years and I think the experience landed me my computer-related job years later. 
 
 ### 2014 - Goodbye my love
 [Goodbye my love](/personal/Goodbye-My-Love). A part of me died with you, and I will always miss you, little cookie.
 
 ### 2015 - The Little Prince (Tyrant)
 Nothing changes your life as much as being a parent. I always like to spend time by myself, sometimes just spacing out, thinking about nothing. But ever since I became a dad, well, that time is sorely missed. That said, having little Shane is a blessing and tough as it is, I just got to embrace fatherhood with all that I can give.
+
+### Koyo
+
+
+### 2017 - Goodbye my love Pt 2
 
