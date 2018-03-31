@@ -2,8 +2,7 @@
 layout: post
 title: Yogyakarta
 date: '2013-03-21 05:08'
-author: Kaer
-categories: [personal]
+categories: personal
 tags: [travel]
 ---
 
