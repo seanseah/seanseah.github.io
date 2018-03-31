@@ -1,9 +1,12 @@
 ---
+
 layout: post
 title: Yogyakarta
 date: '2013-03-21 05:08'
 categories: personal
 tags: [travel]
+published: true
+
 ---
 
 
