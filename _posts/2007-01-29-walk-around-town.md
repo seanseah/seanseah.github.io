@@ -11,13 +11,9 @@ blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-48304729177694851
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/02/walk-around-town.html
 ---
 
-Didn't had much to do today, and had the task of 
-returning my library books, so went down esplanade area for a city stroll. 
+I didn't have much to do today, so I had the task of returning my library books and decided to go for a city stroll in the Esplanade area.
 
-Got my guitar strings at Davis too, yes I actually play the guitar. 
-It was one of the few achievements in my JC days - learning to play a number of simple basic chords on the guitar. 
-Never really moved beyond that though, and I do not even dare to call myself 
-an amateur.
+I also got my guitar strings at Davis; yes, I actually play the guitar. It was one of the few achievements from my JC days—learning to play a number of simple basic chords on the guitar. I never really moved beyond that, though, and I don’t even dare to call myself an amateur.
 
 ![](http://1.bp.blogspot.com/_m5e8Pqc8k3c/RcM0LRBODbI/AAAAAAAAAGE/GwrEFx5FTkQ/s800/DSCF0408.jpg)
 ![](http://4.bp.blogspot.com/_m5e8Pqc8k3c/RcM06BBODcI/AAAAAAAAAGM/79YNfB8L16Y/s800/DSCF0409.jpg)

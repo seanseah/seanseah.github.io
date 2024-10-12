@@ -10,24 +10,8 @@ blogger_id: tag:blogger.com,1999:blog-5086583722519664585.post-80434191880311444
 blogger_orig_url: http://geek-looking-glass.blogspot.com/2007/01/first-visit-to-conservatory.html
 ---
 
-Being the typical geek - outdoor gardens are probably the last place 
-I would visit. That's the amazing thing about having a significant other - you 
-take new challenges. Have not stepped into the Yong Siew Toh Conservatory of 
-Music before, even at its previous location which was quite near to 
-Engineering. At least I managed to squeeze in a visit in this 4 university 
-years. 
+Being the typical geek, outdoor gardens are probably the last place I would choose to visit. However, that's the wonderful thing about having a significant other—you embrace new challenges. I had never set foot in the Yong Siew Toh Conservatory of Music before, even at its previous location, which was quite close to the Engineering faculty. At least I managed to fit in a visit during my four years at university.
 
-I went to watch a concert / senior recital by Kathleen, It was quite an 
-interesting experience. I wasn't very into the music, and it was quite boring 
-at times, perhaps even dozing off and falling asleep. I hope I wasn't snoring! 
-Also at the end of every piece, I belonged to the group not knowing whether 
-the piece was over or it was just an interlude. I had to wait till others 
-start clapping before I join in. Better not embarrass myself!
+I attended a concert/senior recital by Kathleen, and it turned out to be quite an intriguing experience. While I wasn't particularly engaged with the music, and at times found it rather dull, I did catch myself dozing off. I hope I wasn't snoring! At the end of each piece, I often found myself in the awkward position of not knowing whether the performance had concluded or if it was merely an interlude. I had to wait for others to start clapping before I joined in—better safe than sorry!
 
-Some of the pieces were quite interesting, some were rather technical, and it 
-was funny to see how current guitarists incorporate some of these music 
-sequences / scales / however you should call them. One of the interesting 
-things she did was the finger plucking / snapping rather than the use of the 
-bow? I guess its one of those novel techniques that violinists do, to impress 
-the crowd perhaps, and as experimental as they would get.It's probably akin to using the tongue to 
-pick the guitar. Those crazy metal guitarists.
+Some of the pieces were genuinely interesting, while others leaned toward the technical side. It was fascinating to observe how contemporary guitarists incorporate various musical sequences or scales—whatever you might call them. One particularly captivating technique she employed was finger plucking and snapping instead of using a bow. I suppose it's one of those innovative methods that violinists use to impress their audience, pushing the boundaries of experimentation. It’s somewhat akin to using the tongue to pick the guitar, much like those adventurous metal guitarists!

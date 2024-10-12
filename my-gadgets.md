@@ -17,13 +17,14 @@ I am not too keen on splurging a fortune on them.
 #### Guitars
 + Guitar 1: Peavey Something ...
 + Guitar 2: A black Yamaha RG Axe that I sandpapered and spray painted metallic silver
-+ Guitar 3: Slash Custom Snake Guitar is a guitar I will buy one day ...
++ Guitar 3: Slash Custom Snake Guitar that caught my eye when I started my guitar journey ...
 
 #### Consoles
 + Nintendo Entertainment System
 + Sega Game Gear
 + XBOX
 + XBOX 360 w/ Kinect
++ XBOX Series S
 
 #### Phones
 + Sony Ericsson T68i
@@ -39,12 +40,17 @@ I am not too keen on splurging a fortune on them.
 + Samsung Galaxy S7 Edge
 + Redmi 1
 + Asus Zenfone 2 Zoom
++ HTC U Ultra
++ Xiaomi Mi 9
++ Realme GT Neo
++ Google Pixel 7a
 
 #### Tablets
 + Nook Color
 + Nexus 7 2012
 + iPad 2
 + HP Stream 7
++ Lenovo Xiaoxin Pad 2022
 
 #### Media Players
 + iPod Mini 8GB
@@ -52,16 +58,15 @@ I am not too keen on splurging a fortune on them.
 + Veolo 4K
 + Tronsmart MK908
 + Chromecast
++ Chromecast with Google TV
 
 #### PC
 
 + Pentium 100
   + 8mb RAM
   + 1.6 GB HDD
-  + 6XCDROM
 
 + Celeron 333
-  + Celeron 333
   + Riva TNT
   + 256mb RAM
 
@@ -74,21 +79,22 @@ I am not too keen on splurging a fortune on them.
 + AMD Phenom II X2 550
   + Biostar TA790GXE
   + Palit GTX 460
-  + Dell U2312HM
-  + LG 42" TV
 
 + AMD X3 440
-  + Biostar A780L3G
-  + NVIDIA
 
-+ Fujitsu S6300 ?
++ Fujitsu S6300
   + Intel Centrino
   + 512MB RAM
 
-+ HP Mini (hackintosh)
++ HP Mini
 
 + Asus Chromebox
-+ Canon Pixma MG3170
+
++ Asus ROG Laptop
+
++ Chuwi Hi10Pro
+
++ Dell G3
 
 
 #### Cameras
@@ -103,12 +109,11 @@ I am not too keen on splurging a fortune on them.
 + Activa Band
 + Fitbit
 
-Recent years have seen a significant adoption of Android / Google related gadgets. My other family members have used Apple and also Microsoft based mobile devices so that has kept me abreast of the scene.
+Recent years have seen a significant adoption of Android / Google related gadgets. My other family members have used Apple and also Microsoft based mobile devices and that allows me to play around with those gadgets too.
 
+My first ever computer was a gift from my father, when I was 12 years old. Before that, I didn't have my own computer but had exposure to computers through those at my cousins' or friends' place. I was a big fan of computer games at that time. Mashing away on a keyboard was pretty entertaining. I especially like [Paperboy](https://archive.org/stream/arcade_paperboy/paperboy.zip?module=paperboy&scale=1&keyboard=arcade) and the Duke Nukem series. 
 
-My first ever computer was a gift from my father, when I was 12 years old. Before that, I didn't have my computer but had been using them at my cousins and over at friends place. I was a big fan of computer games at that time. Mashing away on a keyboard was pretty entertaining. I especially like [Paperboy](https://archive.org/stream/arcade_paperboy/paperboy.zip?module=paperboy&scale=1&keyboard=arcade) and the Duke Nukem series. 
-
-That first PC was a Pentium 100, with 8mb of RAM. Games were limited but it was great fun. I had no idea why but I kept playing Wing Commander, I guess it was one of those free games. 
+I recall my first PC was a Pentium 100, with 8mb of RAM. Games were limited but it was great fun. I had no idea why but I kept playing Wing Commander, I guess it was one of those free games that came with the purchase. 
 
 ## Gadgets I reviewed
 
@@ -208,19 +213,78 @@ I started [GadgetReactor](http://www.gadgetreactor.com) in 2012 together with Zh
 30. ADATA PV150 Battery Pack
 31. Strix Gaming Gear (Keyboard, Mouse, Mousepad)
 32. Sony Xperia Z3+
+33. ASUS ROG G501
 
 2016
 
+34. B&O H3 ANC
+35. Zenfone Zoom
+36. Dir 885L
+37. Hello Kitty Grace Laptop
+38. Kodak CFH-V15 IP Camera
+39. ZUS Smart Car Charge
+40. ASUS ROG G752 Gaming Laptop
+41. Gateman WF10 Digital Lock
+42. Sudio Vasa Bla
+43. Klikr Remote
+44. Asus Zenwatch 2
+45. ROG Spatha
+46. ErgoSilver Laptop Stand
+47. Orange Pi
+48. LG V20
+49. D-Link DAP 1860
+50. ASUS RECO Smart Dash Camera
+51. ASUS USB-AC68 AC1900 WiFi Adapter
+52. Sony Xperia XZ
+53. Samsung Gear S3
+54. HTC U Ultra
+55. Sudio Regent
+56. Probox2 Air Android 6.0 TV Box
+
 2017
 
+57. ASUS Zenpad 3
+58. Logitech Create Keyboard for iPad Pro
+59. TP-Link C5400 Archer Router
+60. Zhiyun Smooth Q
+61. Gatekeeper
+62. LG G6
+63. Chuwi Hi10Pro
+64. Zenbook 3 UX390A
+65. D-Link DAP1720
+66. Google WiFi
+67. Logitech M585
+68. Asus B9440 
 
-HTC U Ultra
-. ASUS B9440
+2018
 
+69. ASUS ROG Strix GL702ZC
+70. Sudio Niva
+71. Dell G3
+
+2019
+
+72. Mopidy
+
+2020
+
+73. Sudio Fem
+74. Sudio Ett – ANC Earbuds
+75. Samsung S20 Ultra
+
+2021
+
+76. Gemini Mouse
+77. Sony WH-1000XM4
+78. Samsung Galaxy M22
+
+2023
+
+78. Google Pixel 7A
 
 ## Random Stuff
 
-Websites
+### Websites ###
 
 - Personal
 - ngE Clan
@@ -239,45 +303,19 @@ Websites
 + Moobee
 + Cloud AceProxy
 + Descaro (Downloader)
-
-Deploying OrangeHRM (O2C)
-DJANGO
-Android Codes and some other random stuff
-Financial Expense Tracker
-IFTTT Recipes
-Holeeday
-MK908 Cooling Hack
-ShareOurJoy * 3
-Corporate Video for D&D
-
-XBMC Plugins
++ pyLoad
++ OrangeHRM (O2C)
++ DJANGO SP Project
++ Financial Expense Tracker
++ Holeeday
++ Financial / Personal Dashboard
++ Corporate videos
++ Server Monitor Dashboard 
+ 
+### XBMC Plugins ###
 
 - GameSaves
 - GameTrailers
 - NowShowing
 - sg!Radio
 - sg!TV
-
-Clan ngE - It was started by my secondary school friend as we were the only two in the school playing Unreal 
-Tournament. There were only four of us, my school mate's brother and a rookie who was an endearing 12 year old - 
-Psymasta. We were a small social group and when I started playing more competitively, we disbanded and I joined 
-one of the bigger clans in Singapore. Now I was known online as Kaer[X3M] - and since I was still on 56k dial up 
-connection, my ping connection was usually in the range of 150-250, which was still substantial lag for a 
-fast-paced first person shooter. Yet, I handled myself pretty well online and was known as one of the better 
-56k players. It was also around that time when I took part in my first gaming competition. Adapting to gameplay 
-without lag was a strange experience. UnrealTournament was quite big in Singapore, albeit perhaps smaller than 
-Quake but it was still a nice, sizeable community. There were about 30 teams, and we made it to the last 8, before 
-being eliminated.
-
-When I finally made the upgrade over to broadband, I saw a marked improvement in my gameplay. Over time, my skills 
-improved and I continued to participate in the clan activities although it coincided with my 'O' levels. I still 
-remember playing UT on the night before my O level exams. Once the exams were out of the way, there were a couple 
-of LAN gmaing competitions and I think the best result was in the SAFRA gaming competition as well as one organised 
-at Cathay Cineleisure.
-
-## Routers
-
-+ Linksys WRT54G (DD-WRT)
-+ 2Wire Modem (Singtel)
-+ Dlink 865L (stock firmware but Tomato upgrade coming soon)
-

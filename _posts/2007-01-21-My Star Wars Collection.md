@@ -9,9 +9,9 @@ imagefeature: rebelscum.jpg
 comments: true
 mathjax: null
 ---
-Star Wars are made for geeks. Geeks love Star Wars. I'm no exception either. Star Wars was my favourite movie growing up - and it still is.
+Star Wars is made for geeks. Geeks love Star Wars, and I'm no exception. Star Wars was my favorite movie growing up, and it still is.
 
-A mystical force, telekinetic capabilities and duels with lightsabers were way too cool and I was a moth drawn to a flame. I grew up on hand me down Star Wars figures from my cousins, and I had grown up watching the original Star Wars trilogy multiple times, either on VHS tapes or replays on Channel 5. I was around 12-13 when the Phantom Menace was released. Honestly, that first movie, The Phantom Menace, kind of sucked. But I still recalled watching it twice. I think the first time was with my dad on Opening Day, followed a second time with friends. Despite the inferior story telling in the prequel, there were still parts to be cheered about, such as Darth Maul and the awesome soundtrack. In addition, the final lightsaber duel between Darth Maul and Qui-Gon Jinn / Obi-wan Kenobi was beautifully choreographed. There was also Natalie Portman as Princess Amidala.
+A mystical force, telekinetic capabilities, and duels with lightsabers were way too cool, and I was a moth drawn to a flame. I grew up on hand-me-down Star Wars figures from my cousins and watched the original Star Wars trilogy multiple times, either on VHS tapes or replays on Channel 5. I was around 12 or 13 when The Phantom Menace was released. Honestly, that first movie, The Phantom Menace, kind of sucked. But I still recall watching it twice: the first time with my dad on Opening Day and the second time with friends. Despite the inferior storytelling in the prequel, there were still parts to cheer about, such as Darth Maul and the awesome soundtrack. In addition, the final lightsaber duel between Darth Maul and Qui-Gon Jinn / Obi-Wan Kenobi was beautifully choreographed. There was also Natalie Portman as Princess Amidala.
 
 That also introduced me to the expanded Star Wars Universe - new stories and new arcs. The books, the games, and the comics. Though my main interest was with the books.
 
