@@ -27,11 +27,11 @@ technology.
 
 *All sorts. Gadgets. Phones. Computers. Wearables.*
 
-Back in 2012, together with Zhaolin, we launched GadgetReactor to capture our 
+Back in 2012, together with Zhaolin, we started GadgetReactor to capture our 
 thoughts and opinions on the latest technology, especially on the Singapore front. 
 There are many, many noteworthy international tech blogs, but local ones weren't 
 that many. GadgetReactor soon evolved to cover gadgets in all forms. It was fun. 
-Blogging has brought me new opportunities and allowed me to experience the latest 
+Blogging brought me new opportunities and allowed me to experience the latest 
 gadgets first hand. Yu Cheng joined the team in 2016, and added an insightful 
 perspective especially on mobile technology. 
 
