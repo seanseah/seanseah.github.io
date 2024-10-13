@@ -103,3 +103,5 @@ It's not easy to say [Goodbye](/personal/Incoming). I hope you would be in a bet
 
 ### 2018 - The Little Princess 
 Two is better than one. 
+
+### 2020 - Passing OSCP!
